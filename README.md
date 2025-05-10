@@ -1,7 +1,7 @@
 # Financial-Performance-Intelligence
 
-Financial Performance Intelligence Dashboard
 About
+
 In this project, I built a comprehensive Financial Performance Intelligence Dashboard to help decision-makers easily monitor and understand the financial health of a business. The dashboard brings together key financial metrics and makes it simple to explore performance across different regions, product categories, customer segments, and payment methods.
 Why I Created This Dashboard
 Businesses generate massive volumes of transaction data, but raw numbers can only tell you so much. I wanted to turn this data into meaningful insights that anyone—from senior management to operational teams—could understand at a glance. The idea was to develop a tool that not only displays financial KPIs but also reveals patterns and outliers that could drive better business decisions.
