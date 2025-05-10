@@ -1,0 +1,1001 @@
+Transaction_ID,Date,Customer_ID,Customer_Segment,Region,Country,Product_Category,Product_Name,Units_Sold,Unit_Price,Revenue,Cost,Profit,Payment_Method,Invoice_Status,Discount_Applied (%),Tax (%),Net_Profit,Sales_Rep
+TXN00001,13-04-2023,CUST1860,SMB,East,Germany,Electronics,Smartphone,7,228.46,1599.22,1007.5,591.72,Net Banking,Paid,12.02,14.2,446.67,Frank
+TXN00002,05-11-2023,CUST1769,Enterprise,West,USA,Furniture,Table,1,159.08,159.08,120.49,38.59,Wallet,Paid,5.82,12.95,31.64,Bob
+TXN00003,07-07-2023,CUST1189,Corporate,East,USA,Office Supplies,Envelope,3,431.37,1294.11,1040.58,253.53,Credit Card,Overdue,0.27,17.25,209.23,Frank
+TXN00004,30-08-2023,CUST8513,Consumer,South,Germany,Office Supplies,Envelope,7,308.9,2162.3,1837.87,324.43,Net Banking,Pending,7.82,7.37,277.02,Diana
+TXN00005,02-01-2023,CUST2021,Corporate,South,USA,Furniture,Chair,18,389.82,7016.76,6187.73,829.03,Wallet,Pending,14.55,9.25,642.88,Frank
+TXN00006,03-08-2023,CUST2016,Corporate,West,India,Electronics,Laptop,15,416.08,6241.2,4412.69,1828.51,Wallet,Paid,2.82,15.43,1502.76,Alice
+TXN00007,11-12-2023,CUST9006,Consumer,West,India,Office Supplies,Stapler,19,356.36,6770.84,5543.3,1227.54,Credit Card,Overdue,1.48,9.66,1092.55,Alice
+TXN00008,28-01-2023,CUST7278,Consumer,West,Germany,Furniture,Chair,16,191.7,3067.2,2455.76,611.44,Cash,Overdue,11.83,8.57,492.91,Charlie
+TXN00009,15-08-2023,CUST9110,Corporate,East,India,Electronics,Laptop,14,251.96,3527.44,2669.64,857.8,UPI,Pending,8.79,7.62,722.78,Alice
+TXN00010,21-02-2023,CUST6116,Enterprise,West,USA,Electronics,Tablet,7,211.09,1477.63,1221.51,256.12,Wallet,Paid,1.54,8.77,230.06,Frank
+TXN00011,11-10-2023,CUST3693,Enterprise,West,Germany,Furniture,Table,11,168.93,1858.23,1183,675.23,Credit Card,Overdue,18.14,8.54,505.54,Charlie
+TXN00012,01-05-2023,CUST6864,SMB,East,USA,Office Supplies,Pen,5,349.29,1746.45,1189.02,557.43,Net Banking,Pending,4.38,12.26,467.67,Diana
+TXN00013,23-04-2023,CUST2853,Consumer,South,Germany,Furniture,Cabinet,2,359.01,718.02,462.71,255.31,Credit Card,Overdue,12.19,11.53,198.34,Frank
+TXN00014,09-12-2023,CUST9164,Enterprise,North,India,Office Supplies,Notebook,2,270.16,540.32,396.78,143.54,Wallet,Overdue,15.23,8.09,111.84,Frank
+TXN00015,07-10-2023,CUST9004,Enterprise,South,USA,Furniture,Cabinet,16,401.19,6419.04,4141.66,2277.38,Net Banking,Pending,13.92,16.16,1643.57,Diana
+TXN00016,12-12-2023,CUST2986,SMB,East,Germany,Office Supplies,Envelope,9,348.56,3137.04,2246.19,890.85,UPI,Paid,13.51,14.56,658.31,Bob
+TXN00017,31-05-2023,CUST6534,Corporate,South,UK,Office Supplies,Envelope,16,410.44,6567.04,5034.03,1533.01,Wallet,Paid,4.84,6.21,1368.22,Diana
+TXN00018,06-02-2023,CUST8158,Consumer,North,UK,Office Supplies,Envelope,16,449.58,7193.28,6230.29,962.99,Credit Card,Overdue,18.71,15.21,663.75,Diana
+TXN00019,11-09-2023,CUST3557,Consumer,East,India,Electronics,Laptop,14,278.88,3904.32,3153.01,751.31,Cash,Paid,3.52,5.23,686.95,Frank
+TXN00020,04-10-2023,CUST5911,Enterprise,West,Germany,Office Supplies,Stapler,17,160.95,2736.15,2087.03,649.12,Net Banking,Overdue,12.73,8.26,519.7,Frank
+TXN00021,07-02-2023,CUST4436,SMB,South,Germany,Office Supplies,Stapler,2,181.54,363.08,288.12,74.96,Credit Card,Paid,4.6,11.49,63.3,Diana
+TXN00022,04-02-2023,CUST8679,Consumer,West,Germany,Furniture,Chair,14,458.28,6415.92,4562.02,1853.9,Credit Card,Paid,18.57,10.57,1350.06,Eve
+TXN00023,05-04-2023,CUST4170,Enterprise,North,Germany,Office Supplies,Pen,1,165.29,165.29,107.58,57.71,Credit Card,Pending,18.72,14.05,40.32,Frank
+TXN00024,07-10-2023,CUST8455,SMB,South,UK,Furniture,Cabinet,10,439.91,4399.1,3617.07,782.03,Credit Card,Paid,14.05,9.67,607.16,Eve
+TXN00025,19-06-2023,CUST3806,Corporate,East,USA,Electronics,Smartwatch,13,49.98,649.74,390.85,258.89,Wallet,Paid,3.89,5.92,234.09,Frank
+TXN00026,22-05-2023,CUST7002,SMB,East,Germany,Furniture,Table,19,238.14,4524.66,3451.38,1073.28,Cash,Pending,11.82,5.4,895.31,Diana
+TXN00027,19-06-2023,CUST4854,Corporate,East,Germany,Electronics,Smartphone,8,387.3,3098.4,2059.65,1038.75,Cash,Overdue,1.71,5.67,963.1,Diana
+TXN00028,16-12-2023,CUST5142,SMB,East,Germany,Electronics,Laptop,10,168.25,1682.5,1410.87,271.63,Net Banking,Pending,1.57,5.33,253.11,Eve
+TXN00029,14-11-2023,CUST3838,SMB,North,Germany,Electronics,Smartphone,1,226.75,226.75,152.36,74.39,Credit Card,Paid,5.6,17.41,58,Eve
+TXN00030,05-10-2023,CUST8004,SMB,East,Germany,Furniture,Desk,19,381.34,7245.46,4378.56,2866.9,Wallet,Paid,1.88,9.05,2558.43,Frank
+TXN00031,23-07-2023,CUST7617,Enterprise,North,UK,Electronics,Laptop,5,205.27,1026.35,805.43,220.92,Cash,Pending,5.22,5.2,198.5,Charlie
+TXN00032,06-04-2023,CUST5611,Enterprise,West,Germany,Office Supplies,Notebook,17,434.93,7393.81,5847.92,1545.89,Wallet,Pending,11.47,6.67,1277.29,Eve
+TXN00033,28-06-2023,CUST6732,Enterprise,East,India,Electronics,Smartwatch,10,111.28,1112.8,759.14,353.66,Wallet,Overdue,7.55,5.51,308.94,Bob
+TXN00034,04-02-2023,CUST9967,Consumer,South,USA,Furniture,Table,2,137.74,275.48,206.28,69.2,UPI,Paid,6.97,17.18,53.32,Diana
+TXN00035,05-08-2023,CUST8164,Consumer,West,USA,Electronics,Smartphone,3,495.35,1486.05,1075.58,410.47,UPI,Paid,15.53,9.43,314.03,Frank
+TXN00036,12-08-2023,CUST4440,SMB,North,UK,Electronics,Tablet,9,195.09,1755.81,1334.94,420.87,Wallet,Paid,6.4,16.64,328.38,Alice
+TXN00037,10-04-2023,CUST1395,Consumer,North,UK,Electronics,Tablet,14,341.62,4782.68,3561.93,1220.75,UPI,Overdue,1.67,6.19,1126.06,Diana
+TXN00038,25-01-2023,CUST6588,Enterprise,North,UK,Electronics,Tablet,13,466.16,6060.08,5407.25,652.83,UPI,Paid,14.74,12.1,489.25,Charlie
+TXN00039,26-05-2023,CUST5846,Enterprise,North,USA,Furniture,Desk,17,59.55,1012.35,632.95,379.4,Cash,Pending,7.93,16.59,291.36,Bob
+TXN00040,05-01-2023,CUST7172,Consumer,South,UK,Electronics,Smartphone,17,474.15,8060.55,7220.64,839.91,Wallet,Pending,14.16,11.26,639.8,Diana
+TXN00041,01-07-2023,CUST5186,Corporate,South,UK,Office Supplies,Notebook,3,134.3,402.9,290.72,112.18,UPI,Paid,16.46,14.67,79.97,Charlie
+TXN00042,14-12-2023,CUST1504,SMB,West,India,Electronics,Smartwatch,1,119.56,119.56,106.28,13.28,Wallet,Paid,19.4,5.56,10.11,Eve
+TXN00043,21-03-2023,CUST6348,Enterprise,East,UK,Electronics,Laptop,15,318.41,4776.15,3862.59,913.56,Credit Card,Paid,13.94,9.99,707.67,Alice
+TXN00044,12-01-2023,CUST2353,Enterprise,West,Germany,Furniture,Desk,8,93.14,745.12,591.67,153.45,UPI,Pending,5.32,9.68,131.22,Diana
+TXN00045,11-07-2023,CUST7042,Corporate,East,India,Electronics,Smartphone,13,345.52,4491.76,2914.19,1577.57,Net Banking,Paid,18.81,10.42,1147.37,Eve
+TXN00046,30-10-2023,CUST1009,Enterprise,South,USA,Office Supplies,Pen,5,22.92,114.6,81.7,32.9,Credit Card,Pending,19.75,6.96,24.56,Eve
+TXN00047,09-10-2023,CUST5158,Consumer,South,UK,Office Supplies,Pen,13,41.12,534.56,326.64,207.92,Credit Card,Paid,1.13,16.24,172.19,Alice
+TXN00048,16-07-2023,CUST6989,SMB,North,UK,Electronics,Smartphone,5,380.97,1904.85,1358.83,546.02,Cash,Pending,4.1,8.27,480.33,Eve
+TXN00049,24-07-2023,CUST8939,Corporate,North,India,Furniture,Desk,8,20.87,166.96,125.13,41.83,Net Banking,Overdue,6.16,15.61,33.13,Diana
+TXN00050,10-08-2023,CUST5858,Consumer,North,Germany,Office Supplies,Stapler,15,394.49,5917.35,4685.41,1231.94,Net Banking,Overdue,18.06,13.02,878.02,Bob
+TXN00051,21-10-2023,CUST7241,Corporate,South,UK,Office Supplies,Stapler,2,180.65,361.3,272.49,88.81,Wallet,Pending,12.44,16.21,65.16,Eve
+TXN00052,12-10-2023,CUST8043,Corporate,West,India,Furniture,Chair,5,490.22,2451.1,1832.9,618.2,Cash,Pending,12.67,8.12,496.04,Charlie
+TXN00053,21-04-2023,CUST1760,SMB,East,Germany,Office Supplies,Stapler,16,324.03,5184.48,3393.57,1790.91,Credit Card,Overdue,17.49,11.7,1304.79,Bob
+TXN00054,02-03-2023,CUST7777,SMB,East,India,Electronics,Laptop,10,96.74,967.4,606.18,361.22,Credit Card,Paid,9.22,7.68,302.73,Bob
+TXN00055,19-03-2023,CUST8240,Corporate,North,UK,Electronics,Laptop,15,260.71,3910.65,2530.56,1380.09,Cash,Paid,5.54,15.48,1101.83,Alice
+TXN00056,21-12-2023,CUST2276,Enterprise,East,UK,Office Supplies,Envelope,14,312.94,4381.16,3113.58,1267.58,UPI,Paid,1.25,6.92,1165.12,Charlie
+TXN00057,07-01-2023,CUST6122,SMB,East,USA,Office Supplies,Stapler,13,434.94,5654.22,3993.26,1660.96,Net Banking,Overdue,2.1,14.59,1388.83,Diana
+TXN00058,21-07-2023,CUST2062,Consumer,North,UK,Furniture,Table,12,124.28,1491.36,1048.24,443.12,Credit Card,Pending,15.78,11.48,330.35,Diana
+TXN00059,21-04-2023,CUST8943,Enterprise,North,Germany,Office Supplies,Notebook,9,175.35,1578.15,1372.82,205.33,UPI,Overdue,7.12,17.82,156.73,Eve
+TXN00060,16-10-2023,CUST2460,Corporate,North,USA,Furniture,Cabinet,16,88.73,1419.68,931.27,488.41,Credit Card,Overdue,1.03,5.24,458.05,Eve
+TXN00061,05-02-2023,CUST6342,Corporate,South,Germany,Office Supplies,Envelope,15,410.37,6155.55,4169.59,1985.96,Net Banking,Pending,18.59,12.24,1418.88,Bob
+TXN00062,22-06-2023,CUST7469,Corporate,South,Germany,Office Supplies,Envelope,1,370.76,370.76,281.39,89.37,Credit Card,Pending,15.36,6.13,71.01,Frank
+TXN00063,19-05-2023,CUST7988,SMB,East,India,Furniture,Table,10,278.82,2788.2,2132.07,656.13,UPI,Paid,13.69,6.14,531.53,Eve
+TXN00064,25-11-2023,CUST3832,Consumer,East,UK,Furniture,Cabinet,3,180.95,542.85,477.09,65.76,Wallet,Pending,2.49,14.5,54.82,Alice
+TXN00065,17-03-2023,CUST9162,SMB,North,Germany,Furniture,Desk,8,415.69,3325.52,2744.05,581.47,Wallet,Pending,16.5,7.42,449.5,Charlie
+TXN00066,19-03-2023,CUST8577,Corporate,West,India,Electronics,Laptop,18,410.13,7382.34,5401.96,1980.38,Net Banking,Paid,6.03,14.72,1587.03,Alice
+TXN00067,02-06-2023,CUST3192,Consumer,East,UK,Furniture,Table,8,122.22,977.76,745.89,231.87,Net Banking,Overdue,14.61,14.02,170.24,Diana
+TXN00068,15-01-2023,CUST6742,Consumer,North,Germany,Furniture,Cabinet,4,498.87,1995.48,1647.71,347.77,Cash,Paid,15.57,6.86,273.48,Diana
+TXN00069,27-03-2023,CUST5612,SMB,South,India,Furniture,Table,13,64.21,834.73,712.81,121.92,Wallet,Overdue,15.95,6.95,95.35,Diana
+TXN00070,28-11-2023,CUST4756,Corporate,East,UK,Office Supplies,Stapler,4,275.93,1103.72,745.61,358.11,Cash,Overdue,19.18,9.45,262.07,Frank
+TXN00071,19-07-2023,CUST7166,SMB,South,USA,Office Supplies,Envelope,13,78.17,1016.21,640.45,375.76,Credit Card,Overdue,14.52,12.71,280.38,Diana
+TXN00072,22-12-2023,CUST4876,Enterprise,East,USA,Electronics,Smartwatch,9,217.82,1960.38,1609.34,351.04,Credit Card,Pending,18.21,6.6,268.17,Eve
+TXN00073,12-12-2023,CUST2645,Enterprise,South,UK,Electronics,Smartphone,19,299.72,5694.68,4098.47,1596.21,Credit Card,Paid,6.7,15.44,1259.32,Eve
+TXN00074,03-06-2023,CUST8970,SMB,West,India,Furniture,Cabinet,6,179.71,1078.26,759.19,319.07,UPI,Overdue,9.04,7.92,267.24,Diana
+TXN00075,08-09-2023,CUST2205,Enterprise,North,UK,Furniture,Chair,1,187.57,187.57,145.21,42.36,UPI,Pending,13.27,7.31,34.05,Diana
+TXN00076,27-12-2023,CUST1688,Enterprise,South,USA,Office Supplies,Pen,8,256.08,2048.64,1595.1,453.54,Cash,Pending,15,7.73,355.71,Charlie
+TXN00077,14-11-2023,CUST3079,Corporate,North,India,Electronics,Smartphone,16,286.77,4588.32,2843.44,1744.88,Net Banking,Overdue,10.55,11.95,1374.28,Alice
+TXN00078,24-04-2023,CUST6797,SMB,East,Germany,Electronics,Smartwatch,7,379.09,2653.63,1808.95,844.68,Net Banking,Pending,10.53,15.41,639.28,Diana
+TXN00079,15-10-2023,CUST4462,Consumer,West,India,Electronics,Tablet,3,123.23,369.69,296.33,73.36,Cash,Pending,6.79,12.4,59.9,Charlie
+TXN00080,07-04-2023,CUST4675,SMB,West,USA,Office Supplies,Envelope,14,305.57,4277.98,3602.29,675.69,Wallet,Paid,2.82,10.28,589.13,Bob
+TXN00081,07-01-2023,CUST5425,SMB,North,UK,Electronics,Tablet,16,98.9,1582.4,1226.22,356.18,Wallet,Pending,17.85,15.63,246.87,Diana
+TXN00082,11-01-2023,CUST5841,SMB,South,UK,Office Supplies,Stapler,12,417.02,5004.24,3520.77,1483.47,Credit Card,Pending,17.22,7.85,1131.62,Bob
+TXN00083,08-12-2023,CUST2387,Enterprise,North,USA,Furniture,Desk,14,240.82,3371.48,2207.08,1164.4,UPI,Overdue,10.25,14.64,892.05,Bob
+TXN00084,25-08-2023,CUST2304,SMB,North,USA,Furniture,Cabinet,14,492.36,6893.04,5222.91,1670.13,Cash,Pending,5.45,5.24,1496.36,Bob
+TXN00085,08-05-2023,CUST6475,Consumer,South,USA,Electronics,Smartphone,6,416.57,2499.42,1654.43,844.99,UPI,Pending,2.74,16.7,684.59,Frank
+TXN00086,07-08-2023,CUST5263,Corporate,West,India,Electronics,Smartphone,7,290.91,2036.37,1733.83,302.54,Cash,Pending,10.38,5.61,255.93,Diana
+TXN00087,06-11-2023,CUST2386,Consumer,East,India,Office Supplies,Notebook,11,151.46,1666.06,1177.41,488.65,Credit Card,Overdue,5.94,12.36,402.81,Bob
+TXN00088,24-02-2023,CUST7766,Enterprise,South,USA,Electronics,Smartwatch,1,142.26,142.26,108.4,33.86,Net Banking,Overdue,16.83,16,23.66,Charlie
+TXN00089,31-12-2023,CUST7122,Corporate,North,USA,Furniture,Chair,9,46.82,421.38,344.88,76.5,Credit Card,Paid,13.77,10.65,58.94,Charlie
+TXN00090,11-05-2023,CUST2252,Enterprise,West,UK,Furniture,Table,2,60.52,121.04,84.05,36.99,Net Banking,Overdue,19.24,15.27,25.31,Alice
+TXN00091,07-11-2023,CUST8982,Enterprise,South,Germany,Office Supplies,Envelope,17,332.8,5657.6,4569.55,1088.05,Credit Card,Pending,9.79,7.88,904.19,Bob
+TXN00092,31-12-2023,CUST9238,Enterprise,South,Germany,Office Supplies,Pen,7,26.63,186.41,150.85,35.56,Credit Card,Overdue,18.49,17.62,23.88,Eve
+TXN00093,23-03-2023,CUST4294,Corporate,West,UK,Office Supplies,Notebook,10,325.83,3258.3,2590.51,667.79,Net Banking,Paid,1.54,14.05,565.13,Bob
+TXN00094,02-07-2023,CUST8126,Enterprise,East,UK,Electronics,Smartwatch,13,316.69,4116.97,3564.45,552.52,UPI,Pending,8.35,11.01,450.63,Bob
+TXN00095,08-09-2023,CUST4810,SMB,East,USA,Electronics,Laptop,17,206.95,3518.15,2617.37,900.78,Credit Card,Overdue,7.97,6.19,777.67,Diana
+TXN00096,06-03-2023,CUST4760,SMB,North,USA,Furniture,Table,4,360.62,1442.48,1120.42,322.06,Credit Card,Paid,19.75,10.56,231.16,Alice
+TXN00097,10-12-2023,CUST2828,Consumer,North,UK,Furniture,Cabinet,14,304.39,4261.46,3712.23,549.23,UPI,Paid,14.87,5.84,440.25,Diana
+TXN00098,15-12-2023,CUST6429,Consumer,East,India,Furniture,Table,11,96.5,1061.5,707.11,354.39,Credit Card,Pending,15.59,9.55,270.57,Eve
+TXN00099,23-02-2023,CUST8214,SMB,North,India,Office Supplies,Envelope,17,95.21,1618.57,1163.55,455.02,UPI,Pending,13.92,7,364.26,Charlie
+TXN00100,26-09-2023,CUST8287,Consumer,East,India,Electronics,Smartwatch,14,431.46,6040.44,4453.19,1587.25,Net Banking,Overdue,2.59,16.55,1290.25,Alice
+TXN00101,14-08-2023,CUST1954,Corporate,West,Germany,Office Supplies,Notebook,8,350.9,2807.2,1725.4,1081.8,UPI,Pending,19.24,6.42,817.57,Diana
+TXN00102,22-03-2023,CUST6233,Enterprise,North,Germany,Furniture,Chair,19,414.09,7867.71,5541.56,2326.15,UPI,Overdue,17.29,14.54,1644.22,Charlie
+TXN00103,02-12-2023,CUST4239,Enterprise,North,UK,Office Supplies,Envelope,9,173.66,1562.94,1049.68,513.26,Cash,Pending,2.12,14.09,431.59,Diana
+TXN00104,07-01-2023,CUST1556,Corporate,North,UK,Office Supplies,Stapler,10,73.15,731.5,512.44,219.06,UPI,Pending,16.64,11.6,161.43,Bob
+TXN00105,12-08-2023,CUST2136,Consumer,North,Germany,Office Supplies,Notebook,13,392.12,5097.56,3222.14,1875.42,UPI,Paid,19.26,9.44,1371.27,Diana
+TXN00106,01-12-2023,CUST6084,Corporate,West,Germany,Furniture,Desk,17,387.78,6592.26,5356.68,1235.58,Credit Card,Pending,12.42,5.59,1021.63,Bob
+TXN00107,27-09-2023,CUST5799,SMB,North,Germany,Office Supplies,Stapler,12,22.05,264.6,160.52,104.08,Net Banking,Overdue,13.67,10.8,80.15,Frank
+TXN00108,14-08-2023,CUST4356,Enterprise,North,UK,Electronics,Smartphone,7,268.24,1877.68,1591.85,285.83,Net Banking,Pending,15.46,7.99,222.33,Charlie
+TXN00109,27-01-2023,CUST4778,Consumer,South,Germany,Electronics,Smartphone,15,215.67,3235.05,2560.73,674.32,Net Banking,Paid,8.85,9.06,558.96,Bob
+TXN00110,15-01-2023,CUST2980,SMB,West,India,Electronics,Smartwatch,12,285.75,3429,2542.47,886.53,Net Banking,Pending,4.07,6.19,797.81,Charlie
+TXN00111,23-06-2023,CUST4633,Enterprise,East,UK,Electronics,Smartwatch,12,25.94,311.28,272.76,38.52,Net Banking,Pending,9.24,5.02,33.21,Alice
+TXN00112,24-08-2023,CUST2875,Enterprise,North,USA,Electronics,Smartwatch,2,400.8,801.6,555.6,246,Cash,Paid,0.23,5.94,230.86,Bob
+TXN00113,05-04-2023,CUST9357,Enterprise,East,India,Electronics,Smartphone,6,454.83,2728.98,2230.36,498.62,Net Banking,Paid,4.84,17.83,389.89,Frank
+TXN00114,27-03-2023,CUST3720,Corporate,West,Germany,Furniture,Desk,1,263.68,263.68,165.16,98.52,Cash,Pending,0.66,6.02,91.98,Frank
+TXN00115,13-04-2023,CUST8014,Corporate,South,USA,Furniture,Cabinet,2,30.18,60.36,48.36,12,Net Banking,Paid,14.13,5.41,9.75,Frank
+TXN00116,14-03-2023,CUST1552,Corporate,West,Germany,Furniture,Desk,15,409.26,6138.9,3830.89,2308.01,Wallet,Pending,16.35,10.88,1720.6,Charlie
+TXN00117,07-05-2023,CUST5904,Enterprise,South,USA,Office Supplies,Notebook,12,131.08,1572.96,1019.06,553.9,Cash,Overdue,4.38,17.69,435.95,Diana
+TXN00118,22-06-2023,CUST2927,Consumer,East,India,Office Supplies,Envelope,19,89.22,1695.18,1027.72,667.46,Net Banking,Pending,6.65,12.05,547.99,Charlie
+TXN00119,11-05-2023,CUST9946,SMB,North,India,Furniture,Cabinet,15,136.26,2043.9,1510.01,533.89,Cash,Overdue,8.32,16,411.16,Eve
+TXN00120,04-01-2023,CUST4453,Enterprise,West,Germany,Furniture,Chair,19,293.55,5577.45,4080.38,1497.07,Cash,Pending,9.73,16.35,1130.45,Bob
+TXN00121,19-09-2023,CUST2394,Corporate,South,India,Office Supplies,Pen,18,319.46,5750.28,4714.85,1035.43,Net Banking,Pending,14.32,16.82,737.94,Bob
+TXN00122,14-01-2023,CUST7477,Corporate,East,India,Electronics,Laptop,13,224.21,2914.73,1834,1080.73,Cash,Overdue,11.86,12.53,833.2,Diana
+TXN00123,10-05-2023,CUST4814,Corporate,North,UK,Electronics,Smartphone,2,430.41,860.82,518.82,342,Credit Card,Paid,4.74,8.05,299.56,Bob
+TXN00124,14-07-2023,CUST1629,Corporate,West,USA,Electronics,Laptop,12,416.15,4993.8,3641.81,1351.99,Wallet,Overdue,18.97,8.28,1004.81,Frank
+TXN00125,11-10-2023,CUST4192,SMB,North,UK,Electronics,Smartwatch,5,393.08,1965.4,1595.15,370.25,Wallet,Overdue,17.37,7.68,282.44,Eve
+TXN00126,30-11-2023,CUST1968,SMB,North,Germany,Furniture,Chair,1,69.83,69.83,51.37,18.46,Cash,Overdue,6.32,11.59,15.29,Frank
+TXN00127,12-01-2023,CUST5585,Enterprise,North,USA,Office Supplies,Stapler,2,168.33,336.66,300.28,36.38,Net Banking,Pending,6.85,11.92,29.85,Frank
+TXN00128,28-10-2023,CUST2969,Corporate,West,UK,Furniture,Chair,1,368.11,368.11,238.11,130,Cash,Overdue,3.54,14,107.84,Bob
+TXN00129,24-04-2023,CUST8705,Enterprise,East,Germany,Electronics,Smartwatch,8,399.8,3198.4,2800.53,397.87,Credit Card,Overdue,18.82,15.75,272.12,Eve
+TXN00130,27-12-2023,CUST9125,Enterprise,South,USA,Furniture,Cabinet,9,434.55,3910.95,3512.04,398.91,Cash,Paid,1.81,8.75,357.42,Charlie
+TXN00131,20-11-2023,CUST4173,Corporate,West,USA,Office Supplies,Notebook,2,383.52,767.04,643.81,123.23,Net Banking,Paid,16.36,6.56,96.31,Frank
+TXN00132,30-03-2023,CUST3772,SMB,North,Germany,Furniture,Cabinet,15,350.78,5261.7,3770.36,1491.34,Credit Card,Paid,4.75,9.85,1280.58,Diana
+TXN00133,12-04-2023,CUST8010,Enterprise,South,USA,Furniture,Table,14,255.22,3573.08,2725.22,847.86,UPI,Pending,18.28,15.58,584.92,Alice
+TXN00134,12-01-2023,CUST6252,Corporate,West,India,Office Supplies,Envelope,4,307.87,1231.48,1021.47,210.01,UPI,Overdue,10.42,15.69,158.61,Charlie
+TXN00135,02-12-2023,CUST6243,SMB,North,Germany,Office Supplies,Stapler,15,106.61,1599.15,1189.38,409.77,Net Banking,Pending,3.33,13.03,344.51,Eve
+TXN00136,21-02-2023,CUST4610,Consumer,East,Germany,Office Supplies,Envelope,16,53.92,862.72,703.37,159.35,UPI,Paid,19.53,15.7,108.1,Frank
+TXN00137,20-09-2023,CUST8052,SMB,East,UK,Electronics,Laptop,10,459.7,4597,3343.67,1253.33,Credit Card,Paid,12.66,17.37,904.52,Frank
+TXN00138,28-04-2023,CUST2300,Corporate,West,India,Furniture,Chair,15,309.38,4640.7,3356.66,1284.04,Cash,Pending,18,9.59,951.94,Bob
+TXN00139,13-12-2023,CUST2316,Enterprise,South,Germany,Office Supplies,Envelope,7,337.1,2359.7,1483.45,876.25,Wallet,Pending,9.04,12.63,696.37,Alice
+TXN00140,18-04-2023,CUST2249,Consumer,East,India,Electronics,Laptop,16,163.01,2608.16,1745.05,863.11,Net Banking,Pending,5.14,13.22,710.51,Alice
+TXN00141,11-09-2023,CUST6016,Corporate,West,UK,Office Supplies,Pen,18,208.12,3746.16,2728.93,1017.23,Credit Card,Paid,0.32,9.43,918.36,Frank
+TXN00142,19-01-2023,CUST6699,Corporate,South,USA,Office Supplies,Pen,14,139.8,1957.2,1553.21,403.99,Wallet,Overdue,8.02,9.77,335.29,Frank
+TXN00143,15-07-2023,CUST2804,Consumer,West,USA,Electronics,Smartwatch,8,441.24,3529.92,2807.22,722.7,Wallet,Paid,9.14,7.47,607.59,Bob
+TXN00144,03-08-2023,CUST6291,Corporate,South,India,Office Supplies,Notebook,8,294.43,2355.44,1475.99,879.45,Cash,Paid,12.7,14.81,654.05,Bob
+TXN00145,07-06-2023,CUST1632,SMB,West,Germany,Electronics,Smartwatch,12,490.81,5889.72,4372.92,1516.8,Cash,Overdue,7.99,6.98,1298.19,Eve
+TXN00146,26-12-2023,CUST9555,Consumer,North,USA,Electronics,Smartwatch,6,135.95,815.7,682.23,133.47,Credit Card,Paid,16.52,15.17,94.52,Bob
+TXN00147,22-05-2023,CUST5576,SMB,South,India,Furniture,Chair,2,469.11,938.22,718.81,219.41,Net Banking,Overdue,7.94,10.81,180.15,Diana
+TXN00148,07-11-2023,CUST9453,SMB,South,UK,Office Supplies,Notebook,5,201.61,1008.05,756.39,251.66,Credit Card,Pending,10.79,13.16,194.96,Frank
+TXN00149,04-08-2023,CUST8629,Corporate,East,Germany,Office Supplies,Envelope,14,49.65,695.1,501.09,194.01,UPI,Overdue,13.9,9.5,151.17,Diana
+TXN00150,13-09-2023,CUST6656,Corporate,North,India,Furniture,Chair,4,307.12,1228.48,788.39,440.09,Cash,Overdue,19.06,15.73,300.18,Eve
+TXN00151,27-04-2023,CUST3529,Enterprise,North,USA,Electronics,Tablet,4,49.18,196.72,163.87,32.85,Wallet,Paid,18.73,16.39,22.32,Eve
+TXN00152,12-11-2023,CUST3494,Corporate,West,India,Office Supplies,Notebook,2,328.6,657.2,424.29,232.91,Net Banking,Paid,15.62,10.98,174.95,Bob
+TXN00153,24-09-2023,CUST1689,Consumer,East,Germany,Office Supplies,Pen,19,93.63,1778.97,1107.21,671.76,Wallet,Pending,5.31,7.31,589.59,Diana
+TXN00154,07-04-2023,CUST2638,Enterprise,North,India,Office Supplies,Envelope,4,268.25,1073,780.96,292.04,Cash,Overdue,9,7.53,245.74,Charlie
+TXN00155,02-04-2023,CUST2549,SMB,North,India,Furniture,Chair,2,75.56,151.12,109.65,41.47,Cash,Pending,13.62,7.47,33.15,Eve
+TXN00156,06-03-2023,CUST7356,Corporate,South,India,Electronics,Smartphone,18,41.66,749.88,459.52,290.36,Credit Card,Overdue,5.32,13.4,238.07,Eve
+TXN00157,04-11-2023,CUST6887,SMB,North,USA,Furniture,Desk,2,169.09,338.18,277.72,60.46,Net Banking,Paid,12.28,16.17,44.46,Bob
+TXN00158,21-01-2023,CUST3672,Consumer,West,India,Electronics,Smartphone,1,406.35,406.35,253.13,153.22,Credit Card,Pending,18.61,8.29,114.37,Eve
+TXN00159,11-10-2023,CUST9906,SMB,South,Germany,Office Supplies,Notebook,8,121.21,969.68,840.54,129.14,Cash,Overdue,2.11,17.85,103.85,Eve
+TXN00160,08-01-2023,CUST5940,Enterprise,North,UK,Office Supplies,Pen,13,403.04,5239.52,3309.33,1930.19,Credit Card,Paid,10.17,10.04,1559.81,Frank
+TXN00161,16-08-2023,CUST5531,SMB,East,UK,Office Supplies,Envelope,19,95.31,1810.89,1139.99,670.9,UPI,Pending,1.65,11.69,582.7,Alice
+TXN00162,11-08-2023,CUST4839,Enterprise,North,India,Furniture,Cabinet,18,15.11,271.98,184.03,87.95,Wallet,Pending,1.39,17.48,71.57,Frank
+TXN00163,12-09-2023,CUST9561,Corporate,North,Germany,Office Supplies,Envelope,2,304.92,609.84,472.46,137.38,Wallet,Pending,2.56,9.4,121.28,Bob
+TXN00164,02-07-2023,CUST6784,Enterprise,East,USA,Furniture,Chair,18,472.11,8497.98,5712.41,2785.57,Cash,Overdue,17.74,13.4,1984.36,Charlie
+TXN00165,02-05-2023,CUST6341,SMB,East,India,Electronics,Tablet,18,321.67,5790.06,3858.03,1932.03,Wallet,Overdue,6.4,14.79,1540.92,Alice
+TXN00166,22-01-2023,CUST8003,Consumer,North,USA,Furniture,Chair,15,55.02,825.3,734.14,91.16,Net Banking,Overdue,16.81,14.53,64.82,Charlie
+TXN00167,08-07-2023,CUST2376,Enterprise,East,UK,Furniture,Cabinet,7,292.81,2049.67,1769.16,280.51,Cash,Overdue,3.22,12.25,238.22,Alice
+TXN00168,30-12-2023,CUST1514,Consumer,West,Germany,Office Supplies,Envelope,10,332.2,3322,2303.07,1018.93,Cash,Pending,12.32,7.44,826.93,Alice
+TXN00169,22-04-2023,CUST6132,Consumer,West,Germany,Furniture,Table,12,375.41,4504.92,2976.6,1528.32,UPI,Paid,7.36,9.25,1284.87,Charlie
+TXN00170,11-08-2023,CUST6110,Corporate,West,UK,Electronics,Laptop,4,198.83,795.32,630.7,164.62,UPI,Pending,11.86,10.09,130.46,Eve
+TXN00171,06-11-2023,CUST3023,SMB,North,USA,Furniture,Table,4,98.85,395.4,283.23,112.17,Credit Card,Overdue,17.49,11.63,81.79,Charlie
+TXN00172,04-08-2023,CUST5431,Corporate,East,Germany,Furniture,Desk,2,303.69,607.38,474.15,133.23,Wallet,Overdue,9.97,6,112.75,Frank
+TXN00173,01-06-2023,CUST1541,Corporate,South,India,Office Supplies,Envelope,19,225.7,4288.3,2762.68,1525.62,Credit Card,Overdue,4.72,9.83,1310.72,Alice
+TXN00174,08-09-2023,CUST9667,SMB,East,UK,Electronics,Smartwatch,13,95.01,1235.13,977.32,257.81,Wallet,Overdue,2.37,10.33,225.7,Frank
+TXN00175,04-05-2023,CUST9266,SMB,North,USA,Electronics,Smartphone,10,173.91,1739.1,1057.13,681.97,Credit Card,Pending,16.63,8.55,519.95,Alice
+TXN00176,31-12-2023,CUST3610,Consumer,East,USA,Office Supplies,Notebook,19,194.69,3699.11,2731.87,967.24,Wallet,Paid,8.7,17.19,731.29,Diana
+TXN00177,11-03-2023,CUST4331,Corporate,East,UK,Furniture,Cabinet,1,392.3,392.3,236.21,156.09,Credit Card,Pending,4.5,6.71,139.06,Alice
+TXN00178,31-01-2023,CUST2619,Enterprise,North,Germany,Electronics,Laptop,12,31.85,382.2,233.48,148.72,Net Banking,Overdue,18.13,8.24,111.72,Frank
+TXN00179,16-04-2023,CUST8896,Consumer,South,Germany,Electronics,Smartphone,4,26.47,105.88,65.52,40.36,UPI,Overdue,2.78,11.92,34.56,Alice
+TXN00180,07-01-2023,CUST1671,Enterprise,East,Germany,Office Supplies,Envelope,7,202.79,1419.53,1204.27,215.26,Credit Card,Paid,19.63,8.33,158.59,Charlie
+TXN00181,28-03-2023,CUST2753,Consumer,West,India,Office Supplies,Stapler,12,181.26,2175.12,1379.52,795.6,UPI,Paid,4.51,8.26,696.97,Frank
+TXN00182,16-10-2023,CUST1572,Corporate,West,USA,Office Supplies,Pen,7,356.84,2497.88,1906.04,591.84,UPI,Paid,8.57,6.83,504.16,Frank
+TXN00183,22-04-2023,CUST4137,Corporate,South,Germany,Office Supplies,Pen,7,277.26,1940.82,1200.75,740.07,Wallet,Overdue,9.18,5.68,633.95,Alice
+TXN00184,01-02-2023,CUST3324,Enterprise,South,UK,Furniture,Desk,15,110.39,1655.85,1429.58,226.27,Wallet,Pending,4.78,10.87,192.03,Bob
+TXN00185,11-10-2023,CUST8193,Consumer,East,USA,Electronics,Smartwatch,3,455.52,1366.56,1040.79,325.77,Wallet,Overdue,2.11,13.54,275.72,Alice
+TXN00186,27-06-2023,CUST6546,SMB,North,UK,Office Supplies,Envelope,12,266.43,3197.16,2193.7,1003.46,Wallet,Paid,11.55,13.25,769.96,Alice
+TXN00187,16-02-2023,CUST9078,Enterprise,South,Germany,Furniture,Table,6,398.7,2392.2,1662.65,729.55,Net Banking,Paid,18.12,8.6,545.98,Frank
+TXN00188,08-08-2023,CUST4200,SMB,West,Germany,Electronics,Smartwatch,16,84.53,1352.48,990.15,362.33,Net Banking,Paid,16.07,11.57,268.92,Alice
+TXN00189,04-03-2023,CUST6108,Consumer,South,India,Furniture,Desk,6,490.09,2940.54,2343.14,597.4,Net Banking,Paid,11.2,11.86,467.57,Alice
+TXN00190,03-06-2023,CUST7788,SMB,North,Germany,Electronics,Smartphone,6,274.99,1649.94,1341.52,308.42,Wallet,Paid,9.42,15.68,235.56,Diana
+TXN00191,01-08-2023,CUST1587,Enterprise,South,USA,Electronics,Smartwatch,1,127.54,127.54,81.96,45.58,Credit Card,Overdue,9.01,14.73,35.36,Alice
+TXN00192,06-10-2023,CUST7416,Consumer,West,UK,Furniture,Cabinet,3,25.25,75.75,62.25,13.5,UPI,Pending,6.3,5.05,12.01,Frank
+TXN00193,20-07-2023,CUST6779,Enterprise,North,Germany,Office Supplies,Stapler,3,350.13,1050.39,791.78,258.61,Cash,Overdue,15.26,10.31,196.55,Diana
+TXN00194,22-05-2023,CUST7115,Enterprise,North,UK,Electronics,Tablet,13,450.44,5855.72,4656.65,1199.07,Net Banking,Overdue,11.21,6.44,996.09,Frank
+TXN00195,07-02-2023,CUST1141,Enterprise,North,Germany,Furniture,Cabinet,19,488.63,9283.97,5878.76,3405.21,Wallet,Paid,0.84,14.62,2882.95,Bob
+TXN00196,12-04-2023,CUST2750,Corporate,West,India,Office Supplies,Notebook,19,414.76,7880.44,6381.54,1498.9,Wallet,Paid,19.26,14.45,1035.34,Charlie
+TXN00197,04-05-2023,CUST2531,SMB,East,Germany,Furniture,Desk,6,68.92,413.52,256.59,156.93,Credit Card,Pending,0.92,12.37,136.25,Diana
+TXN00198,30-03-2023,CUST2762,Consumer,East,USA,Furniture,Chair,4,41.6,166.4,143.63,22.77,UPI,Paid,6.61,9.43,19.26,Eve
+TXN00199,03-03-2023,CUST3479,Corporate,West,UK,Office Supplies,Envelope,14,429.29,6010.06,4546.21,1463.85,Cash,Paid,11.98,6.49,1204.86,Eve
+TXN00200,20-07-2023,CUST4516,Consumer,West,UK,Electronics,Laptop,1,22.32,22.32,18.04,4.28,Wallet,Pending,8.69,15.06,3.32,Alice
+TXN00201,27-05-2023,CUST7748,Corporate,West,India,Office Supplies,Notebook,19,126.34,2400.46,1809.25,591.21,Wallet,Pending,15.74,17.62,410.38,Diana
+TXN00202,13-07-2023,CUST3007,Corporate,East,UK,Electronics,Smartphone,8,320.71,2565.68,1594,971.68,Credit Card,Pending,7.24,11.14,800.92,Bob
+TXN00203,10-10-2023,CUST8815,SMB,West,USA,Electronics,Smartphone,13,246.2,3200.6,2108.65,1091.95,Net Banking,Paid,9.49,12.68,863,Eve
+TXN00204,18-02-2023,CUST2325,Consumer,South,Germany,Office Supplies,Envelope,1,176.04,176.04,148.01,28.03,Credit Card,Pending,7.94,5.58,24.36,Alice
+TXN00205,22-09-2023,CUST6463,Consumer,North,India,Electronics,Smartwatch,19,441.13,8381.47,6474.13,1907.34,Cash,Overdue,0.9,10.86,1684.9,Frank
+TXN00206,14-02-2023,CUST9210,Enterprise,West,Germany,Electronics,Smartphone,13,307.87,4002.31,2772.85,1229.46,Cash,Pending,19.1,15.68,838.67,Alice
+TXN00207,13-12-2023,CUST9365,SMB,South,India,Office Supplies,Stapler,17,305.86,5199.62,4190.77,1008.85,UPI,Pending,16.01,13.61,732.01,Eve
+TXN00208,27-05-2023,CUST2774,Enterprise,West,Germany,Electronics,Smartphone,12,49.29,591.48,417.84,173.64,UPI,Overdue,12.92,13.4,130.94,Charlie
+TXN00209,27-11-2023,CUST5658,Corporate,North,India,Office Supplies,Envelope,3,364.75,1094.25,696.13,398.12,UPI,Paid,1.33,11.94,345.92,Bob
+TXN00210,22-03-2023,CUST5008,Corporate,West,UK,Office Supplies,Pen,13,205.69,2673.97,2334.48,339.49,Credit Card,Overdue,6.86,14.48,270.42,Alice
+TXN00211,21-10-2023,CUST2819,Consumer,South,UK,Furniture,Desk,3,48.03,144.09,109.91,34.18,UPI,Pending,8.93,15.38,26.34,Charlie
+TXN00212,14-07-2023,CUST4243,SMB,North,UK,Office Supplies,Envelope,11,295.28,3248.08,2310.53,937.55,Credit Card,Pending,14.11,13.95,692.93,Bob
+TXN00213,05-06-2023,CUST1006,Enterprise,North,Germany,Electronics,Smartphone,15,85.69,1285.35,781.02,504.33,Wallet,Pending,12.74,9.43,398.58,Charlie
+TXN00214,06-05-2023,CUST2829,Enterprise,North,Germany,Furniture,Desk,12,284.25,3411,2154.31,1256.69,Credit Card,Paid,19.44,7.97,931.7,Charlie
+TXN00215,08-03-2023,CUST7218,Consumer,West,USA,Office Supplies,Notebook,11,200.11,2201.21,1426.4,774.81,UPI,Pending,15.12,10.96,585.58,Frank
+TXN00216,02-05-2023,CUST3172,Consumer,South,Germany,Electronics,Tablet,6,305.44,1832.64,1554.1,278.54,Credit Card,Paid,5.77,17.49,216.56,Diana
+TXN00217,19-04-2023,CUST4807,Enterprise,South,Germany,Electronics,Smartphone,9,281.32,2531.88,1930.59,601.29,Cash,Overdue,16.77,9.63,452.26,Bob
+TXN00218,19-04-2023,CUST8730,Corporate,North,India,Furniture,Cabinet,12,125.17,1502.04,1275.54,226.5,Wallet,Overdue,3.3,12.58,191.47,Eve
+TXN00219,21-04-2023,CUST7652,Consumer,East,Germany,Furniture,Desk,19,108.64,2064.16,1483.18,580.98,Wallet,Paid,9.51,12.06,462.33,Charlie
+TXN00220,05-03-2023,CUST4162,Consumer,South,UK,Furniture,Chair,15,436.28,6544.2,4183.02,2361.18,Net Banking,Overdue,2.5,15.32,1949.46,Diana
+TXN00221,15-02-2023,CUST1882,SMB,South,Germany,Furniture,Cabinet,4,150.03,600.12,396.66,203.46,Net Banking,Overdue,18.37,9.71,149.96,Alice
+TXN00222,28-06-2023,CUST7068,Corporate,East,USA,Office Supplies,Stapler,15,291.03,4365.45,3871.34,494.11,Credit Card,Paid,8.78,16.01,378.57,Charlie
+TXN00223,04-03-2023,CUST6442,SMB,North,India,Office Supplies,Notebook,16,383.67,6138.72,5394.57,744.15,Net Banking,Overdue,13.85,6.75,597.81,Frank
+TXN00224,04-10-2023,CUST2999,Enterprise,South,India,Office Supplies,Envelope,15,495.37,7430.55,4905.61,2524.94,UPI,Paid,1.8,5.03,2354.77,Charlie
+TXN00225,06-03-2023,CUST4363,Consumer,North,India,Office Supplies,Pen,13,379.18,4929.34,4094.69,834.65,Credit Card,Overdue,17.69,14.1,590.13,Alice
+TXN00226,17-10-2023,CUST6037,Corporate,West,Germany,Furniture,Cabinet,6,160.01,960.06,734.2,225.86,Wallet,Paid,18.95,5.94,172.19,Eve
+TXN00227,24-03-2023,CUST6242,Corporate,West,USA,Electronics,Tablet,2,399.31,798.62,648.58,150.04,Wallet,Pending,1.46,10.24,132.71,Diana
+TXN00228,17-10-2023,CUST3951,SMB,South,Germany,Furniture,Cabinet,7,243.45,1704.15,1138.05,566.1,Credit Card,Pending,19.58,12.85,396.76,Eve
+TXN00229,02-10-2023,CUST8480,Consumer,South,UK,Electronics,Tablet,10,297.07,2970.7,2339.23,631.47,Wallet,Pending,4.84,14.28,515.1,Diana
+TXN00230,22-02-2023,CUST7846,Enterprise,North,UK,Office Supplies,Envelope,18,206.71,3720.78,2409.53,1311.25,UPI,Pending,16.48,14.38,937.67,Alice
+TXN00231,23-07-2023,CUST8758,Consumer,East,India,Furniture,Chair,18,145.32,2615.76,2124.24,491.52,UPI,Paid,6.81,17.23,379.13,Eve
+TXN00232,05-06-2023,CUST8818,Consumer,North,UK,Office Supplies,Pen,2,163.54,327.08,273.66,53.42,Net Banking,Paid,8.45,9.91,44.06,Diana
+TXN00233,28-06-2023,CUST9662,Corporate,North,India,Office Supplies,Pen,10,78.17,781.7,528.64,253.06,Net Banking,Paid,3.66,8.62,222.78,Charlie
+TXN00234,30-09-2023,CUST5888,Corporate,North,India,Office Supplies,Stapler,12,499.74,5996.88,3786.68,2210.2,Wallet,Paid,9.52,6.44,1871,Frank
+TXN00235,15-08-2023,CUST6355,Consumer,West,UK,Electronics,Smartphone,18,280.51,5049.18,3659.34,1389.84,UPI,Paid,13.15,11.14,1072.61,Frank
+TXN00236,10-04-2023,CUST2772,Corporate,North,Germany,Office Supplies,Envelope,18,371.18,6681.24,5962.19,719.05,Wallet,Paid,13.64,11.09,552.11,Alice
+TXN00237,22-12-2023,CUST1234,SMB,North,India,Electronics,Laptop,10,276.46,2764.6,1741.59,1023.01,UPI,Pending,4.84,16.84,809.56,Bob
+TXN00238,03-12-2023,CUST8011,Corporate,South,UK,Electronics,Tablet,15,171.82,2577.3,2246.94,330.36,Wallet,Paid,9.28,17.53,247.16,Diana
+TXN00239,12-12-2023,CUST4923,SMB,West,Germany,Office Supplies,Pen,8,74.44,595.52,510.44,85.08,Cash,Pending,15.4,15.49,60.83,Bob
+TXN00240,14-05-2023,CUST5063,Enterprise,North,India,Electronics,Tablet,7,180.57,1263.99,899.36,364.63,Net Banking,Paid,12.93,17.66,261.42,Charlie
+TXN00241,09-06-2023,CUST5426,Enterprise,North,UK,Electronics,Smartwatch,8,111.48,891.84,575.86,315.98,Net Banking,Paid,4.56,8.21,276.81,Diana
+TXN00242,24-07-2023,CUST2102,Enterprise,East,Germany,Furniture,Desk,8,471.93,3775.44,3154.59,620.85,Wallet,Pending,12.89,12.3,474.3,Frank
+TXN00243,21-08-2023,CUST6690,Corporate,West,UK,Furniture,Chair,10,164.42,1644.2,1122.78,521.42,Cash,Paid,10.55,16.78,388.15,Diana
+TXN00244,17-11-2023,CUST2072,SMB,West,USA,Furniture,Desk,15,39.71,595.65,480.69,114.96,UPI,Paid,18.61,11.47,82.83,Alice
+TXN00245,05-09-2023,CUST6685,Consumer,South,USA,Office Supplies,Notebook,15,183.59,2753.85,2436.39,317.46,Cash,Pending,5.49,15.49,253.56,Bob
+TXN00246,19-03-2023,CUST2932,SMB,South,UK,Furniture,Table,8,112.5,900,553.49,346.51,Credit Card,Paid,19.62,15.31,235.88,Charlie
+TXN00247,17-12-2023,CUST3743,Enterprise,East,USA,Furniture,Chair,12,137.18,1646.16,1203.51,442.65,Net Banking,Overdue,1.46,13.09,379.09,Bob
+TXN00248,17-09-2023,CUST1619,SMB,North,UK,Electronics,Laptop,17,480.47,8167.99,6178.58,1989.41,UPI,Pending,15.15,7.1,1568.17,Frank
+TXN00249,18-12-2023,CUST7976,SMB,East,India,Office Supplies,Envelope,18,388.1,6985.8,5237.04,1748.76,Credit Card,Paid,0.18,9.64,1577.34,Diana
+TXN00250,12-09-2023,CUST9148,Enterprise,South,Germany,Furniture,Cabinet,8,406.05,3248.4,2196.39,1052.01,Net Banking,Paid,8.06,16.63,806.37,Eve
+TXN00251,10-01-2023,CUST3787,Consumer,South,Germany,Office Supplies,Stapler,2,496.69,993.38,609.41,383.97,Cash,Overdue,7.43,10.1,319.54,Eve
+TXN00252,04-04-2023,CUST8778,Consumer,East,UK,Furniture,Table,17,395.9,6730.3,4544.97,2185.33,Wallet,Paid,7.17,13.54,1753.96,Bob
+TXN00253,14-09-2023,CUST9345,Consumer,West,Germany,Office Supplies,Notebook,11,378.37,4162.07,2782.79,1379.28,Credit Card,Paid,2.96,13.83,1153.35,Alice
+TXN00254,09-08-2023,CUST8423,SMB,West,UK,Electronics,Tablet,12,381.8,4581.6,3137.25,1444.35,Wallet,Overdue,17.88,17.3,980.9,Eve
+TXN00255,12-05-2023,CUST9275,SMB,South,Germany,Electronics,Smartphone,8,101.21,809.68,566.35,243.33,Wallet,Pending,1.42,5.9,225.72,Charlie
+TXN00256,14-07-2023,CUST4607,Enterprise,South,Germany,Office Supplies,Notebook,17,274.16,4660.72,3191.39,1469.33,Cash,Paid,7.84,12.11,1190.15,Alice
+TXN00257,09-11-2023,CUST4832,Enterprise,South,USA,Electronics,Smartphone,10,108.27,1082.7,715.74,366.96,Cash,Paid,8.75,16.48,279.67,Frank
+TXN00258,30-10-2023,CUST4109,SMB,East,Germany,Office Supplies,Pen,5,381.94,1909.7,1495.08,414.62,Cash,Paid,5.06,8.53,360.06,Alice
+TXN00259,16-02-2023,CUST4811,SMB,West,Germany,Furniture,Chair,8,333.9,2671.2,1665.59,1005.61,UPI,Pending,0.41,8.5,916.36,Frank
+TXN00260,09-01-2023,CUST4722,Enterprise,South,USA,Electronics,Smartphone,4,475.11,1900.44,1500.68,399.76,Net Banking,Paid,11.2,15.15,301.21,Alice
+TXN00261,20-02-2023,CUST2104,Consumer,East,Germany,Furniture,Desk,15,360.02,5400.3,3988.2,1412.1,Credit Card,Overdue,13.89,14.48,1039.89,Frank
+TXN00262,09-11-2023,CUST4664,Corporate,East,India,Electronics,Smartphone,13,114.56,1489.28,1190.74,298.54,Cash,Overdue,2.38,14.94,247.89,Eve
+TXN00263,02-07-2023,CUST5287,Consumer,North,UK,Furniture,Cabinet,4,395.24,1580.96,1296.91,284.05,UPI,Paid,0.5,15.91,237.66,Frank
+TXN00264,10-11-2023,CUST2293,Corporate,North,UK,Office Supplies,Pen,19,356.03,6764.57,5143.02,1621.55,Net Banking,Paid,10.1,14.34,1248.73,Frank
+TXN00265,13-01-2023,CUST2855,Corporate,East,UK,Office Supplies,Stapler,10,406.31,4063.1,3263.26,799.84,Wallet,Overdue,6.33,15.61,632.26,Alice
+TXN00266,24-11-2023,CUST4277,Enterprise,East,UK,Furniture,Desk,19,317.72,6036.68,4070.25,1966.43,Wallet,Paid,10.98,8.74,1597.52,Charlie
+TXN00267,10-10-2023,CUST1139,Consumer,South,India,Electronics,Smartphone,14,306.7,4293.8,2894.62,1399.18,Credit Card,Pending,1.68,9.34,1247.19,Frank
+TXN00268,16-07-2023,CUST9058,Corporate,South,UK,Office Supplies,Envelope,1,324.45,324.45,260.03,64.42,Net Banking,Pending,12.02,17.87,46.55,Bob
+TXN00269,15-11-2023,CUST3761,Consumer,North,Germany,Furniture,Table,10,97.89,978.9,872.4,106.5,Cash,Pending,11.11,7.47,87.6,Diana
+TXN00270,07-08-2023,CUST6808,Enterprise,East,UK,Office Supplies,Notebook,2,246.69,493.38,335.77,157.61,Wallet,Pending,13.8,6.87,126.53,Charlie
+TXN00271,06-06-2023,CUST2518,Corporate,West,UK,Electronics,Laptop,12,234.43,2813.16,1765.62,1047.54,UPI,Pending,12.83,14.15,783.93,Frank
+TXN00272,26-07-2023,CUST2306,Corporate,North,India,Furniture,Chair,4,132.27,529.08,317.77,211.31,Wallet,Paid,2.34,10.84,184,Eve
+TXN00273,20-03-2023,CUST5757,SMB,West,India,Office Supplies,Envelope,4,353.56,1414.24,1137.1,277.14,Wallet,Paid,0.31,12.58,241.52,Alice
+TXN00274,17-05-2023,CUST8331,SMB,North,USA,Electronics,Smartphone,14,102.38,1433.32,1149.15,284.17,Credit Card,Pending,0.17,10.64,253.5,Charlie
+TXN00275,01-09-2023,CUST8674,Consumer,East,India,Office Supplies,Stapler,4,222.86,891.44,728.34,163.1,UPI,Overdue,11.79,12.97,125.21,Alice
+TXN00276,10-02-2023,CUST5017,Enterprise,North,Germany,Office Supplies,Pen,15,371.97,5579.55,3370.74,2208.81,Credit Card,Paid,0.32,6,2069.64,Bob
+TXN00277,23-10-2023,CUST9252,Corporate,East,USA,Furniture,Chair,11,301.45,3315.95,2359.83,956.12,UPI,Pending,16.1,15.7,676.24,Charlie
+TXN00278,15-11-2023,CUST2993,Corporate,North,UK,Office Supplies,Notebook,8,43.54,348.32,247.77,100.55,Credit Card,Paid,11.69,12,78.14,Alice
+TXN00279,11-10-2023,CUST3912,Corporate,North,India,Furniture,Desk,2,318.82,637.64,430.1,207.54,Wallet,Pending,8.55,10.75,169.39,Diana
+TXN00280,17-04-2023,CUST6668,SMB,West,USA,Furniture,Cabinet,11,303.43,3337.73,2204,1133.73,Cash,Overdue,9.82,17.05,848.08,Alice
+TXN00281,07-11-2023,CUST4074,Corporate,South,USA,Electronics,Smartphone,6,88.15,528.9,342.8,186.1,Cash,Paid,3.71,13.63,154.77,Charlie
+TXN00282,19-04-2023,CUST1802,Enterprise,North,India,Office Supplies,Envelope,10,272.42,2724.2,1926.19,798.01,UPI,Paid,16.56,7.81,613.86,Eve
+TXN00283,05-02-2023,CUST7121,Consumer,South,USA,Office Supplies,Envelope,1,166.12,166.12,144.7,21.42,Net Banking,Paid,10.06,7.52,17.82,Frank
+TXN00284,18-09-2023,CUST1086,Consumer,West,UK,Office Supplies,Notebook,9,88.58,797.22,639.45,157.77,Cash,Pending,7.7,11.36,129.08,Eve
+TXN00285,04-09-2023,CUST4687,Consumer,South,India,Furniture,Desk,18,155.43,2797.74,2133.03,664.71,Credit Card,Pending,3.31,16.58,536.15,Frank
+TXN00286,02-05-2023,CUST2673,SMB,West,UK,Furniture,Chair,10,307.8,3078,2073.36,1004.64,Net Banking,Pending,4.39,17.48,792.63,Charlie
+TXN00287,17-05-2023,CUST4360,Corporate,North,UK,Office Supplies,Notebook,8,354.05,2832.4,1845.33,987.07,UPI,Pending,8.24,16.32,757.92,Bob
+TXN00288,03-04-2023,CUST1238,Consumer,West,India,Electronics,Smartwatch,7,79.99,559.93,452.21,107.72,Cash,Paid,15.3,13.83,78.62,Bob
+TXN00289,01-11-2023,CUST1192,Consumer,South,India,Office Supplies,Pen,3,284.73,854.19,673.55,180.64,UPI,Paid,14.63,14.06,132.53,Alice
+TXN00290,03-04-2023,CUST1504,Corporate,West,India,Office Supplies,Envelope,19,149.9,2848.1,2163.06,685.04,Cash,Overdue,16.41,10.26,513.87,Charlie
+TXN00291,19-05-2023,CUST4764,Corporate,South,India,Furniture,Cabinet,16,111.9,1790.4,1096.79,693.61,Wallet,Overdue,10.84,17.58,509.7,Diana
+TXN00292,26-04-2023,CUST5780,Corporate,South,India,Electronics,Laptop,15,123.46,1851.9,1634.79,217.11,UPI,Paid,8.93,5.91,186.04,Frank
+TXN00293,16-11-2023,CUST6626,Enterprise,West,UK,Furniture,Cabinet,11,465.35,5118.85,3653.67,1465.18,UPI,Pending,16.85,9.85,1098.29,Diana
+TXN00294,13-11-2023,CUST6167,Consumer,West,Germany,Electronics,Laptop,5,265.33,1326.65,935.37,391.28,UPI,Paid,0.29,7.69,360.14,Diana
+TXN00295,29-01-2023,CUST3618,SMB,West,India,Office Supplies,Envelope,6,377.49,2264.94,1976.09,288.85,Net Banking,Paid,13.08,16.56,209.49,Eve
+TXN00296,02-09-2023,CUST4645,Corporate,West,USA,Electronics,Smartphone,11,142.76,1570.36,1037.5,532.86,Net Banking,Paid,4.83,7.79,467.62,Frank
+TXN00297,10-08-2023,CUST7859,Corporate,West,UK,Office Supplies,Envelope,17,296.49,5040.33,3226.29,1814.04,Net Banking,Pending,9.02,17.46,1362.25,Alice
+TXN00298,03-03-2023,CUST5334,SMB,South,UK,Furniture,Chair,1,269.07,269.07,228.11,40.96,Cash,Pending,5.57,13.51,33.45,Frank
+TXN00299,15-03-2023,CUST4046,Consumer,East,UK,Office Supplies,Stapler,6,395.49,2372.94,1974.52,398.42,Wallet,Paid,8.65,5.4,344.3,Frank
+TXN00300,11-03-2023,CUST5500,Enterprise,East,UK,Electronics,Smartwatch,14,336.76,4714.64,3285.67,1428.97,Net Banking,Overdue,18.02,17.95,961.19,Frank
+TXN00301,15-09-2023,CUST3378,Consumer,South,India,Furniture,Desk,12,170.05,2040.6,1682.38,358.22,Cash,Pending,0.11,11.06,318.25,Eve
+TXN00302,26-09-2023,CUST3850,Enterprise,East,UK,Electronics,Tablet,11,16.71,183.81,114.71,69.1,Cash,Overdue,0.31,5.22,65.29,Bob
+TXN00303,22-12-2023,CUST7047,SMB,East,Germany,Office Supplies,Notebook,3,469.82,1409.46,1021.08,388.38,Cash,Pending,7.81,5.9,336.92,Eve
+TXN00304,19-01-2023,CUST4521,Corporate,North,UK,Electronics,Smartwatch,16,302.46,4839.36,4251.16,588.2,UPI,Overdue,12.37,13.23,447.25,Eve
+TXN00305,20-02-2023,CUST6780,Enterprise,South,Germany,Furniture,Chair,10,360.4,3604,2803.72,800.28,Net Banking,Overdue,16.66,9.71,602.19,Frank
+TXN00306,29-07-2023,CUST8031,SMB,East,India,Electronics,Tablet,9,325.69,2931.21,2615.44,315.77,UPI,Pending,3.12,13.27,265.32,Diana
+TXN00307,12-07-2023,CUST2678,Enterprise,West,USA,Furniture,Table,15,231.93,3478.95,3077.56,401.39,UPI,Pending,15.58,12.93,295.04,Charlie
+TXN00308,26-07-2023,CUST5875,Enterprise,South,Germany,Furniture,Table,3,323.13,969.39,858.94,110.45,Cash,Paid,11.69,15.84,82.09,Bob
+TXN00309,19-10-2023,CUST8605,Corporate,East,Germany,Office Supplies,Notebook,8,42.6,340.8,228.08,112.72,Credit Card,Overdue,17.66,13.57,80.22,Eve
+TXN00310,27-08-2023,CUST6047,Enterprise,East,India,Office Supplies,Envelope,9,498.65,4487.85,2733.14,1754.71,UPI,Paid,12.45,17.65,1265.1,Eve
+TXN00311,10-08-2023,CUST7419,Enterprise,East,India,Office Supplies,Envelope,17,337.96,5745.32,4984.46,760.86,Cash,Overdue,11.04,15.26,573.57,Diana
+TXN00312,27-02-2023,CUST9954,Enterprise,South,USA,Furniture,Desk,15,82.17,1232.55,1099.34,133.21,Credit Card,Overdue,15.97,9.24,101.59,Eve
+TXN00313,16-12-2023,CUST7711,Enterprise,South,UK,Electronics,Smartwatch,13,40.66,528.58,350.53,178.05,Wallet,Overdue,15.54,5.99,141.37,Frank
+TXN00314,10-05-2023,CUST8542,SMB,West,USA,Furniture,Chair,6,392.47,2354.82,1627.39,727.43,Net Banking,Pending,17.51,10.74,535.61,Bob
+TXN00315,09-11-2023,CUST7324,Enterprise,South,India,Furniture,Chair,16,278.15,4450.4,3994.38,456.02,Credit Card,Overdue,3.98,5.58,413.44,Eve
+TXN00316,03-12-2023,CUST4103,Consumer,West,Germany,Furniture,Cabinet,18,240.73,4333.14,3452.72,880.42,Wallet,Pending,16.76,9.7,661.77,Charlie
+TXN00317,17-02-2023,CUST8185,Enterprise,East,UK,Office Supplies,Pen,8,106.25,850,752.62,97.38,Cash,Pending,11.35,12.53,75.51,Bob
+TXN00318,27-09-2023,CUST2630,Corporate,West,Germany,Office Supplies,Envelope,13,334.22,4344.86,2790.99,1553.87,Wallet,Paid,5.57,7.84,1352.28,Eve
+TXN00319,03-09-2023,CUST3785,Enterprise,South,Germany,Electronics,Laptop,8,283.8,2270.4,1615.05,655.35,Net Banking,Pending,7.35,6.13,569.96,Alice
+TXN00320,11-11-2023,CUST6918,Consumer,East,India,Furniture,Desk,9,133.8,1204.2,910.4,293.8,Wallet,Overdue,11.78,14.77,220.91,Eve
+TXN00321,07-05-2023,CUST3985,Corporate,North,Germany,Electronics,Smartphone,4,234.58,938.32,661.86,276.46,Credit Card,Pending,4.74,17.33,217.72,Frank
+TXN00322,24-11-2023,CUST1314,Corporate,East,UK,Electronics,Tablet,5,238.49,1192.45,987.55,204.9,UPI,Pending,8.6,12.76,163.38,Eve
+TXN00323,06-04-2023,CUST1497,Consumer,South,USA,Furniture,Chair,11,24.93,274.23,181.36,92.87,Credit Card,Overdue,12.3,16.84,67.73,Bob
+TXN00324,30-12-2023,CUST7622,Consumer,East,Germany,Furniture,Chair,9,421.2,3790.8,2457.21,1333.59,Net Banking,Overdue,8.98,8.09,1115.63,Diana
+TXN00325,25-08-2023,CUST8117,Consumer,North,Germany,Office Supplies,Notebook,12,196.08,2352.96,1977.51,375.45,Net Banking,Overdue,11.37,13.47,287.94,Alice
+TXN00326,09-08-2023,CUST4924,Enterprise,East,Germany,Furniture,Table,18,165.84,2985.12,2462.21,522.91,Net Banking,Pending,1.75,8.68,469.16,Charlie
+TXN00327,19-05-2023,CUST7999,Consumer,North,UK,Furniture,Cabinet,8,467.27,3738.16,2540.64,1197.52,Credit Card,Pending,13.57,9.13,940.52,Bob
+TXN00328,07-02-2023,CUST8538,Enterprise,West,USA,Furniture,Chair,11,176.49,1941.39,1430.19,511.2,UPI,Paid,14.12,13.09,381.55,Frank
+TXN00329,24-03-2023,CUST6305,Enterprise,East,USA,Office Supplies,Envelope,1,53.6,53.6,48.11,5.49,Credit Card,Overdue,19.7,17.21,3.65,Bob
+TXN00330,17-05-2023,CUST1183,Enterprise,East,Germany,Office Supplies,Notebook,13,228.89,2975.57,2233.03,742.54,UPI,Pending,1.2,16.76,610.67,Diana
+TXN00331,26-12-2023,CUST9002,Enterprise,North,UK,Furniture,Cabinet,16,394.26,6308.16,4659.95,1648.21,Credit Card,Paid,4.99,14.32,1341.72,Bob
+TXN00332,06-12-2023,CUST8299,SMB,West,UK,Electronics,Laptop,2,100.47,200.94,141.19,59.75,Credit Card,Paid,16.45,7.25,46.3,Eve
+TXN00333,21-10-2023,CUST6884,SMB,South,USA,Furniture,Desk,15,222.58,3338.7,2167.89,1170.81,Credit Card,Pending,10.93,16.73,868.37,Diana
+TXN00334,30-10-2023,CUST9662,Enterprise,East,USA,Electronics,Smartwatch,3,287.64,862.92,687.84,175.08,Net Banking,Pending,11.21,17.25,128.64,Charlie
+TXN00335,02-03-2023,CUST5287,Consumer,South,India,Electronics,Tablet,5,68.17,340.85,304.78,36.07,Cash,Paid,1.34,12.73,31.06,Alice
+TXN00336,26-12-2023,CUST3866,Corporate,East,Germany,Office Supplies,Notebook,13,288.31,3748.03,2582.05,1165.98,Cash,Paid,16.37,17.79,801.64,Alice
+TXN00337,13-04-2023,CUST4806,Corporate,North,Germany,Office Supplies,Notebook,12,266.56,3198.72,2128.68,1070.04,Cash,Overdue,11.49,6.79,882.78,Bob
+TXN00338,01-07-2023,CUST2449,Consumer,East,India,Furniture,Table,3,181.9,545.7,386.77,158.93,Credit Card,Paid,11.15,7.03,131.28,Frank
+TXN00339,03-12-2023,CUST5591,Corporate,North,USA,Office Supplies,Notebook,14,196.69,2753.66,2320.02,433.64,Cash,Overdue,15.63,8.58,334.47,Charlie
+TXN00340,01-03-2023,CUST8984,SMB,North,USA,Furniture,Cabinet,5,162.78,813.9,549.33,264.57,Net Banking,Pending,19.42,12.31,186.95,Frank
+TXN00341,13-01-2023,CUST8566,SMB,East,UK,Office Supplies,Envelope,3,47.63,142.89,100.94,41.95,Wallet,Overdue,8.06,15.84,32.46,Eve
+TXN00342,25-05-2023,CUST2073,Consumer,East,Germany,Electronics,Laptop,14,146.27,2047.78,1361.95,685.83,Wallet,Overdue,0.58,16.79,567.37,Diana
+TXN00343,12-12-2023,CUST3284,Corporate,East,UK,Furniture,Desk,15,368.43,5526.45,4904.37,622.08,Cash,Pending,17.72,17.15,424.07,Charlie
+TXN00344,13-04-2023,CUST2001,Consumer,North,Germany,Office Supplies,Notebook,10,164.26,1642.6,1006.78,635.82,Cash,Paid,7.96,10.77,522.18,Frank
+TXN00345,22-06-2023,CUST3710,Consumer,South,USA,Furniture,Chair,14,62.73,878.22,729.31,148.91,UPI,Pending,4.99,12.12,124.33,Alice
+TXN00346,17-08-2023,CUST3671,Enterprise,East,UK,Office Supplies,Notebook,11,359.29,3952.19,3197.36,754.83,Wallet,Paid,14.57,9.5,583.59,Frank
+TXN00347,18-10-2023,CUST8701,Consumer,West,USA,Office Supplies,Stapler,13,495.26,6438.38,3912.8,2525.58,Wallet,Overdue,9.19,10.6,2050.37,Charlie
+TXN00348,21-08-2023,CUST2814,Corporate,East,India,Office Supplies,Pen,15,253.48,3802.2,3327.24,474.96,Credit Card,Pending,3.42,10.44,410.83,Alice
+TXN00349,15-03-2023,CUST1717,Corporate,North,USA,Furniture,Table,9,35.67,321.03,207.99,113.04,UPI,Pending,4.68,5.31,102.03,Eve
+TXN00350,02-08-2023,CUST5780,SMB,East,India,Furniture,Desk,2,463.97,927.94,673.58,254.36,Net Banking,Overdue,8.4,5.13,221.04,Charlie
+TXN00351,06-07-2023,CUST2881,Enterprise,South,India,Office Supplies,Stapler,15,29.73,445.95,346.28,99.67,Cash,Overdue,0.13,5.8,93.77,Charlie
+TXN00352,10-10-2023,CUST5686,SMB,West,UK,Office Supplies,Stapler,14,105.28,1473.92,925.56,548.36,Cash,Pending,3.27,7.88,488.63,Alice
+TXN00353,19-10-2023,CUST9711,Consumer,South,Germany,Furniture,Chair,15,436.64,6549.6,4093.88,2455.72,UPI,Overdue,1.03,11.4,2153.36,Eve
+TXN00354,12-10-2023,CUST5290,SMB,West,UK,Furniture,Desk,19,115.96,2203.24,1459.82,743.42,Cash,Overdue,18.22,12.12,534.28,Alice
+TXN00355,22-11-2023,CUST5926,Enterprise,South,USA,Furniture,Chair,4,296.57,1186.28,831.89,354.39,UPI,Paid,4.93,17.69,277.32,Diana
+TXN00356,22-01-2023,CUST1691,Enterprise,East,Germany,Electronics,Tablet,19,211.54,4019.26,2701.58,1317.68,Credit Card,Paid,10.91,6.37,1099.14,Eve
+TXN00357,09-12-2023,CUST7781,SMB,North,USA,Furniture,Desk,12,49.8,597.6,536.51,61.09,UPI,Overdue,19.77,17.7,40.34,Frank
+TXN00358,08-06-2023,CUST6308,SMB,East,UK,Electronics,Smartwatch,2,222.84,445.68,327.1,118.58,UPI,Paid,10.01,13.38,92.43,Eve
+TXN00359,17-04-2023,CUST3176,SMB,East,India,Office Supplies,Notebook,15,411.01,6165.15,3773.33,2391.82,Credit Card,Overdue,19.84,8.82,1748.18,Diana
+TXN00360,30-06-2023,CUST7761,SMB,South,USA,Office Supplies,Notebook,11,489.78,5387.58,4321.66,1065.92,Cash,Overdue,6.49,13.79,859.29,Alice
+TXN00361,01-07-2023,CUST4009,Consumer,West,USA,Furniture,Table,6,80.26,481.56,291.59,189.97,UPI,Pending,4.67,13.13,157.32,Alice
+TXN00362,11-02-2023,CUST3350,Consumer,South,Germany,Electronics,Laptop,18,32.05,576.9,473.2,103.7,UPI,Pending,11.88,10.35,81.92,Alice
+TXN00363,17-03-2023,CUST2881,Consumer,South,Germany,Electronics,Laptop,16,23.65,378.4,298.71,79.69,Credit Card,Overdue,10.96,7.27,65.8,Charlie
+TXN00364,08-06-2023,CUST6197,Corporate,North,UK,Electronics,Smartwatch,7,255.14,1785.98,1108.77,677.21,Cash,Pending,2.55,15.4,558.31,Bob
+TXN00365,28-11-2023,CUST7135,Corporate,West,India,Furniture,Table,16,497.26,7956.16,6218.89,1737.27,Credit Card,Paid,13.59,17.3,1241.47,Charlie
+TXN00366,31-05-2023,CUST9671,Consumer,East,Germany,Office Supplies,Pen,4,169.65,678.6,433.17,245.43,Wallet,Paid,13.3,12.24,186.74,Frank
+TXN00367,15-10-2023,CUST6675,Consumer,North,USA,Office Supplies,Envelope,2,165.95,331.9,288.18,43.72,Net Banking,Pending,2.36,5,40.55,Charlie
+TXN00368,30-09-2023,CUST5571,SMB,South,USA,Furniture,Cabinet,8,448.26,3586.08,3037.7,548.38,Cash,Paid,11.06,15.56,411.84,Frank
+TXN00369,21-11-2023,CUST5603,SMB,North,Germany,Office Supplies,Pen,12,57.36,688.32,449.52,238.8,Net Banking,Paid,1.75,5.86,220.87,Diana
+TXN00370,15-02-2023,CUST2986,Consumer,East,USA,Electronics,Tablet,1,207.32,207.32,166.22,41.1,Cash,Overdue,7.29,14.6,32.54,Eve
+TXN00371,30-12-2023,CUST8371,Enterprise,North,Germany,Electronics,Tablet,4,218.71,874.84,785.96,88.88,Net Banking,Paid,15.61,13.76,64.69,Alice
+TXN00372,27-03-2023,CUST2499,Enterprise,East,India,Electronics,Laptop,11,106.16,1167.76,744.64,423.12,UPI,Pending,2.16,11.22,367.53,Charlie
+TXN00373,18-03-2023,CUST1923,Consumer,West,Germany,Office Supplies,Envelope,7,487.98,3415.86,2535.42,880.44,Net Banking,Pending,5.91,17.12,686.58,Bob
+TXN00374,02-10-2023,CUST3949,Corporate,West,USA,Electronics,Laptop,1,488.75,488.75,373.13,115.62,Wallet,Pending,17.87,5.97,89.29,Eve
+TXN00375,20-11-2023,CUST8833,Corporate,South,Germany,Office Supplies,Stapler,5,20.26,101.3,70.38,30.92,Credit Card,Paid,15.33,14.13,22.48,Alice
+TXN00376,26-04-2023,CUST6599,Consumer,East,USA,Furniture,Cabinet,9,132.93,1196.37,761.05,435.32,Wallet,Overdue,19.39,9.91,316.14,Frank
+TXN00377,29-01-2023,CUST8008,Enterprise,South,USA,Office Supplies,Notebook,17,62.11,1055.87,669.68,386.19,Wallet,Paid,17.45,10.88,284.11,Alice
+TXN00378,24-12-2023,CUST1506,SMB,North,Germany,Furniture,Desk,6,233.14,1398.84,1013.44,385.4,Credit Card,Pending,3.95,7.35,342.97,Alice
+TXN00379,02-11-2023,CUST7106,Enterprise,North,India,Electronics,Smartwatch,2,28.66,57.32,45.05,12.27,UPI,Paid,0.84,9.73,10.98,Eve
+TXN00380,18-10-2023,CUST1919,SMB,West,USA,Office Supplies,Stapler,14,82.7,1157.8,754.45,403.35,Cash,Overdue,3.03,10.63,349.55,Diana
+TXN00381,17-01-2023,CUST4622,Enterprise,South,USA,Office Supplies,Pen,4,108.38,433.52,301.08,132.44,UPI,Pending,7.2,8.99,111.86,Eve
+TXN00382,14-09-2023,CUST1441,Corporate,East,USA,Electronics,Laptop,6,305.63,1833.78,1541.3,292.48,Net Banking,Paid,8.45,17.94,219.73,Frank
+TXN00383,06-09-2023,CUST3080,Corporate,North,Germany,Furniture,Table,7,491.44,3440.08,2152.94,1287.14,Cash,Paid,11.34,9.57,1031.97,Bob
+TXN00384,29-06-2023,CUST6606,Consumer,West,USA,Furniture,Cabinet,7,452.18,3165.26,2263.05,902.21,Cash,Pending,8.85,5.63,776.07,Bob
+TXN00385,11-01-2023,CUST5675,SMB,South,Germany,Electronics,Laptop,2,414.71,829.42,654.78,174.64,Credit Card,Overdue,11.97,10.38,137.78,Frank
+TXN00386,16-06-2023,CUST9415,Enterprise,East,UK,Electronics,Smartphone,13,411.61,5350.93,4534.68,816.25,Cash,Pending,5.67,15.88,647.7,Charlie
+TXN00387,22-10-2023,CUST4854,SMB,North,UK,Office Supplies,Stapler,19,373.72,7100.68,4780.52,2320.16,Net Banking,Pending,7.7,16.11,1796.51,Eve
+TXN00388,27-05-2023,CUST4138,Enterprise,West,UK,Furniture,Desk,15,257.79,3866.85,2392.08,1474.77,Cash,Overdue,10.41,17.93,1084.35,Alice
+TXN00389,12-11-2023,CUST7477,Consumer,North,India,Office Supplies,Stapler,7,31.59,221.13,144.97,76.16,Credit Card,Paid,9.02,9.3,62.85,Frank
+TXN00390,19-07-2023,CUST3999,Consumer,North,USA,Electronics,Smartphone,14,264.1,3697.4,2491.14,1206.26,Credit Card,Overdue,19.79,13.9,833.05,Charlie
+TXN00391,25-01-2023,CUST6649,Corporate,North,UK,Furniture,Desk,18,339.47,6110.46,3977.68,2132.78,Wallet,Overdue,6.62,14.96,1693.65,Alice
+TXN00392,20-08-2023,CUST8235,Corporate,North,USA,Office Supplies,Notebook,8,279.43,2235.44,1987.19,248.25,Cash,Paid,3.39,5.66,226.26,Bob
+TXN00393,04-12-2023,CUST5041,SMB,North,USA,Office Supplies,Stapler,12,45.64,547.68,374.71,172.97,Credit Card,Overdue,15.65,17.9,119.78,Eve
+TXN00394,26-01-2023,CUST7893,Corporate,South,India,Electronics,Smartphone,19,372.44,7076.36,5545.62,1530.74,Net Banking,Pending,16.21,8.54,1173.07,Diana
+TXN00395,06-07-2023,CUST2312,SMB,West,UK,Electronics,Laptop,17,479.03,8143.51,7060.76,1082.75,Net Banking,Pending,8.05,11.75,878.61,Frank
+TXN00396,30-05-2023,CUST7671,Enterprise,West,UK,Electronics,Laptop,8,87.78,702.24,621.33,80.91,Cash,Pending,18.14,17.89,54.38,Alice
+TXN00397,14-05-2023,CUST5758,SMB,West,UK,Office Supplies,Stapler,13,300.95,3912.35,3022.99,889.36,Credit Card,Paid,9.43,12.2,707.22,Eve
+TXN00398,29-03-2023,CUST5530,Corporate,East,USA,Office Supplies,Notebook,9,374.92,3374.28,2442.04,932.24,Cash,Pending,10.26,6.7,780.54,Alice
+TXN00399,09-12-2023,CUST7772,Enterprise,North,Germany,Electronics,Laptop,18,213.6,3844.8,3354.22,490.58,Cash,Pending,1.83,9.14,437.58,Bob
+TXN00400,17-06-2023,CUST6622,Consumer,East,India,Office Supplies,Notebook,17,187.21,3182.57,2029.25,1153.32,Net Banking,Pending,12.84,8.58,918.98,Alice
+TXN00401,06-05-2023,CUST4553,Consumer,West,USA,Electronics,Tablet,19,309.71,5884.49,4052.79,1831.7,Credit Card,Paid,6.55,7.14,1589.51,Diana
+TXN00402,26-12-2023,CUST2462,Corporate,South,India,Electronics,Smartphone,6,298.93,1793.58,1112.4,681.18,Credit Card,Overdue,1.76,7.23,620.81,Frank
+TXN00403,01-09-2023,CUST9465,Enterprise,West,Germany,Electronics,Smartphone,15,199.85,2997.75,2575.2,422.55,Cash,Paid,5.87,8.46,364.1,Charlie
+TXN00404,04-11-2023,CUST4332,Enterprise,East,USA,Office Supplies,Notebook,13,19.28,250.64,205.72,44.92,Cash,Overdue,2.66,13.3,37.91,Frank
+TXN00405,13-09-2023,CUST5616,Corporate,North,UK,Office Supplies,Pen,10,430.96,4309.6,3232.28,1077.32,Wallet,Paid,4.78,14.85,873.49,Diana
+TXN00406,18-07-2023,CUST1571,SMB,East,Germany,Office Supplies,Pen,14,193.23,2705.22,2342.41,362.81,Credit Card,Overdue,19.31,10.12,263.12,Alice
+TXN00407,10-05-2023,CUST4084,Corporate,East,Germany,Furniture,Cabinet,6,189.81,1138.86,733.62,405.24,Net Banking,Pending,6.27,13.27,329.43,Frank
+TXN00408,11-11-2023,CUST8099,SMB,South,UK,Furniture,Desk,9,191.41,1722.69,1421.88,300.81,Net Banking,Overdue,2.86,13.55,252.61,Diana
+TXN00409,07-01-2023,CUST2167,SMB,South,Germany,Office Supplies,Envelope,18,165.3,2975.4,2507.21,468.19,UPI,Paid,6.05,16.16,368.78,Charlie
+TXN00410,10-01-2023,CUST7691,Consumer,South,Germany,Furniture,Cabinet,6,344.44,2066.64,1445.58,621.06,Credit Card,Pending,12.91,11.64,477.92,Charlie
+TXN00411,11-10-2023,CUST5994,SMB,South,India,Furniture,Cabinet,16,171.12,2737.92,2186.76,551.16,Net Banking,Overdue,18.91,9.07,406.4,Charlie
+TXN00412,23-11-2023,CUST4968,Consumer,East,Germany,Furniture,Desk,3,437.79,1313.37,854.55,458.82,Net Banking,Paid,9.51,16.04,348.59,Diana
+TXN00413,28-03-2023,CUST4624,SMB,East,USA,Electronics,Smartphone,18,206.88,3723.84,2879.83,844.01,Net Banking,Overdue,9.54,15.31,646.6,Charlie
+TXN00414,24-06-2023,CUST6565,SMB,West,USA,Office Supplies,Envelope,17,159.08,2704.36,1735.59,968.77,UPI,Pending,6.13,9.24,825.36,Frank
+TXN00415,27-01-2023,CUST7414,Corporate,West,UK,Office Supplies,Stapler,15,433.11,6496.65,4155.82,2340.83,Cash,Pending,18.23,7.88,1763.27,Bob
+TXN00416,20-03-2023,CUST8265,Corporate,South,UK,Electronics,Tablet,6,40.93,245.58,176.58,69,UPI,Paid,9.03,16.3,52.54,Frank
+TXN00417,03-04-2023,CUST5435,Consumer,North,India,Furniture,Cabinet,5,411.92,2059.6,1636.61,422.99,Credit Card,Overdue,9.16,8.34,352.2,Bob
+TXN00418,12-05-2023,CUST1596,SMB,South,USA,Furniture,Chair,7,424.37,2970.59,2013.71,956.88,Net Banking,Paid,11.42,11.22,752.5,Bob
+TXN00419,04-07-2023,CUST6953,Consumer,East,Germany,Furniture,Desk,2,92.23,184.46,117.34,67.12,Credit Card,Pending,14.46,8.01,52.82,Alice
+TXN00420,04-08-2023,CUST8299,Enterprise,North,USA,Office Supplies,Stapler,1,362.17,362.17,229.32,132.85,Wallet,Pending,2.16,8.02,119.56,Bob
+TXN00421,28-12-2023,CUST5567,Enterprise,North,India,Furniture,Table,13,372.15,4837.95,3899.17,938.78,Cash,Pending,17.55,15.05,657.53,Frank
+TXN00422,13-10-2023,CUST3809,Corporate,South,Germany,Office Supplies,Stapler,18,493.58,8884.44,7341.84,1542.6,UPI,Paid,17.73,10.18,1139.9,Bob
+TXN00423,29-12-2023,CUST2820,Consumer,South,USA,Electronics,Tablet,15,207.71,3115.65,2088.81,1026.84,Net Banking,Pending,6.75,15.76,806.62,Frank
+TXN00424,24-11-2023,CUST1240,Consumer,West,Germany,Office Supplies,Stapler,19,219.8,4176.2,2582.68,1593.52,Wallet,Overdue,7.27,10.7,1319.56,Charlie
+TXN00425,31-07-2023,CUST3173,Consumer,East,India,Furniture,Table,1,477.17,477.17,294.92,182.25,UPI,Paid,6.29,13.76,147.29,Frank
+TXN00426,05-10-2023,CUST2910,SMB,North,Germany,Furniture,Cabinet,18,103.16,1856.88,1571.62,285.26,Cash,Pending,1.56,17.42,231.89,Charlie
+TXN00427,04-10-2023,CUST9683,SMB,North,USA,Furniture,Desk,1,419.85,419.85,315.2,104.65,Credit Card,Paid,16.06,17.75,72.25,Eve
+TXN00428,23-11-2023,CUST3155,SMB,South,USA,Electronics,Smartwatch,14,276.83,3875.62,2511.26,1364.36,Net Banking,Pending,3.35,9.03,1199.58,Eve
+TXN00429,20-05-2023,CUST2861,Corporate,West,India,Electronics,Laptop,15,278.05,4170.75,2611.87,1558.88,UPI,Pending,8.27,5.52,1351.03,Bob
+TXN00430,01-12-2023,CUST2067,SMB,South,India,Office Supplies,Envelope,13,427.93,5563.09,3531.15,2031.94,Cash,Paid,10.07,15.78,1538.97,Frank
+TXN00431,29-04-2023,CUST4791,Corporate,North,USA,Office Supplies,Stapler,3,104.09,312.27,201.04,111.23,Credit Card,Paid,18.35,16.54,75.8,Bob
+TXN00432,12-02-2023,CUST1616,Consumer,North,USA,Furniture,Cabinet,10,82.77,827.7,644.73,182.97,Wallet,Paid,7.64,6.72,157.63,Bob
+TXN00433,25-04-2023,CUST5078,Corporate,East,Germany,Electronics,Smartwatch,15,382.06,5730.9,4663.8,1067.1,Net Banking,Pending,9.45,9.92,870.41,Bob
+TXN00434,18-07-2023,CUST4672,SMB,West,USA,Office Supplies,Notebook,1,428.29,428.29,350.16,78.13,Net Banking,Paid,7.74,6.05,67.72,Frank
+TXN00435,30-04-2023,CUST5704,Consumer,West,India,Electronics,Laptop,9,177.99,1601.91,1014.72,587.19,UPI,Pending,4.12,14.64,480.57,Eve
+TXN00436,02-07-2023,CUST1924,Enterprise,South,India,Electronics,Laptop,10,91.45,914.5,800.14,114.36,UPI,Paid,7.44,14.88,90.1,Diana
+TXN00437,04-12-2023,CUST8162,Enterprise,West,Germany,Office Supplies,Stapler,12,34.31,411.72,278.78,132.94,Wallet,Paid,17.45,6.13,103.01,Bob
+TXN00438,05-08-2023,CUST1153,Corporate,West,India,Furniture,Desk,3,182.31,546.93,477.4,69.53,Credit Card,Paid,8.62,9.06,57.78,Charlie
+TXN00439,29-12-2023,CUST8216,SMB,South,UK,Electronics,Laptop,7,176.22,1233.54,941.66,291.88,Cash,Pending,7.9,5.67,253.58,Bob
+TXN00440,28-04-2023,CUST3511,Enterprise,South,Germany,Electronics,Tablet,6,321.02,1926.12,1263.39,662.73,Credit Card,Pending,10.91,7.65,545.26,Alice
+TXN00441,26-01-2023,CUST4192,Consumer,West,UK,Office Supplies,Envelope,4,360.41,1441.64,1278.94,162.7,Wallet,Pending,5.99,17.51,126.17,Alice
+TXN00442,26-09-2023,CUST4661,Enterprise,South,USA,Furniture,Chair,16,10.46,167.36,102.39,64.97,Credit Card,Overdue,4.85,13.62,53.4,Frank
+TXN00443,31-10-2023,CUST6499,Corporate,West,Germany,Office Supplies,Notebook,3,251.26,753.78,610.76,143.02,Wallet,Pending,11.47,9.44,114.66,Eve
+TXN00444,26-08-2023,CUST6253,Consumer,West,Germany,Furniture,Table,12,422.63,5071.56,3977.32,1094.24,Cash,Overdue,3.83,12.22,923.74,Charlie
+TXN00445,19-09-2023,CUST3131,SMB,North,UK,Electronics,Smartwatch,7,425.3,2977.1,1948.65,1028.45,Net Banking,Pending,14.8,15.26,742.53,Alice
+TXN00446,28-09-2023,CUST7085,Consumer,South,India,Electronics,Smartphone,11,355.12,3906.32,3432.01,474.31,Cash,Overdue,6.13,8.45,407.61,Bob
+TXN00447,20-05-2023,CUST1363,SMB,South,USA,Electronics,Laptop,17,69.44,1180.48,815.51,364.97,Net Banking,Paid,11.29,12.81,282.29,Eve
+TXN00448,20-12-2023,CUST6204,Corporate,North,Germany,Furniture,Chair,19,462.08,8779.52,7275.27,1504.25,UPI,Pending,3.84,13.67,1248.75,Alice
+TXN00449,20-05-2023,CUST7984,Corporate,West,USA,Office Supplies,Envelope,4,106.8,427.2,359.51,67.69,Wallet,Paid,7.71,11.59,55.23,Frank
+TXN00450,30-08-2023,CUST8124,Corporate,North,Germany,Furniture,Table,7,447.77,3134.39,2245.32,889.07,Credit Card,Paid,14.49,15.87,639.59,Eve
+TXN00451,13-02-2023,CUST3603,Corporate,East,USA,Furniture,Table,17,315.52,5363.84,3319.85,2043.99,Net Banking,Pending,13.46,9.38,1602.95,Frank
+TXN00452,07-12-2023,CUST7200,Corporate,East,Germany,Electronics,Tablet,18,46.7,840.6,531.13,309.47,Wallet,Pending,3.9,11.56,263.02,Diana
+TXN00453,01-02-2023,CUST9216,SMB,East,USA,Electronics,Smartwatch,8,418.74,3349.92,2128.51,1221.41,Credit Card,Paid,5.02,6.31,1086.89,Eve
+TXN00454,14-08-2023,CUST9787,SMB,East,USA,Electronics,Laptop,18,172.89,3112.02,2161.8,950.22,Cash,Pending,7.34,6.29,825.09,Diana
+TXN00455,26-06-2023,CUST1138,Corporate,South,USA,Electronics,Tablet,13,353.42,4594.46,3149.79,1444.67,Net Banking,Pending,9.11,11.27,1165.08,Charlie
+TXN00456,06-11-2023,CUST6839,Consumer,West,Germany,Furniture,Chair,8,94.24,753.92,576.14,177.78,UPI,Pending,1.28,9.13,159.48,Charlie
+TXN00457,31-03-2023,CUST3663,SMB,South,USA,Office Supplies,Envelope,2,17.85,35.7,31.74,3.96,Cash,Paid,12.06,6.04,3.27,Eve
+TXN00458,09-10-2023,CUST4159,Enterprise,West,UK,Furniture,Desk,9,209.14,1882.26,1626.18,256.08,Cash,Overdue,17.98,13.11,182.5,Eve
+TXN00459,27-06-2023,CUST1654,Corporate,West,UK,Office Supplies,Envelope,3,157.47,472.41,309.53,162.88,Cash,Pending,9.48,7.94,135.73,Bob
+TXN00460,31-05-2023,CUST6972,Enterprise,North,India,Electronics,Tablet,7,112.46,787.22,503.12,284.1,Cash,Overdue,8.51,12.35,227.82,Eve
+TXN00461,28-12-2023,CUST9075,Corporate,North,Germany,Electronics,Smartwatch,9,273.8,2464.2,2153.63,310.57,Wallet,Overdue,2.67,17.16,250.41,Eve
+TXN00462,13-04-2023,CUST3665,Consumer,West,USA,Furniture,Cabinet,10,220.04,2200.4,1735.13,465.27,Credit Card,Paid,18.59,7.66,349.76,Alice
+TXN00463,23-05-2023,CUST7821,SMB,North,India,Office Supplies,Notebook,19,109.71,2084.49,1847.62,236.87,UPI,Paid,8.1,8.11,200.03,Eve
+TXN00464,09-01-2023,CUST1572,Consumer,South,UK,Office Supplies,Notebook,2,380.53,761.06,546.54,214.52,Credit Card,Overdue,8.89,14.65,166.82,Bob
+TXN00465,02-12-2023,CUST7731,Enterprise,North,USA,Furniture,Chair,7,335.23,2346.61,1491.2,855.41,Net Banking,Overdue,17.31,12.5,618.92,Frank
+TXN00466,31-03-2023,CUST6565,Corporate,East,USA,Electronics,Tablet,9,296.8,2671.2,1808.2,863,Credit Card,Overdue,15.95,11.6,641.21,Charlie
+TXN00467,26-10-2023,CUST5022,Enterprise,North,Germany,Furniture,Desk,15,361.51,5422.65,3975.18,1447.47,Wallet,Pending,19.33,14.06,1003.5,Frank
+TXN00468,24-04-2023,CUST9945,SMB,West,India,Office Supplies,Pen,4,440.1,1760.4,1163.97,596.43,Cash,Overdue,16.45,9.05,453.22,Eve
+TXN00469,25-05-2023,CUST4057,Consumer,North,UK,Furniture,Chair,18,96.08,1729.44,1303.92,425.52,Wallet,Overdue,9.43,7.96,354.72,Diana
+TXN00470,27-04-2023,CUST1579,SMB,South,USA,Electronics,Tablet,10,233.8,2338,1633.72,704.28,Cash,Pending,9.21,14.23,548.43,Diana
+TXN00471,08-05-2023,CUST3738,Consumer,West,India,Electronics,Tablet,14,100.31,1404.34,859.19,545.15,Credit Card,Paid,15.49,6.75,429.61,Diana
+TXN00472,23-10-2023,CUST8338,SMB,East,Germany,Furniture,Chair,13,383.33,4983.29,4325.45,657.84,Cash,Overdue,10.71,11.2,521.6,Bob
+TXN00473,05-04-2023,CUST1261,Consumer,North,UK,Furniture,Cabinet,16,481.41,7702.56,5797.62,1904.94,Wallet,Pending,5.57,17.47,1484.58,Eve
+TXN00474,18-01-2023,CUST6724,SMB,West,India,Electronics,Smartphone,3,412.09,1236.27,887.25,349.02,Net Banking,Paid,8.79,11.64,281.29,Diana
+TXN00475,21-06-2023,CUST5052,Enterprise,East,Germany,Office Supplies,Notebook,19,136.77,2598.63,1829.85,768.78,Credit Card,Paid,12.5,17.19,557.05,Frank
+TXN00476,10-07-2023,CUST4625,Corporate,East,Germany,Electronics,Smartphone,15,271.73,4075.95,3287.26,788.69,Net Banking,Paid,4.26,16.27,632.24,Frank
+TXN00477,08-09-2023,CUST9134,Consumer,East,Germany,Electronics,Smartwatch,6,73.32,439.92,271.57,168.35,Wallet,Paid,4.55,12.07,141.29,Frank
+TXN00478,21-11-2023,CUST6176,SMB,West,USA,Electronics,Laptop,11,93.53,1028.83,735.98,292.85,Wallet,Paid,15.64,11.29,219.16,Eve
+TXN00479,02-08-2023,CUST8378,Consumer,West,Germany,Electronics,Smartphone,17,377.79,6422.43,4308.16,2114.27,Net Banking,Overdue,3.71,7.37,1885.79,Frank
+TXN00480,26-05-2023,CUST8194,Enterprise,South,UK,Office Supplies,Pen,18,435.31,7835.58,6072.04,1763.54,UPI,Overdue,7.78,6.71,1517.21,Charlie
+TXN00481,20-07-2023,CUST8367,SMB,East,UK,Furniture,Chair,14,180.55,2527.7,2195.73,331.97,Wallet,Paid,17.78,7.09,253.59,Frank
+TXN00482,30-05-2023,CUST5911,Enterprise,North,USA,Office Supplies,Envelope,15,199.28,2989.2,2110.5,878.7,Credit Card,Overdue,9.82,9.17,719.75,Bob
+TXN00483,25-10-2023,CUST7523,Enterprise,East,USA,Furniture,Table,15,292.51,4387.65,3926.96,460.69,Wallet,Overdue,13.63,14.31,340.96,Diana
+TXN00484,29-04-2023,CUST1709,Corporate,South,India,Furniture,Cabinet,2,422.39,844.78,514.56,330.22,UPI,Paid,9.21,7.83,276.33,Frank
+TXN00485,08-12-2023,CUST1508,Enterprise,North,Germany,Electronics,Tablet,13,276.95,3600.35,2295.92,1304.43,Credit Card,Pending,15.21,14.39,946.87,Alice
+TXN00486,07-08-2023,CUST4557,Enterprise,West,UK,Office Supplies,Stapler,4,128.41,513.64,318.67,194.97,Net Banking,Overdue,5.36,10.62,164.92,Eve
+TXN00487,20-11-2023,CUST1845,Consumer,East,USA,Electronics,Smartwatch,8,123.88,991.04,783.61,207.43,UPI,Paid,15.55,7.94,161.27,Diana
+TXN00488,20-06-2023,CUST3581,SMB,East,UK,Office Supplies,Stapler,12,366.24,4394.88,3550.52,844.36,Cash,Paid,2.09,12.4,724.2,Eve
+TXN00489,30-04-2023,CUST6065,Consumer,North,Germany,Furniture,Desk,13,11.02,143.26,97.16,46.1,UPI,Overdue,14.44,7.26,36.58,Bob
+TXN00490,28-12-2023,CUST6235,Corporate,East,Germany,Office Supplies,Stapler,13,251.08,3264.04,2262.21,1001.83,Credit Card,Overdue,10.08,9.2,817.97,Bob
+TXN00491,18-07-2023,CUST2574,Consumer,North,UK,Furniture,Chair,14,390.18,5462.52,4601.56,860.96,Wallet,Paid,8.77,5.5,742.25,Eve
+TXN00492,18-02-2023,CUST6408,Corporate,South,UK,Electronics,Tablet,18,323.09,5815.62,3631.47,2184.15,Net Banking,Overdue,5.93,8.45,1881.01,Charlie
+TXN00493,25-06-2023,CUST9273,SMB,North,Germany,Furniture,Table,3,249.39,748.17,566.56,181.61,Cash,Paid,5.34,16.84,142.96,Diana
+TXN00494,30-06-2023,CUST3790,Consumer,West,Germany,Electronics,Tablet,13,34.16,444.08,300.75,143.33,UPI,Overdue,5.2,10.01,122.28,Diana
+TXN00495,14-08-2023,CUST4636,SMB,West,USA,Office Supplies,Stapler,9,466.85,4201.65,3602.76,598.89,UPI,Overdue,8.74,11.03,486.26,Eve
+TXN00496,11-01-2023,CUST7240,Corporate,South,UK,Office Supplies,Pen,7,487.48,3412.36,3046.15,366.21,Net Banking,Overdue,13.62,16.43,264.36,Charlie
+TXN00497,18-10-2023,CUST4483,SMB,North,India,Office Supplies,Notebook,3,114.21,342.63,215.55,127.08,Wallet,Paid,9.19,5.72,108.8,Bob
+TXN00498,07-07-2023,CUST1229,Consumer,East,USA,Furniture,Desk,4,267.41,1069.64,662.98,406.66,Credit Card,Overdue,9.56,9.62,332.4,Eve
+TXN00499,12-12-2023,CUST8397,SMB,West,USA,Electronics,Laptop,15,331.2,4968,3040.11,1927.89,Cash,Overdue,17.39,16.58,1328.57,Charlie
+TXN00500,29-05-2023,CUST9001,Corporate,East,USA,Furniture,Table,6,421.03,2526.18,2180.44,345.74,Credit Card,Paid,13.43,9.34,271.35,Charlie
+TXN00501,07-12-2023,CUST3311,Corporate,South,UK,Furniture,Chair,16,295.44,4727.04,3805.91,921.13,UPI,Paid,14.55,16.31,658.73,Eve
+TXN00502,06-02-2023,CUST1838,SMB,North,Germany,Electronics,Smartwatch,6,34.01,204.06,157.5,46.56,Cash,Paid,10.83,8.69,37.91,Charlie
+TXN00503,04-08-2023,CUST4673,Consumer,East,India,Office Supplies,Envelope,8,373.43,2987.44,2397.63,589.81,UPI,Paid,2.52,6.69,536.48,Alice
+TXN00504,14-03-2023,CUST3970,Consumer,East,USA,Furniture,Desk,3,305.11,915.33,637.71,277.62,Cash,Pending,1.42,13.59,236.48,Bob
+TXN00505,23-07-2023,CUST1804,Enterprise,East,Germany,Electronics,Smartphone,17,221.67,3768.39,2298.35,1470.04,Cash,Pending,4.2,15.26,1193.39,Charlie
+TXN00506,04-08-2023,CUST6077,Enterprise,West,India,Furniture,Chair,1,17.18,17.18,15.06,2.12,Wallet,Overdue,12.92,8.03,1.7,Alice
+TXN00507,24-09-2023,CUST9014,Corporate,East,Germany,Office Supplies,Pen,3,91.06,273.18,164.1,109.08,UPI,Overdue,18.12,5.72,84.21,Charlie
+TXN00508,08-02-2023,CUST4787,SMB,North,USA,Electronics,Smartphone,16,331.72,5307.52,4628.67,678.85,Wallet,Pending,13.68,7.47,542.21,Eve
+TXN00509,01-01-2023,CUST4259,Enterprise,East,Germany,Furniture,Table,4,80.5,322,203.31,118.69,UPI,Overdue,15.91,6.84,92.98,Frank
+TXN00510,04-08-2023,CUST1618,Consumer,West,India,Electronics,Smartwatch,4,52.52,210.08,140.98,69.1,UPI,Pending,2.49,9.76,60.8,Bob
+TXN00511,21-01-2023,CUST3431,Enterprise,East,UK,Office Supplies,Pen,17,446.58,7591.86,5852.18,1739.68,Credit Card,Overdue,19.83,7.13,1295.26,Diana
+TXN00512,25-06-2023,CUST1237,Corporate,East,India,Office Supplies,Notebook,7,74.59,522.13,452.22,69.91,UPI,Overdue,4.47,16.14,56.01,Bob
+TXN00513,24-05-2023,CUST6507,Enterprise,North,UK,Furniture,Cabinet,12,162.08,1944.96,1611.67,333.29,UPI,Pending,18.81,17.39,223.54,Bob
+TXN00514,17-05-2023,CUST5067,Enterprise,South,India,Furniture,Chair,18,363.32,6539.76,4428.37,2111.39,UPI,Paid,13.61,8.89,1661.87,Bob
+TXN00515,21-06-2023,CUST1719,SMB,South,UK,Office Supplies,Notebook,10,62.65,626.5,379.08,247.42,UPI,Pending,5.39,15.66,197.43,Alice
+TXN00516,09-11-2023,CUST8141,Consumer,West,UK,Furniture,Chair,5,51.14,255.7,212.49,43.21,Cash,Pending,19.77,9.48,31.38,Bob
+TXN00517,01-02-2023,CUST8456,Corporate,East,USA,Furniture,Desk,3,109.84,329.52,223.48,106.04,Credit Card,Pending,7.99,10.45,87.37,Diana
+TXN00518,25-01-2023,CUST2164,SMB,West,UK,Office Supplies,Stapler,9,19.08,171.72,110.43,61.29,Wallet,Overdue,11.62,17.07,44.92,Bob
+TXN00519,29-11-2023,CUST2645,Consumer,South,USA,Furniture,Desk,11,186.8,2054.8,1696.97,357.83,Net Banking,Paid,0.69,13.25,308.28,Eve
+TXN00520,17-07-2023,CUST1810,Enterprise,South,India,Furniture,Desk,17,360.33,6125.61,4132.58,1993.03,UPI,Pending,3.09,13.15,1677.46,Diana
+TXN00521,15-02-2023,CUST5651,Corporate,North,UK,Furniture,Table,11,370.66,4077.26,2837.79,1239.47,UPI,Paid,19.18,7.5,926.61,Alice
+TXN00522,02-10-2023,CUST5868,SMB,East,Germany,Office Supplies,Stapler,8,319.74,2557.92,1868.79,689.13,Net Banking,Pending,0.15,10.49,615.92,Alice
+TXN00523,16-10-2023,CUST9146,Consumer,East,India,Office Supplies,Envelope,7,298.33,2088.31,1385.03,703.28,Cash,Pending,12.56,15.79,517.85,Bob
+TXN00524,13-05-2023,CUST4022,Consumer,West,India,Office Supplies,Stapler,1,249.07,249.07,164.7,84.37,UPI,Paid,19.91,11.24,59.98,Alice
+TXN00525,29-08-2023,CUST2392,Corporate,South,USA,Furniture,Table,18,297.26,5350.68,4000.76,1349.92,UPI,Paid,9.28,8.2,1124.23,Frank
+TXN00526,30-05-2023,CUST5869,Corporate,East,Germany,Office Supplies,Notebook,19,73.4,1394.6,994,400.6,UPI,Paid,12.46,10.81,312.78,Eve
+TXN00527,02-07-2023,CUST1250,Consumer,East,Germany,Furniture,Chair,13,467.45,6076.85,5346.3,730.55,Net Banking,Pending,7.64,5.37,638.5,Charlie
+TXN00528,22-11-2023,CUST9895,Consumer,East,UK,Furniture,Cabinet,9,95.64,860.76,683.8,176.96,Net Banking,Paid,14.35,15.1,128.68,Charlie
+TXN00529,02-04-2023,CUST6694,Consumer,South,Germany,Electronics,Smartphone,2,22.09,44.18,31.9,12.28,Net Banking,Pending,14.65,13.9,9.02,Frank
+TXN00530,29-01-2023,CUST2013,SMB,West,UK,Furniture,Chair,11,189.4,2083.4,1314.82,768.58,Net Banking,Pending,5.38,17.97,596.55,Charlie
+TXN00531,20-08-2023,CUST8961,Consumer,East,USA,Furniture,Desk,16,31.98,511.68,402.57,109.11,UPI,Pending,7.37,15.01,85.9,Alice
+TXN00532,17-11-2023,CUST2428,SMB,South,UK,Furniture,Cabinet,12,247.1,2965.2,2577.53,387.67,Net Banking,Pending,18.73,15.73,265.5,Diana
+TXN00533,05-09-2023,CUST3349,Corporate,East,USA,Electronics,Smartphone,11,99.62,1095.82,844.04,251.78,UPI,Overdue,11.52,13.39,192.95,Eve
+TXN00534,25-04-2023,CUST7363,Enterprise,East,UK,Office Supplies,Pen,2,353.67,707.34,427.45,279.89,UPI,Overdue,11.99,9.44,223.08,Diana
+TXN00535,07-12-2023,CUST8422,Consumer,South,Germany,Furniture,Chair,2,385.12,770.24,510.71,259.53,Credit Card,Paid,16.38,11.97,191.04,Eve
+TXN00536,13-01-2023,CUST8727,Consumer,North,UK,Office Supplies,Envelope,5,296.62,1483.1,1008.31,474.79,Credit Card,Overdue,2.39,13.09,402.78,Diana
+TXN00537,10-03-2023,CUST4543,Enterprise,South,India,Furniture,Desk,16,53.84,861.44,624.88,236.56,Cash,Pending,17.12,6.29,183.73,Frank
+TXN00538,04-08-2023,CUST5975,SMB,West,India,Furniture,Cabinet,18,315.34,5676.12,4012,1664.12,UPI,Overdue,4.67,13.31,1375.26,Frank
+TXN00539,27-07-2023,CUST4401,Enterprise,South,India,Furniture,Cabinet,4,300.85,1203.4,767.93,435.47,Net Banking,Pending,14.01,14.87,318.78,Frank
+TXN00540,20-03-2023,CUST9624,Consumer,North,India,Electronics,Tablet,11,475.64,5232.04,3980.05,1251.99,Wallet,Pending,16.96,11.41,921.03,Eve
+TXN00541,31-05-2023,CUST7944,SMB,West,USA,Electronics,Smartphone,17,459.71,7815.07,6818.68,996.39,Cash,Pending,6.68,6.39,870.41,Bob
+TXN00542,10-12-2023,CUST6972,SMB,East,Germany,Furniture,Chair,17,27.23,462.91,322.62,140.29,UPI,Pending,7.13,10.81,116.2,Bob
+TXN00543,16-08-2023,CUST8151,Consumer,West,India,Furniture,Desk,2,47.54,95.08,75.99,19.09,Net Banking,Pending,5.72,14.4,15.41,Eve
+TXN00544,17-07-2023,CUST3860,Corporate,East,UK,Electronics,Laptop,14,344.83,4827.62,3162.43,1665.19,UPI,Overdue,6.38,16.78,1297.36,Bob
+TXN00545,12-08-2023,CUST4513,Enterprise,West,India,Office Supplies,Notebook,18,72.34,1302.12,1138.58,163.54,Credit Card,Overdue,19.78,8.45,120.11,Bob
+TXN00546,27-03-2023,CUST6021,Consumer,West,UK,Office Supplies,Stapler,11,403.11,4434.21,3707.07,727.14,Wallet,Pending,6,6.97,635.87,Charlie
+TXN00547,11-04-2023,CUST3510,Consumer,South,UK,Furniture,Desk,2,314.07,628.14,497.18,130.96,UPI,Pending,12.75,15.42,96.64,Charlie
+TXN00548,13-07-2023,CUST9314,Enterprise,North,UK,Electronics,Laptop,18,23.46,422.28,304.5,117.78,Credit Card,Overdue,3.5,13.74,98.04,Charlie
+TXN00549,30-06-2023,CUST8095,Enterprise,East,UK,Electronics,Smartphone,10,364.43,3644.3,2335.33,1308.97,Cash,Pending,14.6,16.55,932.85,Diana
+TXN00550,30-11-2023,CUST9712,Consumer,East,UK,Electronics,Smartphone,18,35.88,645.84,508.76,137.08,Credit Card,Overdue,3.19,16.51,110.8,Frank
+TXN00551,08-03-2023,CUST5491,Enterprise,West,India,Furniture,Table,15,300.81,4512.15,2991.71,1520.44,Wallet,Pending,0.44,15.44,1280.03,Frank
+TXN00552,22-11-2023,CUST6463,Corporate,East,USA,Electronics,Smartwatch,6,393.55,2361.3,2080.88,280.42,Net Banking,Pending,3.12,8.16,249.5,Diana
+TXN00553,28-11-2023,CUST6432,SMB,West,Germany,Office Supplies,Stapler,2,265.64,531.28,360.63,170.65,Wallet,Paid,18.53,11.29,123.33,Frank
+TXN00554,08-08-2023,CUST3327,Enterprise,South,USA,Electronics,Smartphone,8,129.33,1034.64,909.96,124.68,Credit Card,Paid,5.36,11.76,104.12,Bob
+TXN00555,20-10-2023,CUST4078,SMB,West,Germany,Office Supplies,Notebook,7,61.84,432.88,341.31,91.57,UPI,Pending,19.72,15.15,62.38,Alice
+TXN00556,07-01-2023,CUST2220,SMB,West,UK,Office Supplies,Notebook,19,325.66,6187.54,4920.44,1267.1,Net Banking,Overdue,17.88,16.96,864.07,Frank
+TXN00557,17-10-2023,CUST6993,SMB,South,India,Office Supplies,Notebook,9,91.73,825.57,692.84,132.73,Wallet,Pending,1.72,11.03,116.06,Charlie
+TXN00558,14-04-2023,CUST6193,SMB,West,UK,Office Supplies,Stapler,15,495.47,7432.05,6427.59,1004.46,Net Banking,Pending,10.39,7.48,832.77,Bob
+TXN00559,15-09-2023,CUST4845,SMB,East,Germany,Electronics,Tablet,2,464.9,929.8,576.19,353.61,Credit Card,Pending,11.82,13.49,269.75,Eve
+TXN00560,03-09-2023,CUST2888,SMB,South,Germany,Office Supplies,Envelope,13,285.7,3714.1,3077.71,636.39,Net Banking,Paid,8.89,6.84,540.16,Alice
+TXN00561,21-09-2023,CUST8777,Consumer,West,UK,Office Supplies,Notebook,7,361.76,2532.32,2273.49,258.83,UPI,Paid,5.88,13.74,210.14,Frank
+TXN00562,01-06-2023,CUST2325,Corporate,East,Germany,Office Supplies,Stapler,3,391.18,1173.54,838.74,334.8,Cash,Overdue,0.27,9.72,301.44,Diana
+TXN00563,30-09-2023,CUST4232,SMB,South,Germany,Furniture,Desk,9,177.67,1599.03,1052.7,546.33,Cash,Paid,6.29,6.1,480.74,Frank
+TXN00564,05-09-2023,CUST5210,Consumer,North,India,Electronics,Tablet,14,226.74,3174.36,2541.4,632.96,Credit Card,Overdue,13.65,16.33,457.31,Alice
+TXN00565,26-06-2023,CUST2469,Corporate,West,UK,Electronics,Laptop,14,374.93,5249.02,3414.34,1834.68,Wallet,Paid,5.73,8.22,1587.38,Eve
+TXN00566,29-06-2023,CUST6534,Corporate,East,UK,Office Supplies,Notebook,11,351.95,3871.45,2634.43,1237.02,Net Banking,Overdue,10.36,5.49,1047.99,Bob
+TXN00567,03-03-2023,CUST5335,Corporate,West,India,Electronics,Laptop,13,162.49,2112.37,1399.9,712.47,Credit Card,Paid,10.83,13.18,551.58,Bob
+TXN00568,11-10-2023,CUST4994,SMB,East,Germany,Office Supplies,Pen,10,335.37,3353.7,2352.66,1001.04,Net Banking,Paid,0.79,14.64,847.74,Eve
+TXN00569,28-08-2023,CUST7009,SMB,South,India,Electronics,Smartwatch,11,23.64,260.04,175.27,84.77,Net Banking,Pending,14.85,8.64,65.95,Bob
+TXN00570,27-03-2023,CUST1391,Consumer,West,UK,Electronics,Laptop,17,495.41,8421.97,5755.3,2666.67,Net Banking,Overdue,18.37,10.72,1943.45,Charlie
+TXN00571,11-09-2023,CUST4548,Corporate,West,Germany,Electronics,Smartwatch,19,266.13,5056.47,3069.67,1986.8,Cash,Paid,18.81,5.62,1522.43,Diana
+TXN00572,28-11-2023,CUST5598,Consumer,East,India,Office Supplies,Notebook,16,198.92,3182.72,2783.69,399.03,UPI,Overdue,10.1,17.85,294.7,Charlie
+TXN00573,26-04-2023,CUST1225,Corporate,West,USA,Electronics,Laptop,5,474.31,2371.55,1968.52,403.03,UPI,Pending,14.7,8.28,315.32,Alice
+TXN00574,28-11-2023,CUST9795,Corporate,East,Germany,Electronics,Tablet,9,477.67,4299.03,3706.84,592.19,Net Banking,Overdue,3.96,6.87,529.67,Bob
+TXN00575,27-11-2023,CUST2909,Enterprise,North,UK,Office Supplies,Notebook,12,422.14,5065.68,4554.32,511.36,Credit Card,Pending,6.41,16.79,398.23,Frank
+TXN00576,08-07-2023,CUST9101,Enterprise,South,India,Furniture,Chair,10,248.51,2485.1,2014.66,470.44,Cash,Overdue,1.41,17.14,384.31,Diana
+TXN00577,10-07-2023,CUST6791,Corporate,East,USA,Furniture,Cabinet,9,359.84,3238.56,2841.5,397.06,Cash,Paid,2.34,11.87,341.74,Eve
+TXN00578,09-02-2023,CUST5418,Corporate,North,UK,Office Supplies,Stapler,6,65.07,390.42,265.7,124.72,Wallet,Overdue,8.49,14.29,97.82,Diana
+TXN00579,25-08-2023,CUST1877,SMB,North,India,Electronics,Smartphone,7,118.67,830.69,692.91,137.78,Credit Card,Overdue,9.49,5.13,118.31,Diana
+TXN00580,04-02-2023,CUST5542,Enterprise,West,Germany,Electronics,Smartphone,19,344.76,6550.44,4033.1,2517.34,Credit Card,Pending,15.98,11.61,1869.51,Frank
+TXN00581,31-01-2023,CUST7017,SMB,East,India,Office Supplies,Notebook,7,317.38,2221.66,1647.38,574.28,Cash,Overdue,1.33,17.98,464.76,Diana
+TXN00582,04-05-2023,CUST4602,SMB,South,Germany,Electronics,Smartphone,2,123.98,247.96,157.37,90.59,Cash,Pending,1.51,8.25,81.86,Frank
+TXN00583,29-12-2023,CUST4740,SMB,East,USA,Office Supplies,Envelope,6,404.43,2426.58,2160.14,266.44,Wallet,Pending,9.9,6.12,225.37,Alice
+TXN00584,25-04-2023,CUST4845,Corporate,South,Germany,Office Supplies,Pen,1,265.7,265.7,206.1,59.6,Wallet,Overdue,15.22,14.27,43.32,Charlie
+TXN00585,03-04-2023,CUST3979,Consumer,South,India,Electronics,Laptop,2,292.7,585.4,378.43,206.97,Wallet,Pending,13.94,12.28,156.25,Eve
+TXN00586,30-03-2023,CUST1665,SMB,East,Germany,Electronics,Laptop,4,322.04,1288.16,1149.59,138.57,Wallet,Paid,7.41,12.4,112.39,Alice
+TXN00587,02-10-2023,CUST8233,SMB,South,Germany,Furniture,Table,14,176.45,2470.3,2015.04,455.26,Cash,Pending,5,9.63,390.85,Frank
+TXN00588,01-06-2023,CUST9002,SMB,East,UK,Electronics,Laptop,3,143.43,430.29,273.34,156.95,Wallet,Paid,18.04,10.8,114.74,Eve
+TXN00589,26-02-2023,CUST9022,Enterprise,West,UK,Electronics,Smartphone,2,67.21,134.42,85.86,48.56,Wallet,Overdue,3.91,6.13,43.8,Alice
+TXN00590,25-08-2023,CUST1804,Corporate,North,USA,Furniture,Table,9,107.84,970.56,690.44,280.12,UPI,Overdue,6.11,11.82,231.92,Frank
+TXN00591,03-09-2023,CUST4264,Enterprise,South,Germany,Furniture,Desk,6,349.51,2097.06,1607.94,489.12,Net Banking,Overdue,13.32,11.82,373.86,Bob
+TXN00592,03-07-2023,CUST6783,Consumer,West,UK,Office Supplies,Pen,9,209.47,1885.23,1514.41,370.82,Net Banking,Overdue,9.89,16.63,278.58,Charlie
+TXN00593,28-09-2023,CUST9795,Corporate,South,UK,Electronics,Laptop,18,53.5,963,827.7,135.3,Wallet,Paid,3.57,8.11,119.89,Bob
+TXN00594,12-02-2023,CUST8833,SMB,South,USA,Furniture,Chair,11,284.26,3126.86,2212.88,913.98,Net Banking,Pending,7.76,15.35,713.65,Eve
+TXN00595,29-03-2023,CUST1789,Enterprise,South,India,Furniture,Table,1,326.72,326.72,281.63,45.09,Net Banking,Overdue,11.43,12.9,34.78,Eve
+TXN00596,01-06-2023,CUST7581,Corporate,South,Germany,Furniture,Table,1,124.26,124.26,106.78,17.48,Net Banking,Paid,13.88,5.21,14.27,Bob
+TXN00597,12-10-2023,CUST3986,SMB,West,USA,Office Supplies,Notebook,14,213.48,2988.72,2047.47,941.25,UPI,Pending,13.24,9.62,738.07,Bob
+TXN00598,16-04-2023,CUST4201,Consumer,South,Germany,Office Supplies,Stapler,9,209.14,1882.26,1610.04,272.22,Credit Card,Paid,5.34,8.18,236.6,Diana
+TXN00599,17-06-2023,CUST1556,Enterprise,North,India,Furniture,Table,12,73.92,887.04,535.57,351.47,Net Banking,Pending,4.87,11.09,297.27,Alice
+TXN00600,06-02-2023,CUST1486,SMB,South,India,Electronics,Smartphone,8,53.95,431.6,383.46,48.14,Wallet,Pending,0.22,10.42,43.03,Diana
+TXN00601,06-02-2023,CUST3691,Consumer,North,India,Furniture,Chair,2,79.99,159.98,132.67,27.31,Credit Card,Overdue,17.24,11.2,20.07,Alice
+TXN00602,11-02-2023,CUST3440,Enterprise,East,UK,Office Supplies,Pen,5,150.83,754.15,578.71,175.44,Credit Card,Overdue,1.73,5.02,163.75,Alice
+TXN00603,15-04-2023,CUST4262,Consumer,West,India,Electronics,Smartphone,19,304.89,5792.91,3587.84,2205.07,UPI,Paid,10.88,12.28,1723.84,Diana
+TXN00604,02-09-2023,CUST2689,Enterprise,West,India,Furniture,Desk,12,220.62,2647.44,1816.61,830.83,UPI,Paid,9.07,17.86,620.55,Bob
+TXN00605,16-06-2023,CUST3001,Consumer,East,India,Electronics,Tablet,4,144.46,577.84,416.05,161.79,Credit Card,Pending,16.1,16.06,113.94,Bob
+TXN00606,19-08-2023,CUST9974,Consumer,West,UK,Office Supplies,Envelope,13,58.04,754.52,571.96,182.56,Cash,Pending,2.21,7.85,164.51,Charlie
+TXN00607,13-11-2023,CUST3170,Enterprise,East,India,Office Supplies,Pen,10,413.89,4138.9,3184.69,954.21,UPI,Paid,2,5.71,881.73,Charlie
+TXN00608,20-01-2023,CUST1968,Corporate,North,India,Furniture,Table,3,357.79,1073.37,799.3,274.07,UPI,Pending,19.5,17.56,181.88,Frank
+TXN00609,30-08-2023,CUST4201,Corporate,South,Germany,Furniture,Desk,12,481.48,5777.76,3969.19,1808.57,UPI,Paid,7.75,9.2,1514.91,Bob
+TXN00610,15-02-2023,CUST4185,SMB,East,USA,Office Supplies,Stapler,11,484.33,5327.63,4658.61,669.02,Credit Card,Pending,2.42,6.11,612.94,Alice
+TXN00611,25-04-2023,CUST7902,Enterprise,North,India,Furniture,Table,4,121.11,484.44,426.04,58.4,Credit Card,Overdue,15.63,5.25,46.69,Eve
+TXN00612,27-11-2023,CUST5047,Corporate,North,Germany,Office Supplies,Envelope,7,45.23,316.61,276.31,40.3,Net Banking,Overdue,1.55,11.92,34.95,Eve
+TXN00613,05-08-2023,CUST9001,Corporate,West,India,Electronics,Tablet,9,50.63,455.67,358.16,97.51,UPI,Overdue,8.69,7.51,82.35,Frank
+TXN00614,17-06-2023,CUST7521,Enterprise,North,India,Electronics,Smartphone,10,167.63,1676.3,1239.87,436.43,UPI,Overdue,18.63,7.69,327.81,Eve
+TXN00615,12-06-2023,CUST9641,SMB,North,India,Office Supplies,Pen,18,419.1,7543.8,6236.96,1306.84,Credit Card,Pending,2.23,6.5,1194.65,Bob
+TXN00616,08-05-2023,CUST9444,SMB,West,Germany,Office Supplies,Stapler,3,384.98,1154.94,816.4,338.54,Wallet,Paid,16.02,9.9,256.16,Frank
+TXN00617,14-06-2023,CUST7111,SMB,West,UK,Electronics,Tablet,14,94.65,1325.1,945.87,379.23,Net Banking,Pending,8.24,17.15,288.3,Charlie
+TXN00618,01-08-2023,CUST9627,Enterprise,West,Germany,Office Supplies,Pen,9,197.3,1775.7,1215.53,560.17,UPI,Pending,13.08,11.65,430.18,Bob
+TXN00619,02-10-2023,CUST8024,Consumer,North,USA,Electronics,Laptop,10,381.02,3810.2,2635.49,1174.71,Credit Card,Paid,10.75,5.06,995.38,Alice
+TXN00620,01-06-2023,CUST8325,Corporate,North,USA,Office Supplies,Stapler,16,397.38,6358.08,4278.25,2079.83,Net Banking,Overdue,9.36,16.54,1573.35,Frank
+TXN00621,28-02-2023,CUST6108,Consumer,East,USA,Office Supplies,Pen,19,166.33,3160.27,2814.82,345.45,Wallet,Overdue,17.41,10.48,255.41,Frank
+TXN00622,04-04-2023,CUST3877,SMB,East,UK,Furniture,Table,6,324.89,1949.34,1666.59,282.75,Wallet,Overdue,3.35,9.93,246.14,Diana
+TXN00623,29-03-2023,CUST9853,Enterprise,North,Germany,Electronics,Laptop,9,422.84,3805.56,2629.5,1176.06,Cash,Paid,16.1,9.8,890.02,Eve
+TXN00624,26-04-2023,CUST6902,Consumer,South,UK,Furniture,Table,14,449.18,6288.52,4536.21,1752.31,UPI,Overdue,14.12,15.67,1269.07,Alice
+TXN00625,07-08-2023,CUST5890,SMB,North,India,Office Supplies,Stapler,15,271.44,4071.6,2443.25,1628.35,Wallet,Pending,4.16,8.26,1431.7,Bob
+TXN00626,10-02-2023,CUST3689,SMB,East,UK,Electronics,Smartwatch,9,452.25,4070.25,2531.66,1538.59,Wallet,Paid,11.01,15.62,1155.32,Charlie
+TXN00627,21-05-2023,CUST6799,SMB,North,UK,Office Supplies,Envelope,14,312.27,4371.78,2626.89,1744.89,Net Banking,Paid,5.69,12.62,1437.93,Alice
+TXN00628,31-12-2023,CUST7507,SMB,West,USA,Furniture,Table,12,85.31,1023.72,879.26,144.46,Credit Card,Paid,7.9,13.4,115.22,Frank
+TXN00629,02-11-2023,CUST2725,SMB,North,UK,Electronics,Laptop,1,76.39,76.39,56.09,20.3,Cash,Paid,6.05,11.08,16.96,Alice
+TXN00630,28-04-2023,CUST4677,Corporate,West,India,Furniture,Table,14,450.81,6311.34,5511.36,799.98,UPI,Overdue,13.54,15.12,587.08,Charlie
+TXN00631,13-03-2023,CUST2306,Corporate,East,UK,Electronics,Smartwatch,4,486.75,1947,1297.55,649.45,Cash,Paid,1.17,16.98,532.87,Alice
+TXN00632,12-12-2023,CUST2695,Enterprise,East,India,Furniture,Desk,19,19,361,287.43,73.57,Net Banking,Pending,6.2,6.12,64.79,Diana
+TXN00633,14-03-2023,CUST8195,Consumer,North,UK,Furniture,Cabinet,5,419.43,2097.15,1285.76,811.39,Credit Card,Pending,0.18,7.62,748.21,Diana
+TXN00634,26-11-2023,CUST4406,SMB,East,USA,Electronics,Laptop,10,441.93,4419.3,3202.99,1216.31,Cash,Overdue,2.1,13.95,1024.66,Eve
+TXN00635,04-11-2023,CUST7475,Enterprise,East,India,Office Supplies,Notebook,13,70.02,910.26,691.99,218.27,Net Banking,Pending,1.65,14.95,182.58,Frank
+TXN00636,26-02-2023,CUST8741,Corporate,East,USA,Office Supplies,Notebook,8,338.94,2711.52,1758.84,952.68,UPI,Overdue,17.34,13.14,684.01,Alice
+TXN00637,26-09-2023,CUST5793,SMB,East,India,Electronics,Smartwatch,2,467.46,934.92,762.88,172.04,Cash,Paid,12.36,15.01,128.14,Alice
+TXN00638,11-08-2023,CUST1117,Corporate,West,UK,Furniture,Cabinet,11,166.04,1826.44,1496.36,330.08,Credit Card,Paid,14.74,5.91,264.79,Bob
+TXN00639,02-04-2023,CUST6756,SMB,East,India,Office Supplies,Pen,6,380.55,2283.3,1558.99,724.31,Cash,Paid,16.36,9.5,548.26,Eve
+TXN00640,07-08-2023,CUST8378,Enterprise,South,India,Furniture,Desk,18,113.16,2036.88,1528.54,508.34,Credit Card,Paid,15.6,15.03,364.55,Bob
+TXN00641,19-11-2023,CUST4182,Corporate,North,India,Electronics,Laptop,8,284.35,2274.8,1696.82,577.98,Credit Card,Paid,16.2,16.53,404.28,Diana
+TXN00642,24-10-2023,CUST8986,SMB,West,USA,Furniture,Cabinet,15,76.4,1146,865.83,280.17,Credit Card,Paid,5.87,11.38,233.71,Charlie
+TXN00643,14-10-2023,CUST2785,SMB,West,USA,Electronics,Tablet,16,44.92,718.72,615.42,103.3,Credit Card,Overdue,11.31,14.29,78.52,Diana
+TXN00644,23-11-2023,CUST1986,SMB,North,UK,Furniture,Chair,11,274.97,3024.67,2693.14,331.53,Wallet,Paid,17.19,6.43,256.89,Frank
+TXN00645,01-10-2023,CUST4081,Consumer,East,UK,Electronics,Tablet,14,334.33,4680.62,3417.86,1262.76,Wallet,Pending,13.91,15.73,916.11,Frank
+TXN00646,01-04-2023,CUST7310,SMB,East,USA,Electronics,Smartwatch,4,428.16,1712.64,1497.36,215.28,UPI,Pending,18.08,9.17,160.19,Frank
+TXN00647,03-12-2023,CUST4747,Enterprise,East,USA,Electronics,Smartphone,9,135.58,1220.22,801.84,418.38,Cash,Pending,16.12,6.03,329.78,Charlie
+TXN00648,08-05-2023,CUST5537,Enterprise,West,USA,Office Supplies,Notebook,16,45.15,722.4,576.45,145.95,Cash,Paid,15.17,12.88,107.86,Frank
+TXN00649,25-01-2023,CUST9652,SMB,West,India,Electronics,Tablet,9,256.99,2312.91,1765.82,547.09,Credit Card,Overdue,11.1,9.43,440.5,Frank
+TXN00650,30-03-2023,CUST8616,Consumer,North,Germany,Furniture,Table,3,87.67,263.01,196.27,66.74,Cash,Pending,12.79,6.68,54.32,Diana
+TXN00651,02-03-2023,CUST5939,Enterprise,West,USA,Office Supplies,Stapler,18,396.75,7141.5,4351.77,2789.73,UPI,Overdue,15.41,8.43,2160.9,Diana
+TXN00652,18-08-2023,CUST9983,Consumer,West,USA,Furniture,Table,1,167.16,167.16,143.81,23.35,Wallet,Paid,12.15,10.23,18.41,Frank
+TXN00653,03-11-2023,CUST3108,Corporate,East,UK,Furniture,Cabinet,9,102.31,920.79,568.01,352.78,Cash,Pending,19.86,15.19,239.77,Diana
+TXN00654,04-11-2023,CUST5568,SMB,East,Germany,Furniture,Table,17,261.16,4439.72,3020.48,1419.24,Credit Card,Pending,9.42,14.19,1103.13,Charlie
+TXN00655,10-10-2023,CUST8714,Enterprise,West,Germany,Electronics,Laptop,4,342.61,1370.44,894.66,475.78,UPI,Pending,14.12,8.04,375.75,Diana
+TXN00656,22-12-2023,CUST9080,Enterprise,South,India,Electronics,Smartphone,13,262.19,3408.47,2153.17,1255.3,Net Banking,Pending,10.38,8.87,1025.21,Frank
+TXN00657,19-06-2023,CUST8372,Consumer,North,UK,Office Supplies,Notebook,13,298.52,3880.76,2432.33,1448.43,Cash,Pending,3.5,17.83,1148.52,Bob
+TXN00658,27-06-2023,CUST3289,SMB,East,India,Furniture,Desk,11,150.27,1652.97,1201.94,451.03,Cash,Pending,11.79,12.28,349,Eve
+TXN00659,17-04-2023,CUST9655,SMB,North,UK,Furniture,Table,11,132.45,1456.95,902.84,554.11,Wallet,Overdue,9.38,11.56,444.09,Charlie
+TXN00660,28-02-2023,CUST6890,Corporate,West,UK,Electronics,Smartphone,7,217.85,1524.95,1119.32,405.63,Wallet,Paid,16.5,11.31,300.39,Bob
+TXN00661,20-06-2023,CUST5019,SMB,North,India,Furniture,Desk,8,227.49,1819.92,1194.6,625.32,Wallet,Paid,2.97,12.21,532.66,Alice
+TXN00662,18-04-2023,CUST2986,Corporate,East,USA,Office Supplies,Notebook,1,235.45,235.45,154.93,80.52,Net Banking,Paid,17.93,7.74,60.97,Eve
+TXN00663,30-03-2023,CUST5284,Consumer,South,USA,Electronics,Laptop,18,325.93,5866.74,4117.85,1748.89,Net Banking,Overdue,11.15,8.33,1424.45,Eve
+TXN00664,17-08-2023,CUST8338,SMB,North,USA,Electronics,Laptop,3,341.72,1025.16,768.02,257.14,Cash,Overdue,5.81,17.79,199.11,Diana
+TXN00665,02-03-2023,CUST4218,Corporate,North,USA,Furniture,Chair,14,451.71,6323.94,4851.91,1472.03,Credit Card,Overdue,16.66,14.08,1054.06,Alice
+TXN00666,12-10-2023,CUST7468,Corporate,East,Germany,Office Supplies,Pen,16,205.14,3282.24,2458.89,823.35,UPI,Pending,10.88,5.1,696.35,Charlie
+TXN00667,21-02-2023,CUST5001,Consumer,West,UK,Office Supplies,Pen,13,342.54,4453.02,3234.09,1218.93,Cash,Overdue,17.68,17.13,831.54,Frank
+TXN00668,08-07-2023,CUST7806,Corporate,West,USA,Electronics,Tablet,1,426.66,426.66,283.24,143.42,Wallet,Pending,19.43,8.59,105.63,Frank
+TXN00669,02-05-2023,CUST8961,Consumer,West,UK,Furniture,Desk,1,465.92,465.92,396.53,69.39,Cash,Paid,0.45,6.47,64.61,Bob
+TXN00670,03-03-2023,CUST1798,Enterprise,South,Germany,Electronics,Laptop,9,37.63,338.67,240.73,97.94,Credit Card,Pending,11.21,14.47,74.38,Frank
+TXN00671,14-08-2023,CUST6873,Enterprise,North,India,Furniture,Cabinet,16,51.48,823.68,523.68,300,Net Banking,Paid,16.81,14.12,214.33,Diana
+TXN00672,13-03-2023,CUST6640,Consumer,North,India,Furniture,Cabinet,14,214.77,3006.78,2479.16,527.62,Cash,Pending,9.18,8.1,440.37,Diana
+TXN00673,16-12-2023,CUST6969,Corporate,West,Germany,Electronics,Tablet,5,230.3,1151.5,756.06,395.44,Cash,Pending,11.47,15.68,295.19,Frank
+TXN00674,21-12-2023,CUST4872,SMB,East,India,Office Supplies,Envelope,8,37.03,296.24,250.68,45.56,UPI,Overdue,19.03,13.09,32.06,Alice
+TXN00675,10-01-2023,CUST4663,Enterprise,West,USA,Office Supplies,Envelope,11,459.16,5050.76,4099.44,951.32,Net Banking,Paid,14.4,13.79,702.03,Charlie
+TXN00676,30-09-2023,CUST5088,Consumer,West,Germany,Furniture,Chair,1,46.35,46.35,30.48,15.87,Cash,Overdue,17,17.97,10.81,Alice
+TXN00677,05-12-2023,CUST2461,Consumer,West,UK,Furniture,Chair,5,159.24,796.2,519.77,276.43,UPI,Paid,6.25,16.89,215.38,Eve
+TXN00678,19-08-2023,CUST7142,Enterprise,East,USA,Electronics,Tablet,14,163.46,2288.44,1495.84,792.6,Credit Card,Pending,9.46,5.51,678.08,Eve
+TXN00679,24-05-2023,CUST1656,Consumer,West,UK,Electronics,Smartphone,8,341.43,2731.44,1714.47,1016.97,Net Banking,Overdue,6.95,13.85,815.23,Diana
+TXN00680,29-07-2023,CUST6041,Consumer,East,UK,Electronics,Smartphone,2,444.32,888.64,756.55,132.09,Net Banking,Overdue,18.44,6.36,100.88,Eve
+TXN00681,23-02-2023,CUST3520,Consumer,West,India,Furniture,Cabinet,5,90.71,453.55,365.9,87.65,Wallet,Paid,6.39,12.69,71.64,Bob
+TXN00682,02-09-2023,CUST5218,Corporate,East,India,Office Supplies,Pen,17,103.03,1751.51,1108.8,642.71,Cash,Paid,12.85,5.5,529.32,Eve
+TXN00683,10-03-2023,CUST5637,Consumer,South,India,Office Supplies,Envelope,2,419.53,839.06,607.94,231.12,Cash,Paid,3.49,9.19,202.56,Charlie
+TXN00684,29-07-2023,CUST6539,Corporate,South,UK,Electronics,Smartphone,5,46.05,230.25,141.84,88.41,Net Banking,Overdue,10.6,12.99,68.77,Charlie
+TXN00685,15-12-2023,CUST9733,SMB,South,UK,Office Supplies,Pen,6,362.31,2173.86,1675.73,498.13,Wallet,Paid,2.83,16.47,404.31,Charlie
+TXN00686,23-05-2023,CUST7112,Consumer,East,UK,Electronics,Laptop,16,178.55,2856.8,1951.7,905.1,Credit Card,Paid,15.02,13.38,666.24,Frank
+TXN00687,14-04-2023,CUST4523,SMB,West,UK,Office Supplies,Notebook,4,244.96,979.84,592.56,387.28,Credit Card,Paid,6.53,10.68,323.33,Frank
+TXN00688,06-11-2023,CUST9009,Enterprise,East,India,Office Supplies,Stapler,6,461.93,2771.58,2017.07,754.51,Cash,Overdue,11.08,17.1,556.18,Frank
+TXN00689,09-02-2023,CUST2573,Enterprise,East,UK,Electronics,Tablet,19,275.77,5239.63,3972.88,1266.75,Wallet,Overdue,0.02,15.53,1069.81,Frank
+TXN00690,02-09-2023,CUST4540,Corporate,East,UK,Furniture,Desk,16,340.36,5445.76,3485.51,1960.25,Net Banking,Pending,11.99,7.23,1600.48,Diana
+TXN00691,08-07-2023,CUST6697,Corporate,North,Germany,Electronics,Smartwatch,9,409.52,3685.68,3194.73,490.95,Credit Card,Pending,14.97,8.41,382.35,Eve
+TXN00692,18-01-2023,CUST6189,Corporate,West,Germany,Office Supplies,Envelope,8,292.81,2342.48,2063.43,279.05,Cash,Paid,19.65,11.86,197.62,Frank
+TXN00693,24-02-2023,CUST9494,SMB,South,USA,Electronics,Laptop,1,156.29,156.29,137.09,19.2,Net Banking,Overdue,14.99,13.2,14.17,Frank
+TXN00694,12-06-2023,CUST1684,Consumer,South,USA,Furniture,Desk,4,440.81,1763.24,1064.83,698.41,Net Banking,Pending,18.48,5.32,539.05,Alice
+TXN00695,02-02-2023,CUST5355,Corporate,East,UK,Electronics,Tablet,6,429.35,2576.1,2071.89,504.21,Credit Card,Overdue,2.46,17.82,404.17,Eve
+TXN00696,24-06-2023,CUST9011,Consumer,North,UK,Furniture,Table,12,423.76,5085.12,3416.02,1669.1,Credit Card,Overdue,2.07,10.61,1461.12,Eve
+TXN00697,28-02-2023,CUST4424,SMB,North,UK,Office Supplies,Stapler,18,196.76,3541.68,2562.6,979.08,UPI,Pending,9.03,16.14,746.92,Charlie
+TXN00698,24-09-2023,CUST5412,Enterprise,North,Germany,Electronics,Smartwatch,18,408.67,7356.06,4492.57,2863.49,Cash,Overdue,13.24,7.7,2293.07,Frank
+TXN00699,03-03-2023,CUST6520,Corporate,South,India,Furniture,Cabinet,13,42.95,558.35,412.85,145.5,Cash,Overdue,17.33,5.43,113.75,Eve
+TXN00700,13-06-2023,CUST4037,Corporate,North,UK,Office Supplies,Envelope,8,261.03,2088.24,1337.67,750.57,UPI,Overdue,4.63,6.77,667.36,Charlie
+TXN00701,11-08-2023,CUST1745,Consumer,West,Germany,Electronics,Laptop,12,104.92,1259.04,886.05,372.99,Credit Card,Overdue,11.99,15.09,278.73,Alice
+TXN00702,23-10-2023,CUST6008,Corporate,East,USA,Electronics,Laptop,16,199.65,3194.4,2536.89,657.51,Wallet,Pending,1.08,10.94,579.25,Alice
+TXN00703,04-08-2023,CUST2115,SMB,East,India,Furniture,Cabinet,16,198.06,3168.96,2799.74,369.22,Cash,Pending,3.01,11.55,316.75,Charlie
+TXN00704,22-06-2023,CUST7645,SMB,West,UK,Electronics,Laptop,9,205.56,1850.04,1340.6,509.44,Net Banking,Pending,6.49,15.16,404.16,Eve
+TXN00705,07-05-2023,CUST9107,Consumer,East,India,Electronics,Tablet,15,404.78,6071.7,4861.94,1209.76,Net Banking,Overdue,8.64,13.84,952.27,Alice
+TXN00706,06-04-2023,CUST9904,Consumer,South,UK,Electronics,Tablet,6,327.44,1964.64,1598.47,366.17,Wallet,Overdue,18.81,8.39,272.35,Alice
+TXN00707,04-06-2023,CUST1756,SMB,West,India,Furniture,Desk,5,168.83,844.15,754.02,90.13,Credit Card,Overdue,2.26,9.57,79.66,Eve
+TXN00708,26-07-2023,CUST9655,Enterprise,East,Germany,Furniture,Table,9,112.67,1014.03,652.56,361.47,Wallet,Paid,12.5,14.48,270.49,Charlie
+TXN00709,06-06-2023,CUST2793,Enterprise,East,UK,Furniture,Cabinet,15,38,570,494.84,75.16,UPI,Overdue,16.63,6.95,58.31,Bob
+TXN00710,09-07-2023,CUST7854,Enterprise,North,Germany,Office Supplies,Envelope,12,25.18,302.16,206.21,95.95,Cash,Pending,18.72,8.04,71.72,Frank
+TXN00711,25-04-2023,CUST6789,SMB,East,USA,Office Supplies,Stapler,17,461.65,7848.05,6492.23,1355.82,UPI,Paid,14.18,7.6,1075.13,Eve
+TXN00712,01-04-2023,CUST7554,Enterprise,West,Germany,Furniture,Chair,3,155.86,467.58,373.1,94.48,Credit Card,Pending,4.57,8.56,82.44,Bob
+TXN00713,27-06-2023,CUST9104,Corporate,South,UK,Office Supplies,Envelope,18,61.2,1101.6,898.99,202.61,UPI,Overdue,1.92,16.99,164.96,Alice
+TXN00714,06-10-2023,CUST8607,Enterprise,West,Germany,Electronics,Laptop,2,421.31,842.62,618.86,223.76,Cash,Overdue,10.44,10.22,179.92,Bob
+TXN00715,31-01-2023,CUST2673,Enterprise,North,USA,Furniture,Cabinet,3,174.87,524.61,407.49,117.12,Credit Card,Overdue,8.12,15.74,90.67,Eve
+TXN00716,05-05-2023,CUST8238,Corporate,East,Germany,Furniture,Cabinet,10,399.01,3990.1,3440.76,549.34,Cash,Pending,15.54,8.5,424.53,Frank
+TXN00717,10-01-2023,CUST3970,Enterprise,East,India,Electronics,Smartwatch,18,445.05,8010.9,5052.31,2958.59,Credit Card,Pending,16.12,8.53,2269.98,Alice
+TXN00718,17-03-2023,CUST2525,Consumer,East,India,Electronics,Smartwatch,12,329.72,3956.64,3292.48,664.16,Net Banking,Pending,3.66,13.36,554.37,Frank
+TXN00719,22-10-2023,CUST4395,Enterprise,West,USA,Office Supplies,Stapler,5,85.04,425.2,256.38,168.82,Credit Card,Paid,4.19,8.13,148.6,Charlie
+TXN00720,17-10-2023,CUST6024,Corporate,South,India,Office Supplies,Stapler,9,132.48,1192.32,933.42,258.9,UPI,Overdue,18.62,17.37,174.1,Charlie
+TXN00721,17-01-2023,CUST5027,Consumer,South,Germany,Electronics,Smartwatch,4,333.76,1335.04,1181.75,153.29,UPI,Pending,17.25,10.76,113.2,Frank
+TXN00722,09-08-2023,CUST2285,Corporate,East,Germany,Electronics,Tablet,10,103.62,1036.2,758.73,277.47,Credit Card,Overdue,16.15,14.92,197.95,Alice
+TXN00723,13-03-2023,CUST7890,Enterprise,West,UK,Furniture,Cabinet,4,373.73,1494.92,1242.46,252.46,UPI,Pending,19.47,13.62,175.62,Frank
+TXN00724,20-11-2023,CUST1065,SMB,North,Germany,Office Supplies,Envelope,16,152.09,2433.44,1919.18,514.26,Net Banking,Overdue,13.1,8.68,408.1,Frank
+TXN00725,03-05-2023,CUST8032,Consumer,West,UK,Furniture,Chair,12,308.2,3698.4,3296.28,402.12,Cash,Pending,1.27,10.15,356.72,Alice
+TXN00726,03-04-2023,CUST2434,Corporate,West,USA,Electronics,Laptop,19,27.74,527.06,403.38,123.68,Cash,Pending,2.29,8.97,110.01,Charlie
+TXN00727,15-11-2023,CUST7065,Consumer,West,Germany,Office Supplies,Envelope,19,98.81,1877.39,1527.45,349.94,Wallet,Pending,8.05,15.18,272.93,Eve
+TXN00728,19-01-2023,CUST2249,Consumer,East,India,Electronics,Smartphone,15,54.71,820.65,497.19,323.46,Net Banking,Pending,8.72,7.53,273.02,Diana
+TXN00729,28-01-2023,CUST8953,Corporate,West,UK,Office Supplies,Stapler,6,491.37,2948.22,1944.08,1004.14,Net Banking,Paid,1.13,16.29,831.07,Alice
+TXN00730,23-08-2023,CUST6202,Consumer,North,USA,Electronics,Smartwatch,7,110.31,772.17,540.86,231.31,Wallet,Pending,0.39,6.76,214.83,Bob
+TXN00731,20-10-2023,CUST2233,Corporate,South,India,Furniture,Desk,8,341.88,2735.04,1878.63,856.41,Net Banking,Pending,0.06,17.1,709.54,Eve
+TXN00732,13-01-2023,CUST1740,Corporate,South,India,Electronics,Tablet,2,438.72,877.44,739.9,137.54,Cash,Paid,11.16,9.93,110.06,Diana
+TXN00733,09-10-2023,CUST3770,Corporate,East,Germany,Electronics,Laptop,2,57.83,115.66,100.55,15.11,Credit Card,Pending,11.03,9.67,12.14,Charlie
+TXN00734,01-12-2023,CUST5858,Corporate,West,UK,Electronics,Tablet,5,59.86,299.3,183.99,115.31,Net Banking,Paid,6.56,13.59,93.1,Bob
+TXN00735,14-11-2023,CUST6828,SMB,North,India,Electronics,Tablet,3,400.92,1202.76,1054.14,148.62,Wallet,Pending,0.21,13.1,128.88,Alice
+TXN00736,03-06-2023,CUST2151,Consumer,West,USA,Office Supplies,Stapler,12,20.77,249.24,210.62,38.62,UPI,Overdue,12.1,11.24,30.13,Alice
+TXN00737,23-11-2023,CUST4955,Corporate,South,USA,Office Supplies,Stapler,10,443.99,4439.9,3528.69,911.21,UPI,Overdue,0.67,6.83,843.29,Eve
+TXN00738,19-12-2023,CUST8073,Consumer,West,India,Office Supplies,Envelope,19,171.4,3256.6,2528.22,728.38,Net Banking,Paid,8.83,5.23,629.33,Eve
+TXN00739,12-09-2023,CUST8252,Corporate,West,USA,Electronics,Smartphone,12,416.79,5001.48,4435.51,565.97,UPI,Pending,16.57,15.25,400.18,Alice
+TXN00740,09-07-2023,CUST6759,Corporate,East,India,Electronics,Smartwatch,6,496.65,2979.9,2465.84,514.06,Net Banking,Overdue,12.33,17.82,370.37,Bob
+TXN00741,21-05-2023,CUST4897,Corporate,East,USA,Office Supplies,Stapler,12,39.02,468.24,295.75,172.49,Credit Card,Pending,6.82,12.07,141.33,Eve
+TXN00742,04-04-2023,CUST6492,SMB,North,Germany,Electronics,Smartwatch,8,237.65,1901.2,1565.28,335.92,Cash,Pending,2.53,12.36,286.95,Eve
+TXN00743,17-09-2023,CUST9775,Enterprise,East,India,Furniture,Chair,11,90.18,991.98,632.36,359.62,UPI,Paid,17.6,5.59,279.76,Frank
+TXN00744,18-04-2023,CUST5513,Enterprise,North,USA,Office Supplies,Envelope,9,249.95,2249.55,1864.36,385.19,Net Banking,Overdue,17.84,11.12,281.28,Charlie
+TXN00745,11-12-2023,CUST6880,Enterprise,West,India,Furniture,Chair,4,384.17,1536.68,1128.23,408.45,Wallet,Paid,12.37,6.47,334.77,Alice
+TXN00746,09-08-2023,CUST4038,Corporate,North,UK,Furniture,Cabinet,18,200.19,3603.42,2346.65,1256.77,Net Banking,Overdue,3.21,9.43,1101.72,Eve
+TXN00747,14-02-2023,CUST6591,SMB,East,Germany,Electronics,Laptop,12,354.52,4254.24,2924.56,1329.68,Wallet,Overdue,19.12,14.97,914.45,Charlie
+TXN00748,24-03-2023,CUST9562,Consumer,West,UK,Furniture,Desk,16,478.85,7661.6,5743.98,1917.62,UPI,Overdue,11.67,12,1490.57,Eve
+TXN00749,14-05-2023,CUST2414,Consumer,North,USA,Office Supplies,Envelope,6,266.41,1598.46,1124.07,474.39,Wallet,Overdue,15.45,14.9,341.33,Bob
+TXN00750,04-11-2023,CUST3815,SMB,West,India,Office Supplies,Envelope,5,241.85,1209.25,954.24,255.01,UPI,Overdue,8.38,15.18,198.17,Charlie
+TXN00751,05-01-2023,CUST1588,Enterprise,West,India,Electronics,Tablet,11,32.67,359.37,244.33,115.04,Wallet,Pending,3.84,9.34,100.29,Charlie
+TXN00752,31-07-2023,CUST4822,SMB,South,UK,Electronics,Smartphone,9,276.03,2484.27,1684.38,799.89,Wallet,Pending,5.23,17.8,623.12,Frank
+TXN00753,21-03-2023,CUST1081,SMB,East,Germany,Electronics,Tablet,19,226.36,4300.84,3799.77,501.07,Credit Card,Pending,7.64,17.44,382.08,Eve
+TXN00754,03-08-2023,CUST2758,Enterprise,North,USA,Office Supplies,Notebook,7,161.34,1129.38,884.76,244.62,Net Banking,Pending,1.91,5.29,227.25,Diana
+TXN00755,28-10-2023,CUST8871,Enterprise,East,India,Furniture,Table,1,393.16,393.16,254.25,138.91,Cash,Pending,9.8,6.44,117.23,Diana
+TXN00756,13-01-2023,CUST5267,Consumer,East,Germany,Electronics,Smartphone,14,467.78,6548.92,4099.15,2449.77,Cash,Paid,9.37,17.2,1838.35,Charlie
+TXN00757,14-09-2023,CUST2779,Corporate,West,Germany,Electronics,Smartphone,7,20.91,146.37,125.99,20.38,Net Banking,Overdue,12.17,17.05,14.85,Frank
+TXN00758,09-08-2023,CUST2658,SMB,South,India,Electronics,Smartphone,17,100.91,1715.47,1364.66,350.81,UPI,Overdue,6.39,8.28,301.2,Alice
+TXN00759,04-10-2023,CUST7993,SMB,West,UK,Electronics,Smartphone,19,249.68,4743.92,3976.13,767.79,Cash,Pending,2.16,11.34,666.02,Alice
+TXN00760,04-01-2023,CUST7676,SMB,North,Germany,Electronics,Tablet,15,18.84,282.6,216.79,65.81,Credit Card,Paid,10.83,9.21,53.28,Eve
+TXN00761,20-11-2023,CUST9787,Corporate,West,India,Electronics,Laptop,11,301.47,3316.17,2323.3,992.87,Wallet,Overdue,7.47,10.05,826.37,Diana
+TXN00762,28-08-2023,CUST4932,Consumer,East,USA,Electronics,Smartphone,15,208.75,3131.25,2517.1,614.15,UPI,Overdue,5.76,8.34,530.51,Alice
+TXN00763,05-11-2023,CUST1051,SMB,North,India,Electronics,Smartwatch,11,153.44,1687.84,1052.8,635.04,Wallet,Paid,6.29,7.63,549.69,Diana
+TXN00764,02-12-2023,CUST2525,Corporate,West,UK,Furniture,Table,3,499.66,1498.98,1019.91,479.07,Cash,Pending,13.19,8.82,379.2,Diana
+TXN00765,26-01-2023,CUST8496,Enterprise,West,UK,Electronics,Smartphone,2,383.77,767.54,578.67,188.87,Net Banking,Overdue,2.9,14.58,156.65,Eve
+TXN00766,28-10-2023,CUST1330,Consumer,North,India,Electronics,Laptop,1,331.14,331.14,240.25,90.89,UPI,Overdue,16.47,16.43,63.45,Alice
+TXN00767,16-11-2023,CUST9085,SMB,East,India,Electronics,Laptop,9,214.88,1933.92,1688.9,245.02,Credit Card,Pending,2.12,8.03,220.57,Frank
+TXN00768,20-05-2023,CUST7170,Consumer,East,USA,Electronics,Smartphone,1,423.82,423.82,328.34,95.48,Net Banking,Overdue,12.73,15.84,70.13,Eve
+TXN00769,30-03-2023,CUST7041,SMB,West,UK,Furniture,Cabinet,10,118.53,1185.3,723.55,461.75,Cash,Pending,16.2,12.22,339.66,Charlie
+TXN00770,23-05-2023,CUST1110,Corporate,East,Germany,Electronics,Smartwatch,5,277.85,1389.25,1064.23,325.02,Credit Card,Pending,6.12,17.05,253.1,Alice
+TXN00771,01-03-2023,CUST7393,Enterprise,North,UK,Office Supplies,Notebook,12,254.78,3057.36,1937.23,1120.13,Credit Card,Paid,9.58,16.66,844.09,Bob
+TXN00772,24-05-2023,CUST4849,Consumer,South,UK,Office Supplies,Notebook,19,27.45,521.55,390.85,130.7,UPI,Overdue,14.14,7.31,104.02,Bob
+TXN00773,15-02-2023,CUST2563,Corporate,South,UK,Office Supplies,Notebook,3,39.44,118.32,82.55,35.77,UPI,Overdue,14.2,11.94,27.03,Eve
+TXN00774,28-03-2023,CUST8436,Consumer,East,UK,Office Supplies,Pen,18,296.89,5344.02,3712.47,1631.55,Cash,Overdue,3.76,10.56,1404.39,Alice
+TXN00775,10-05-2023,CUST2018,Enterprise,South,USA,Electronics,Laptop,3,40.95,122.85,107.38,15.47,Wallet,Overdue,9.19,9.55,12.71,Frank
+TXN00776,12-04-2023,CUST1107,Consumer,North,UK,Office Supplies,Notebook,11,364.55,4010.05,3375.62,634.43,Wallet,Pending,13.28,10.55,492.13,Bob
+TXN00777,02-02-2023,CUST1043,Consumer,West,India,Electronics,Smartwatch,17,344.54,5857.18,4745.65,1111.53,Wallet,Paid,18.85,15.82,759.31,Charlie
+TXN00778,01-05-2023,CUST6040,Enterprise,West,Germany,Furniture,Desk,11,96.28,1059.08,871.62,187.46,Wallet,Paid,19.64,10.08,135.46,Alice
+TXN00779,12-02-2023,CUST5615,Consumer,North,UK,Office Supplies,Stapler,14,221.6,3102.4,1911.64,1190.76,Net Banking,Paid,2.99,6.35,1081.8,Charlie
+TXN00780,06-09-2023,CUST6633,Enterprise,North,Germany,Furniture,Chair,14,417.73,5848.22,4142.76,1705.46,Net Banking,Pending,6.55,7.73,1470.56,Frank
+TXN00781,21-01-2023,CUST3205,Enterprise,East,India,Furniture,Cabinet,1,22.89,22.89,15.53,7.36,Credit Card,Paid,18.15,16,5.06,Charlie
+TXN00782,23-02-2023,CUST5799,SMB,South,India,Furniture,Chair,9,146.5,1318.5,1096.3,222.2,UPI,Pending,17.16,9.02,167.47,Eve
+TXN00783,29-01-2023,CUST1814,Enterprise,East,India,Furniture,Cabinet,3,337.41,1012.23,879.37,132.86,Credit Card,Pending,12.55,9.63,105,Diana
+TXN00784,22-04-2023,CUST8635,SMB,South,India,Furniture,Chair,19,251.41,4776.79,3351.86,1424.93,UPI,Pending,13.73,15.94,1033.34,Frank
+TXN00785,14-01-2023,CUST3180,Consumer,West,USA,Electronics,Tablet,16,52.67,842.72,514.86,327.86,Wallet,Paid,5.89,6.12,289.67,Diana
+TXN00786,07-01-2023,CUST2183,Enterprise,East,UK,Electronics,Smartwatch,6,72.32,433.92,269.77,164.15,UPI,Overdue,7.71,11.95,133.39,Alice
+TXN00787,05-11-2023,CUST5791,SMB,South,USA,Furniture,Cabinet,13,30.52,396.76,297.94,98.82,Cash,Pending,15.67,9.58,75.35,Eve
+TXN00788,22-12-2023,CUST1124,Consumer,South,Germany,Furniture,Chair,19,260.89,4956.91,4449.68,507.23,Cash,Pending,18.4,11.11,367.92,Alice
+TXN00789,22-09-2023,CUST7189,Enterprise,East,India,Office Supplies,Stapler,14,314.79,4407.06,3312.89,1094.17,UPI,Pending,17.22,13,788.01,Frank
+TXN00790,14-01-2023,CUST1839,SMB,West,India,Electronics,Tablet,18,459.38,8268.84,5293.65,2975.19,UPI,Paid,18.34,12.28,2131.19,Charlie
+TXN00791,11-11-2023,CUST7446,SMB,East,India,Furniture,Chair,13,227.03,2951.39,1801.09,1150.3,Wallet,Pending,0.15,5.79,1082.07,Alice
+TXN00792,17-09-2023,CUST5919,Enterprise,West,USA,Furniture,Cabinet,12,14.75,177,113.64,63.36,Credit Card,Pending,18.84,11.85,45.33,Diana
+TXN00793,21-05-2023,CUST2786,Enterprise,West,USA,Office Supplies,Envelope,14,322.62,4516.68,3561.93,954.75,Credit Card,Pending,19.73,14.52,655.1,Frank
+TXN00794,14-05-2023,CUST5861,SMB,North,India,Electronics,Smartwatch,12,227.45,2729.4,2105.07,624.33,Credit Card,Overdue,16.78,13.49,449.48,Alice
+TXN00795,15-06-2023,CUST1938,Consumer,South,UK,Furniture,Table,11,202.92,2232.12,1491.56,740.56,UPI,Pending,13.35,12.92,558.79,Frank
+TXN00796,29-06-2023,CUST5135,Enterprise,North,Germany,Electronics,Laptop,12,236.56,2838.72,2035.42,803.3,Net Banking,Pending,18.59,8.94,595.5,Charlie
+TXN00797,27-03-2023,CUST7227,Consumer,West,USA,Electronics,Tablet,2,286.76,573.52,402.47,171.05,Wallet,Pending,12.9,16.07,125.04,Bob
+TXN00798,09-12-2023,CUST7645,Enterprise,East,UK,Office Supplies,Pen,11,15.71,172.81,132.55,40.26,Cash,Paid,11.84,14.57,30.32,Frank
+TXN00799,30-05-2023,CUST3922,SMB,North,Germany,Electronics,Tablet,1,203.05,203.05,137.99,65.06,Credit Card,Paid,13.88,13.39,48.53,Eve
+TXN00800,15-05-2023,CUST6531,Consumer,East,India,Electronics,Smartwatch,16,233.25,3732,2924.29,807.71,Wallet,Overdue,7.52,17.25,618.12,Bob
+TXN00801,30-09-2023,CUST8074,Consumer,North,UK,Electronics,Smartwatch,16,57.33,917.28,812.28,105,Cash,Paid,7.48,12.32,85.18,Eve
+TXN00802,20-03-2023,CUST5555,Consumer,North,India,Office Supplies,Notebook,6,176.88,1061.28,732.65,328.63,Wallet,Paid,9.96,12.53,258.82,Frank
+TXN00803,25-07-2023,CUST4216,Consumer,East,India,Electronics,Smartphone,14,46.38,649.32,409.81,239.51,Credit Card,Pending,0.78,13.57,205.39,Charlie
+TXN00804,20-02-2023,CUST2499,SMB,West,Germany,Office Supplies,Notebook,2,286.51,573.02,363.5,209.52,Cash,Overdue,6.96,14.23,167.2,Frank
+TXN00805,19-01-2023,CUST6651,Corporate,North,USA,Furniture,Chair,13,320.71,4169.23,3733.1,436.13,Cash,Pending,8.5,10.42,357.48,Alice
+TXN00806,06-11-2023,CUST2885,Enterprise,West,USA,Furniture,Desk,10,160.78,1607.8,1018.51,589.29,Credit Card,Paid,17.18,7.97,449.15,Frank
+TXN00807,15-02-2023,CUST5694,SMB,East,UK,Electronics,Smartwatch,16,257.15,4114.4,3041.77,1072.63,UPI,Pending,10.1,5.4,912.22,Alice
+TXN00808,17-10-2023,CUST9400,SMB,North,India,Office Supplies,Notebook,19,191.3,3634.7,2988.57,646.13,Wallet,Overdue,0.9,17.13,530.63,Eve
+TXN00809,09-12-2023,CUST3655,Consumer,South,UK,Electronics,Tablet,13,77.73,1010.49,727.26,283.23,Cash,Overdue,12.24,10.63,222.14,Bob
+TXN00810,04-10-2023,CUST4465,Enterprise,West,UK,Electronics,Smartphone,4,388.07,1552.28,1174.78,377.5,Net Banking,Overdue,14.32,6.76,301.58,Bob
+TXN00811,01-06-2023,CUST1400,Consumer,North,USA,Electronics,Smartphone,13,140.15,1821.95,1478.16,343.79,Wallet,Overdue,4.78,5.54,309.22,Charlie
+TXN00812,31-10-2023,CUST3903,Corporate,West,UK,Office Supplies,Envelope,12,132.78,1593.36,1146.13,447.23,Credit Card,Overdue,17.9,10.11,330.05,Eve
+TXN00813,24-09-2023,CUST6487,SMB,South,Germany,Office Supplies,Envelope,17,129.86,2207.62,1818.72,388.9,Wallet,Pending,15.53,12.18,288.49,Bob
+TXN00814,02-07-2023,CUST6423,Consumer,East,USA,Furniture,Table,10,481.2,4812,3625.55,1186.45,Net Banking,Overdue,10.16,5.82,1003.87,Bob
+TXN00815,18-11-2023,CUST8142,Consumer,South,Germany,Furniture,Table,1,324.02,324.02,224.58,99.44,Cash,Pending,4.21,9.14,86.55,Diana
+TXN00816,20-10-2023,CUST5370,Corporate,West,India,Office Supplies,Pen,10,428.43,4284.3,2791.9,1492.4,Credit Card,Paid,5.71,8.52,1287.29,Eve
+TXN00817,24-01-2023,CUST7683,Corporate,East,India,Electronics,Smartwatch,3,277.56,832.68,647.07,185.61,Cash,Overdue,8.59,10.3,152.19,Frank
+TXN00818,03-06-2023,CUST9400,Enterprise,South,India,Furniture,Desk,19,121.17,2302.23,1596.02,706.21,Credit Card,Paid,16.64,11.11,523.29,Diana
+TXN00819,10-01-2023,CUST4355,Consumer,South,USA,Office Supplies,Envelope,12,273.51,3282.12,2119.96,1162.16,Credit Card,Pending,18.91,10.76,840.99,Frank
+TXN00820,22-04-2023,CUST1717,SMB,North,India,Furniture,Table,3,346.61,1039.83,870.93,168.9,Wallet,Pending,18.18,17.25,114.36,Eve
+TXN00821,21-12-2023,CUST2482,Enterprise,South,Germany,Office Supplies,Stapler,6,424.81,2548.86,1626.81,922.05,UPI,Overdue,7.85,8.79,774.98,Diana
+TXN00822,01-07-2023,CUST9850,SMB,West,UK,Furniture,Desk,12,135.48,1625.76,1034.15,591.61,Net Banking,Overdue,15.15,7.91,462.27,Charlie
+TXN00823,17-04-2023,CUST6543,Corporate,West,UK,Office Supplies,Pen,12,174.02,2088.24,1688.65,399.59,Net Banking,Overdue,14.08,11.4,304.19,Bob
+TXN00824,08-06-2023,CUST6229,Consumer,North,USA,Electronics,Tablet,8,206.9,1655.2,1349.14,306.06,Wallet,Paid,15.42,9.25,234.92,Diana
+TXN00825,07-02-2023,CUST8762,SMB,North,Germany,Furniture,Desk,15,222.98,3344.7,2338.74,1005.96,Credit Card,Overdue,5.93,8.64,864.55,Bob
+TXN00826,14-01-2023,CUST2945,Enterprise,North,UK,Office Supplies,Envelope,14,362.54,5075.56,3557.2,1518.36,Wallet,Paid,0.47,6.04,1419.95,Eve
+TXN00827,07-02-2023,CUST1356,Enterprise,South,India,Furniture,Chair,4,325.4,1301.6,1018.88,282.72,UPI,Overdue,4.43,11.66,238.69,Frank
+TXN00828,12-09-2023,CUST1465,Consumer,North,Germany,Office Supplies,Notebook,5,439.1,2195.5,1845.15,350.35,Wallet,Paid,5.3,11.44,293.83,Charlie
+TXN00829,13-03-2023,CUST7391,Consumer,South,Germany,Furniture,Table,12,441.53,5298.36,3810.44,1487.92,Wallet,Paid,7,14.21,1187.13,Alice
+TXN00830,25-10-2023,CUST9884,SMB,West,UK,Electronics,Smartwatch,13,365.44,4750.72,3149.24,1601.48,UPI,Paid,8.57,7.37,1356.32,Alice
+TXN00831,11-03-2023,CUST5210,SMB,South,USA,Furniture,Desk,15,350.88,5263.2,4367.06,896.14,Net Banking,Overdue,14.33,10.02,690.8,Eve
+TXN00832,09-08-2023,CUST9031,Enterprise,North,USA,Furniture,Table,14,178.49,2498.86,2019.49,479.37,Net Banking,Paid,9.44,9.98,390.79,Charlie
+TXN00833,10-04-2023,CUST2152,Consumer,North,USA,Office Supplies,Envelope,11,180.39,1984.29,1712.3,271.99,Credit Card,Pending,1.56,15.25,226.92,Diana
+TXN00834,06-07-2023,CUST5971,Corporate,West,USA,Electronics,Laptop,7,416.82,2917.74,2117.62,800.12,Wallet,Overdue,16.05,15.52,567.45,Eve
+TXN00835,16-04-2023,CUST4759,SMB,West,USA,Office Supplies,Envelope,13,391.21,5085.73,3803.66,1282.07,Wallet,Overdue,13.08,16.99,925.04,Eve
+TXN00836,22-12-2023,CUST1830,Consumer,East,UK,Electronics,Tablet,7,194.21,1359.47,1033.83,325.64,Wallet,Overdue,18.25,8.46,243.69,Bob
+TXN00837,30-08-2023,CUST8380,Consumer,South,India,Office Supplies,Stapler,7,13.97,97.79,58.95,38.84,Credit Card,Overdue,0.45,13.93,33.28,Charlie
+TXN00838,16-09-2023,CUST1702,Consumer,East,USA,Electronics,Laptop,17,272.05,4624.85,3050.78,1574.07,Wallet,Paid,14.03,5.68,1276.36,Alice
+TXN00839,15-05-2023,CUST7412,SMB,South,Germany,Furniture,Table,6,263.56,1581.36,1387.34,194.02,UPI,Overdue,7.5,17.79,147.54,Alice
+TXN00840,12-11-2023,CUST5666,Consumer,West,Germany,Furniture,Desk,2,143.93,287.86,252.57,35.29,Net Banking,Paid,13.23,17.99,25.11,Eve
+TXN00841,08-12-2023,CUST6924,Enterprise,West,Germany,Furniture,Table,16,233.59,3737.44,2675.05,1062.39,Wallet,Paid,0.89,17.62,867.41,Bob
+TXN00842,30-08-2023,CUST7324,Corporate,West,India,Furniture,Table,16,102.58,1641.28,1407.94,233.34,Wallet,Pending,7.6,16.33,180.4,Alice
+TXN00843,16-10-2023,CUST1497,Corporate,South,India,Electronics,Smartwatch,4,234.25,937,634.92,302.08,Net Banking,Paid,18.19,11.66,218.32,Frank
+TXN00844,13-03-2023,CUST6935,Corporate,North,UK,Furniture,Cabinet,16,326.3,5220.8,3753.27,1467.53,Credit Card,Paid,7.47,13.95,1168.48,Charlie
+TXN00845,01-06-2023,CUST9667,Corporate,North,India,Office Supplies,Notebook,15,12.76,191.4,125.54,65.86,Cash,Overdue,5.92,14.24,53.14,Eve
+TXN00846,06-01-2023,CUST4291,SMB,South,India,Electronics,Tablet,6,219.57,1317.42,1168.3,149.12,Cash,Paid,1.9,17.36,120.89,Frank
+TXN00847,12-01-2023,CUST4280,Consumer,South,USA,Office Supplies,Stapler,14,308.41,4317.74,2963.97,1353.77,Cash,Overdue,19.17,6.85,1019.3,Bob
+TXN00848,28-07-2023,CUST3256,Consumer,East,Germany,Furniture,Chair,16,145.28,2324.48,1546.32,778.16,Wallet,Pending,9.81,17.56,578.58,Charlie
+TXN00849,22-02-2023,CUST2753,Enterprise,North,Germany,Furniture,Chair,2,48.35,96.7,85.1,11.6,Cash,Paid,16.89,10.44,8.63,Charlie
+TXN00850,16-03-2023,CUST1328,Corporate,East,India,Office Supplies,Envelope,3,43.92,131.76,87.37,44.39,Wallet,Pending,6.68,6.4,38.77,Frank
+TXN00851,16-04-2023,CUST9722,SMB,North,UK,Office Supplies,Notebook,18,322.37,5802.66,4604.89,1197.77,Cash,Paid,2.14,11.56,1036.64,Eve
+TXN00852,07-12-2023,CUST5409,SMB,West,Germany,Electronics,Tablet,12,271.67,3260.04,2326.85,933.19,Wallet,Pending,12.42,16.58,681.78,Alice
+TXN00853,06-07-2023,CUST4342,Corporate,North,UK,Office Supplies,Notebook,1,35.15,35.15,25.1,10.05,UPI,Pending,3.15,8.28,8.93,Charlie
+TXN00854,05-07-2023,CUST2620,Enterprise,South,UK,Electronics,Tablet,13,472.46,6141.98,5167.01,974.97,Net Banking,Pending,9.1,14.97,753.58,Eve
+TXN00855,15-03-2023,CUST7721,Enterprise,South,Germany,Furniture,Chair,6,138.83,832.98,593.62,239.36,UPI,Paid,6.86,8.14,204.79,Eve
+TXN00856,17-03-2023,CUST2032,Enterprise,East,Germany,Electronics,Laptop,2,250.21,500.42,354.04,146.38,UPI,Overdue,4.88,6.98,129.52,Alice
+TXN00857,14-02-2023,CUST7487,Consumer,West,UK,Office Supplies,Stapler,1,426.63,426.63,346.39,80.24,UPI,Paid,18.43,10.5,58.58,Frank
+TXN00858,25-04-2023,CUST6807,Consumer,North,India,Office Supplies,Envelope,3,403.45,1210.35,881.3,329.05,Credit Card,Overdue,19.89,17.44,217.63,Eve
+TXN00859,18-11-2023,CUST1974,Corporate,East,India,Office Supplies,Notebook,3,402.4,1207.2,1056.88,150.32,UPI,Overdue,16.06,15.29,106.89,Alice
+TXN00860,23-10-2023,CUST1961,Enterprise,East,USA,Furniture,Chair,3,270.07,810.21,629.49,180.72,Cash,Paid,5.75,7.1,158.24,Frank
+TXN00861,25-06-2023,CUST9142,Consumer,West,USA,Office Supplies,Notebook,7,324.42,2270.94,1919.35,351.59,Cash,Paid,5.1,8.41,305.6,Alice
+TXN00862,04-08-2023,CUST7101,Consumer,South,USA,Electronics,Smartwatch,1,356.05,356.05,297.23,58.82,Net Banking,Pending,13.96,10.04,45.53,Bob
+TXN00863,21-01-2023,CUST2399,Corporate,East,Germany,Furniture,Cabinet,7,243.48,1704.36,1189.15,515.21,Cash,Paid,1.49,16.89,421.81,Diana
+TXN00864,13-01-2023,CUST6122,Corporate,South,USA,Furniture,Cabinet,3,14.93,44.79,30.57,14.22,Net Banking,Pending,13.2,9.15,11.21,Frank
+TXN00865,01-08-2023,CUST5098,SMB,West,Germany,Office Supplies,Stapler,1,406.43,406.43,339.05,67.38,Cash,Overdue,18.23,11.53,48.74,Frank
+TXN00866,28-11-2023,CUST3057,Enterprise,North,USA,Furniture,Table,9,327.36,2946.24,2140.52,805.72,UPI,Paid,9.58,5.23,690.43,Charlie
+TXN00867,05-02-2023,CUST4427,Consumer,East,Germany,Furniture,Chair,10,359.9,3599,2953.99,645.01,Cash,Pending,6.74,12.21,528.09,Bob
+TXN00868,19-09-2023,CUST8311,Enterprise,West,Germany,Office Supplies,Stapler,12,163.65,1963.8,1672.39,291.41,Net Banking,Pending,14.53,11.63,220.1,Alice
+TXN00869,12-09-2023,CUST6506,Corporate,East,Germany,Furniture,Desk,12,427.43,5129.16,4130.04,999.12,UPI,Pending,13.41,13.35,749.64,Alice
+TXN00870,18-07-2023,CUST5427,Consumer,South,Germany,Furniture,Cabinet,12,291.85,3502.2,3136.5,365.7,Net Banking,Pending,1.59,5.91,338.62,Alice
+TXN00871,06-09-2023,CUST8092,Consumer,East,UK,Electronics,Smartwatch,9,368.83,3319.47,2345.61,973.86,Cash,Overdue,3.61,14.96,798.27,Charlie
+TXN00872,17-10-2023,CUST7968,Consumer,East,Germany,Office Supplies,Stapler,18,273.39,4921.02,4421.77,499.25,Cash,Overdue,2.13,16.78,406.63,Alice
+TXN00873,10-11-2023,CUST8276,Consumer,West,USA,Electronics,Smartwatch,8,256.04,2048.32,1241.29,807.03,Credit Card,Paid,11.69,5.5,673.49,Alice
+TXN00874,30-01-2023,CUST4667,Corporate,West,India,Electronics,Smartphone,3,465.87,1397.61,1167.65,229.96,Wallet,Pending,13.52,12.28,174.45,Bob
+TXN00875,15-05-2023,CUST8401,Consumer,West,USA,Office Supplies,Pen,4,334.08,1336.32,814.65,521.67,Net Banking,Pending,17.56,14.94,365.81,Alice
+TXN00876,08-03-2023,CUST1089,Enterprise,South,Germany,Office Supplies,Envelope,10,432.8,4328,3214.08,1113.92,Net Banking,Paid,15.83,11.18,832.76,Diana
+TXN00877,16-01-2023,CUST8041,Enterprise,East,UK,Electronics,Smartphone,10,459.05,4590.5,2823.19,1767.31,Cash,Paid,15.78,9.66,1344.65,Charlie
+TXN00878,20-03-2023,CUST8865,Corporate,West,USA,Electronics,Tablet,12,397.09,4765.08,4024.41,740.67,Credit Card,Overdue,11.82,11.55,577.69,Alice
+TXN00879,08-12-2023,CUST5747,SMB,South,UK,Office Supplies,Notebook,14,246.82,3455.48,2421.57,1033.91,Cash,Paid,7.33,12.27,840.56,Frank
+TXN00880,01-09-2023,CUST3521,Corporate,East,India,Electronics,Laptop,5,106.77,533.85,466.18,67.67,Net Banking,Pending,10.34,8.42,55.56,Frank
+TXN00881,13-07-2023,CUST7139,Consumer,East,India,Furniture,Cabinet,1,369.86,369.86,285.67,84.19,UPI,Pending,7.31,17.17,64.64,Charlie
+TXN00882,21-03-2023,CUST7617,SMB,West,UK,Office Supplies,Envelope,16,361.35,5781.6,3615.13,2166.47,UPI,Overdue,14.38,14.48,1586.34,Eve
+TXN00883,09-08-2023,CUST4976,Corporate,West,India,Electronics,Smartphone,4,213.01,852.04,632.27,219.77,Wallet,Paid,18.6,9.47,161.95,Charlie
+TXN00884,07-09-2023,CUST5664,Corporate,West,Germany,Furniture,Desk,17,72.54,1233.18,1018.94,214.24,Credit Card,Pending,18.77,6.59,162.56,Alice
+TXN00885,09-09-2023,CUST5090,SMB,South,Germany,Electronics,Smartphone,17,306.42,5209.14,4085.15,1123.99,UPI,Overdue,1.84,10.79,984.26,Alice
+TXN00886,10-02-2023,CUST8727,SMB,West,Germany,Electronics,Smartphone,7,121.45,850.15,510.89,339.26,UPI,Pending,12.4,6.08,279.12,Eve
+TXN00887,19-03-2023,CUST2884,Enterprise,West,Germany,Electronics,Smartwatch,15,219.43,3291.45,2107.97,1183.48,UPI,Pending,8.8,11.66,953.48,Bob
+TXN00888,28-06-2023,CUST8017,Enterprise,West,Germany,Office Supplies,Notebook,10,380.79,3807.9,3046.59,761.31,Wallet,Overdue,11.76,12.42,588.34,Frank
+TXN00889,26-11-2023,CUST9983,Corporate,West,Germany,Electronics,Smartphone,18,63.72,1146.96,946.11,200.85,Cash,Pending,1.33,17.69,163.12,Bob
+TXN00890,15-01-2023,CUST2254,Consumer,North,UK,Furniture,Cabinet,2,416.79,833.58,737.87,95.71,Net Banking,Overdue,6.24,16.83,74.63,Charlie
+TXN00891,25-06-2023,CUST9866,Enterprise,East,USA,Office Supplies,Envelope,14,49.02,686.28,531.89,154.39,Credit Card,Pending,9.7,16.78,116.02,Alice
+TXN00892,14-01-2023,CUST9120,Corporate,North,India,Electronics,Smartwatch,7,193.08,1351.56,945.92,405.64,Cash,Pending,15.02,17.13,285.66,Frank
+TXN00893,25-11-2023,CUST1613,Consumer,East,Germany,Electronics,Tablet,4,302.98,1211.92,905.27,306.65,UPI,Overdue,12.49,10.42,240.39,Frank
+TXN00894,02-09-2023,CUST1020,Corporate,South,USA,Furniture,Cabinet,8,468.81,3750.48,2915.92,834.56,UPI,Overdue,3.04,16.86,672.76,Diana
+TXN00895,07-08-2023,CUST3453,Enterprise,North,India,Electronics,Tablet,2,448.6,897.2,715.76,181.44,Wallet,Overdue,17.87,8.79,135.92,Frank
+TXN00896,25-08-2023,CUST3853,Consumer,North,Germany,Electronics,Tablet,14,283.49,3968.86,3291.09,677.77,Net Banking,Pending,4.64,5.01,613.94,Diana
+TXN00897,03-11-2023,CUST4075,Consumer,West,India,Office Supplies,Pen,5,260.9,1304.5,836.28,468.22,UPI,Paid,3.75,15.68,380,Charlie
+TXN00898,11-12-2023,CUST4835,SMB,North,USA,Office Supplies,Stapler,13,330.38,4294.94,3454.69,840.25,Cash,Pending,18,15.64,581.24,Eve
+TXN00899,14-06-2023,CUST1309,Corporate,South,Germany,Furniture,Cabinet,7,109.3,765.1,560.55,204.55,Net Banking,Overdue,19.57,12.65,143.71,Alice
+TXN00900,12-11-2023,CUST1974,Enterprise,East,UK,Furniture,Table,14,18.29,256.06,201.11,54.95,Wallet,Overdue,2.16,13.45,46.53,Diana
+TXN00901,15-10-2023,CUST4195,Enterprise,North,UK,Furniture,Desk,1,213.97,213.97,145.42,68.55,Credit Card,Paid,5.38,11.92,57.13,Bob
+TXN00902,24-11-2023,CUST4980,SMB,North,USA,Furniture,Desk,15,137.99,2069.85,1559.78,510.07,Net Banking,Pending,3.35,8.42,451.47,Charlie
+TXN00903,10-08-2023,CUST7998,SMB,East,India,Furniture,Table,7,337.79,2364.53,1948.62,415.91,Net Banking,Paid,15.09,5.27,334.54,Alice
+TXN00904,22-10-2023,CUST1362,SMB,East,India,Furniture,Desk,2,424.92,849.84,663.06,186.78,Wallet,Overdue,4.02,6.4,167.8,Diana
+TXN00905,10-02-2023,CUST2507,Enterprise,West,India,Furniture,Desk,14,287.91,4030.74,3087.66,943.08,UPI,Paid,9.39,17.02,709.08,Diana
+TXN00906,15-12-2023,CUST6051,Corporate,East,Germany,Electronics,Smartwatch,4,245.32,981.28,641,340.28,Cash,Pending,9.89,11.37,271.76,Diana
+TXN00907,09-09-2023,CUST8055,SMB,North,India,Electronics,Tablet,7,415.75,2910.25,2105.48,804.77,Net Banking,Overdue,13.49,10.26,624.78,Bob
+TXN00908,05-03-2023,CUST2031,Corporate,North,USA,Office Supplies,Pen,9,243.05,2187.45,1590.97,596.48,Net Banking,Paid,10.84,13.97,457.53,Charlie
+TXN00909,14-04-2023,CUST2829,Enterprise,South,UK,Office Supplies,Notebook,12,132.72,1592.64,1381.32,211.32,Wallet,Overdue,16.98,16.37,146.72,Alice
+TXN00910,27-12-2023,CUST2548,Corporate,North,Germany,Electronics,Smartwatch,18,445.43,8017.74,5356.41,2661.33,Net Banking,Paid,19.72,13.67,1844.45,Charlie
+TXN00911,02-11-2023,CUST4506,SMB,East,Germany,Office Supplies,Notebook,16,88.22,1411.52,933.8,477.72,Net Banking,Overdue,14.57,11.22,362.33,Diana
+TXN00912,18-02-2023,CUST6422,Enterprise,East,USA,Furniture,Chair,6,256.13,1536.78,998.74,538.04,Cash,Pending,5.83,8.68,462.69,Eve
+TXN00913,22-06-2023,CUST4925,Consumer,North,USA,Electronics,Smartphone,18,104.93,1888.74,1281.56,607.18,Wallet,Paid,6.61,16.19,475.24,Charlie
+TXN00914,15-08-2023,CUST5860,Corporate,West,India,Electronics,Tablet,7,277.59,1943.13,1290.63,652.5,Wallet,Overdue,6.36,8.47,559.25,Alice
+TXN00915,21-07-2023,CUST5250,Consumer,North,Germany,Furniture,Table,1,463.81,463.81,388.63,75.18,UPI,Paid,0.24,12.64,65.52,Frank
+TXN00916,26-08-2023,CUST7858,SMB,East,India,Electronics,Tablet,16,337.85,5405.6,4771.53,634.07,Wallet,Overdue,19.09,16.98,425.91,Bob
+TXN00917,07-09-2023,CUST1395,Corporate,South,Germany,Office Supplies,Notebook,19,489.84,9306.96,5831.65,3475.31,Net Banking,Pending,11.69,5.63,2896.26,Eve
+TXN00918,01-01-2023,CUST9539,Enterprise,South,USA,Office Supplies,Stapler,17,376.93,6407.81,5127.3,1280.51,Credit Card,Paid,14.26,7.13,1019.63,Diana
+TXN00919,07-06-2023,CUST3646,SMB,East,USA,Office Supplies,Pen,12,183.47,2201.64,1863.19,338.45,Wallet,Paid,7.18,5.59,296.59,Charlie
+TXN00920,07-10-2023,CUST6058,Corporate,South,USA,Furniture,Chair,14,11.75,164.5,101,63.5,Cash,Pending,8.35,8.87,53.04,Alice
+TXN00921,01-08-2023,CUST2583,Consumer,North,Germany,Office Supplies,Envelope,2,281.8,563.6,351.74,211.86,Credit Card,Overdue,8.46,15.41,164.05,Frank
+TXN00922,19-03-2023,CUST5431,Consumer,South,USA,Office Supplies,Notebook,1,124.04,124.04,92.71,31.33,Cash,Pending,14.24,12.54,23.5,Frank
+TXN00923,05-12-2023,CUST9302,Enterprise,East,India,Furniture,Table,6,392.46,2354.76,1615.47,739.29,UPI,Pending,19.37,10.92,531,Diana
+TXN00924,16-11-2023,CUST8664,Corporate,West,Germany,Furniture,Table,8,265.29,2122.32,1583.84,538.48,Wallet,Paid,13.78,6.39,434.61,Alice
+TXN00925,25-01-2023,CUST2125,Corporate,South,Germany,Furniture,Table,4,373.34,1493.36,1164.56,328.8,Net Banking,Overdue,15.55,9.98,249.96,Frank
+TXN00926,07-02-2023,CUST4465,Consumer,West,USA,Furniture,Desk,1,281.92,281.92,184.62,97.3,Wallet,Overdue,11.83,13.23,74.44,Bob
+TXN00927,06-06-2023,CUST9067,Corporate,East,Germany,Furniture,Chair,3,356.93,1070.79,724.14,346.65,Credit Card,Overdue,17.87,7.52,263.29,Frank
+TXN00928,07-12-2023,CUST9159,SMB,North,UK,Electronics,Smartphone,18,240.56,4330.08,3830.79,499.29,UPI,Pending,6.66,10.2,418.5,Alice
+TXN00929,07-02-2023,CUST3091,Consumer,West,UK,Office Supplies,Pen,2,203.75,407.5,344.48,63.02,Wallet,Pending,0.84,7.3,57.93,Alice
+TXN00930,24-06-2023,CUST4603,Consumer,North,India,Electronics,Laptop,15,324.95,4874.25,3708.77,1165.48,Net Banking,Pending,6.55,15.15,924.14,Frank
+TXN00931,09-08-2023,CUST5595,SMB,East,UK,Furniture,Desk,5,155.34,776.7,673.27,103.43,Credit Card,Pending,9.44,16.8,77.93,Frank
+TXN00932,26-01-2023,CUST5899,SMB,North,Germany,Furniture,Table,6,486.7,2920.2,1985.73,934.47,Net Banking,Overdue,7.89,13.8,741.96,Alice
+TXN00933,25-01-2023,CUST6265,Enterprise,East,UK,Electronics,Tablet,10,409.07,4090.7,3017.9,1072.8,Cash,Pending,7.41,5.26,941.06,Alice
+TXN00934,10-07-2023,CUST1932,Corporate,North,India,Office Supplies,Envelope,3,190.75,572.25,416.13,156.12,Credit Card,Overdue,1.04,10.67,138.01,Frank
+TXN00935,24-06-2023,CUST1301,Enterprise,North,UK,Furniture,Cabinet,17,170.1,2891.7,2167.67,724.03,Wallet,Paid,5.03,14.03,591.14,Eve
+TXN00936,20-06-2023,CUST9260,Corporate,North,UK,Furniture,Desk,10,409.13,4091.3,3109.72,981.58,UPI,Pending,0.51,15.36,826.57,Eve
+TXN00937,03-01-2023,CUST4546,SMB,South,Germany,Furniture,Chair,8,304.68,2437.44,2039.94,397.5,Wallet,Overdue,1.32,11.91,345.54,Diana
+TXN00938,25-11-2023,CUST3775,Consumer,North,USA,Office Supplies,Pen,16,42.93,686.88,464.29,222.59,Credit Card,Pending,3.34,14.08,184.86,Alice
+TXN00939,06-03-2023,CUST6700,Enterprise,North,Germany,Furniture,Desk,13,355.91,4626.83,3517.58,1109.25,Net Banking,Pending,1.79,6.65,1016.95,Frank
+TXN00940,09-04-2023,CUST6309,Enterprise,East,India,Furniture,Chair,6,376.71,2260.26,1870.68,389.58,UPI,Paid,11.94,10.56,306.84,Alice
+TXN00941,26-05-2023,CUST7584,SMB,North,Germany,Furniture,Desk,11,42.54,467.94,304.75,163.19,Credit Card,Paid,6.41,13.56,132.02,Eve
+TXN00942,23-01-2023,CUST2781,SMB,North,UK,Office Supplies,Notebook,19,292.1,5549.9,4301.26,1248.64,Wallet,Overdue,2.1,16.16,1024.88,Diana
+TXN00943,11-08-2023,CUST6267,Enterprise,East,UK,Furniture,Cabinet,6,265.36,1592.16,1431.62,160.54,Wallet,Paid,10.88,10.09,128.64,Frank
+TXN00944,29-09-2023,CUST3591,Corporate,South,USA,Office Supplies,Notebook,2,183.59,367.18,320.1,47.08,Net Banking,Pending,17.12,8.73,35.61,Alice
+TXN00945,12-03-2023,CUST3567,Consumer,South,India,Electronics,Smartphone,10,88.91,889.1,619.09,270.01,Net Banking,Overdue,2.79,15.1,222.84,Charlie
+TXN00946,23-12-2023,CUST2976,Consumer,South,India,Office Supplies,Notebook,4,54.62,218.48,162.15,56.33,Cash,Pending,4.17,13.6,46.64,Eve
+TXN00947,19-02-2023,CUST7094,Enterprise,South,UK,Electronics,Tablet,14,21.84,305.76,211.56,94.2,Cash,Overdue,15.04,6.82,74.57,Eve
+TXN00948,06-02-2023,CUST9283,Enterprise,North,Germany,Furniture,Chair,3,185.24,555.72,381.9,173.82,Wallet,Overdue,7.94,8.94,145.71,Frank
+TXN00949,02-08-2023,CUST6431,Corporate,East,Germany,Office Supplies,Pen,16,190.47,3047.52,2161.33,886.19,Wallet,Paid,8.88,14.82,687.83,Alice
+TXN00950,16-02-2023,CUST4392,Corporate,North,India,Electronics,Smartwatch,18,346.88,6243.84,4627.23,1616.61,Credit Card,Pending,19.67,10.1,1167.46,Charlie
+TXN00951,15-03-2023,CUST5846,Consumer,East,Germany,Electronics,Tablet,15,274.02,4110.3,3016.28,1094.02,UPI,Pending,9.41,5.62,935.37,Eve
+TXN00952,25-07-2023,CUST3817,Enterprise,North,UK,Electronics,Tablet,16,136.93,2190.88,1360.38,830.5,Credit Card,Overdue,14.55,5.96,667.37,Charlie
+TXN00953,20-09-2023,CUST9283,SMB,East,Germany,Office Supplies,Envelope,7,302.92,2120.44,1281.72,838.72,Cash,Overdue,2.86,17.02,676.07,Frank
+TXN00954,08-04-2023,CUST9967,Consumer,North,USA,Furniture,Desk,10,72.86,728.6,486.26,242.34,Cash,Paid,1.43,5.42,225.93,Diana
+TXN00955,05-08-2023,CUST1473,Enterprise,South,UK,Electronics,Smartphone,7,41.85,292.95,208.19,84.76,Net Banking,Overdue,6.53,14.46,67.77,Bob
+TXN00956,13-12-2023,CUST4560,Corporate,South,USA,Electronics,Laptop,14,183.04,2562.56,2268,294.56,Wallet,Overdue,7.32,17.34,225.66,Bob
+TXN00957,12-07-2023,CUST4260,Enterprise,South,USA,Office Supplies,Envelope,2,91.11,182.22,149.31,32.91,Credit Card,Overdue,19.62,12.19,23.23,Eve
+TXN00958,20-12-2023,CUST6930,Corporate,North,India,Office Supplies,Pen,11,81.1,892.1,666.95,225.15,Cash,Pending,12.23,5.58,186.59,Eve
+TXN00959,14-04-2023,CUST9530,Corporate,West,Germany,Office Supplies,Envelope,9,262.59,2363.31,1603.38,759.93,UPI,Pending,11.16,13.47,584.18,Alice
+TXN00960,13-10-2023,CUST1793,Consumer,North,USA,Office Supplies,Pen,17,101.16,1719.72,1513.97,205.75,Credit Card,Paid,5.04,8.39,178.99,Alice
+TXN00961,12-07-2023,CUST1548,Consumer,South,USA,Furniture,Cabinet,16,352.17,5634.72,4113.96,1520.76,Wallet,Overdue,4.28,5.08,1381.72,Eve
+TXN00962,29-09-2023,CUST6651,Consumer,West,USA,Furniture,Cabinet,2,256.18,512.36,448.36,64,Net Banking,Overdue,14.45,6.11,51.41,Frank
+TXN00963,14-03-2023,CUST8061,Consumer,East,India,Electronics,Smartwatch,5,356.56,1782.8,1428.91,353.89,UPI,Paid,13.43,8.28,281,Diana
+TXN00964,29-10-2023,CUST6892,Consumer,South,USA,Electronics,Laptop,16,474.11,7585.76,5905.97,1679.79,UPI,Overdue,5.83,9.84,1426.2,Frank
+TXN00965,19-11-2023,CUST7026,Corporate,North,UK,Office Supplies,Notebook,5,355.75,1778.75,1375.33,403.42,Net Banking,Overdue,14.01,7.62,320.47,Diana
+TXN00966,16-04-2023,CUST7113,Enterprise,South,UK,Furniture,Chair,16,331.03,5296.48,3983.81,1312.67,Credit Card,Overdue,3.68,6.38,1183.7,Charlie
+TXN00967,27-09-2023,CUST3562,Consumer,North,USA,Furniture,Desk,14,31.45,440.3,339.07,101.23,Cash,Overdue,9.5,16.11,76.85,Alice
+TXN00968,18-12-2023,CUST2650,Consumer,South,USA,Office Supplies,Stapler,18,340.77,6133.86,5482.02,651.84,UPI,Paid,7.5,13.14,523.72,Eve
+TXN00969,11-07-2023,CUST6834,Consumer,North,USA,Office Supplies,Stapler,2,235.57,471.14,299.08,172.06,Credit Card,Pending,1.72,17.6,139.34,Charlie
+TXN00970,19-03-2023,CUST3105,Corporate,West,UK,Electronics,Tablet,12,374.73,4496.76,3695.78,800.98,Net Banking,Overdue,16.67,10.27,598.91,Frank
+TXN00971,12-05-2023,CUST7642,Corporate,North,UK,Furniture,Desk,3,350.33,1050.99,648.09,402.9,Wallet,Paid,16.38,6.04,316.56,Eve
+TXN00972,07-06-2023,CUST8777,Corporate,East,USA,Electronics,Smartphone,17,252.36,4290.12,2743.94,1546.18,Credit Card,Overdue,10.29,12.65,1211.61,Diana
+TXN00973,26-04-2023,CUST6605,Enterprise,North,India,Office Supplies,Envelope,5,85.27,426.35,278.84,147.51,Cash,Pending,16.14,8.82,112.79,Frank
+TXN00974,25-04-2023,CUST4307,Corporate,South,UK,Furniture,Desk,14,237.91,3330.74,2968.67,362.07,UPI,Overdue,0.51,14.75,307.09,Alice
+TXN00975,04-02-2023,CUST7373,SMB,East,Germany,Electronics,Smartwatch,3,112.36,337.08,280.63,56.45,Cash,Overdue,1.12,12.69,48.73,Bob
+TXN00976,05-02-2023,CUST5511,Consumer,South,India,Furniture,Chair,11,483.34,5316.74,4644.34,672.4,UPI,Overdue,16.52,9.57,507.6,Bob
+TXN00977,23-08-2023,CUST6450,SMB,West,USA,Electronics,Smartwatch,11,473.46,5208.06,4571.23,636.83,Cash,Pending,8.15,15.8,492.51,Bob
+TXN00978,18-01-2023,CUST3892,SMB,North,Germany,Furniture,Cabinet,11,446.81,4914.91,3193.53,1721.38,UPI,Pending,11.54,13.55,1316.4,Bob
+TXN00979,04-09-2023,CUST7992,Corporate,East,UK,Electronics,Smartwatch,4,372.67,1490.68,1094.81,395.87,Net Banking,Pending,11.39,14,301.67,Alice
+TXN00980,04-10-2023,CUST5927,Enterprise,North,USA,Furniture,Cabinet,8,453.99,3631.92,2321.59,1310.33,UPI,Paid,5.07,15.42,1052.09,Charlie
+TXN00981,13-12-2023,CUST1782,Enterprise,North,India,Office Supplies,Envelope,8,464.09,3712.72,3005.81,706.91,Net Banking,Overdue,11.28,11.93,552.35,Diana
+TXN00982,03-12-2023,CUST3686,SMB,East,UK,Office Supplies,Notebook,11,436.15,4797.65,3851.4,946.25,UPI,Paid,1.84,8.13,853.32,Frank
+TXN00983,27-06-2023,CUST9056,SMB,East,USA,Electronics,Tablet,10,25.22,252.2,219.07,33.13,Wallet,Paid,9.69,10.98,26.63,Bob
+TXN00984,20-11-2023,CUST5288,SMB,North,India,Furniture,Cabinet,19,249.75,4745.25,3118.98,1626.27,Net Banking,Paid,8.36,6.11,1399.26,Eve
+TXN00985,08-08-2023,CUST7106,Corporate,East,USA,Office Supplies,Pen,9,190.5,1714.5,1395.45,319.05,Wallet,Paid,7.73,10.28,264.12,Alice
+TXN00986,18-01-2023,CUST2500,Enterprise,North,India,Furniture,Desk,10,230.18,2301.8,1672.69,629.11,Cash,Pending,14.35,14.81,459.03,Alice
+TXN00987,14-12-2023,CUST6861,Consumer,South,UK,Electronics,Tablet,18,118.49,2132.82,1332.07,800.75,UPI,Overdue,11.04,9.65,643.61,Diana
+TXN00988,24-03-2023,CUST5833,Corporate,East,Germany,Furniture,Desk,19,144.18,2739.42,1751.58,987.84,Net Banking,Overdue,19.92,9.28,717.65,Frank
+TXN00989,03-07-2023,CUST3006,Corporate,West,India,Office Supplies,Notebook,19,230.69,4383.11,3480.2,902.91,Cash,Overdue,15.89,5.52,717.52,Frank
+TXN00990,23-05-2023,CUST8618,SMB,East,Germany,Furniture,Desk,5,368.36,1841.8,1651.73,190.07,Wallet,Pending,7.06,17.6,145.56,Charlie
+TXN00991,26-07-2023,CUST1578,SMB,East,Germany,Furniture,Table,1,264.53,264.53,195.76,68.77,Credit Card,Overdue,8.67,12.4,55.02,Eve
+TXN00992,01-06-2023,CUST8595,Consumer,West,Germany,Electronics,Smartphone,4,478.71,1914.84,1360.46,554.38,Cash,Overdue,0.36,14.39,472.9,Frank
+TXN00993,14-03-2023,CUST2099,Corporate,South,USA,Electronics,Laptop,2,151.19,302.38,210.82,91.56,Wallet,Paid,6.2,16.7,71.54,Bob
+TXN00994,28-03-2023,CUST6083,Consumer,South,Germany,Furniture,Chair,17,239.95,4079.15,2871.84,1207.31,Credit Card,Paid,3.24,14.61,997.52,Bob
+TXN00995,02-10-2023,CUST8983,Enterprise,East,India,Office Supplies,Stapler,18,334.73,6025.14,4829.94,1195.2,Wallet,Overdue,15.24,9.28,919.04,Frank
+TXN00996,22-05-2023,CUST2982,Consumer,North,UK,Office Supplies,Envelope,15,315.02,4725.3,3133.64,1591.66,Wallet,Pending,11.23,12.71,1233.33,Eve
+TXN00997,17-12-2023,CUST5362,Corporate,West,India,Electronics,Tablet,14,364.66,5105.24,4449.93,655.31,Cash,Overdue,11.68,13.73,499.3,Charlie
+TXN00998,07-06-2023,CUST1085,SMB,North,USA,Furniture,Table,12,182.3,2187.6,1353.82,833.78,Credit Card,Pending,11.38,14.61,630.94,Eve
+TXN00999,27-06-2023,CUST6143,SMB,South,Germany,Electronics,Smartphone,1,380.12,380.12,330.89,49.23,Net Banking,Paid,2.4,16.85,39.95,Frank
+TXN01000,03-10-2023,CUST2361,Corporate,East,India,Office Supplies,Pen,17,221.79,3770.43,3017.78,752.65,Net Banking,Paid,8.54,6.33,644.8,Frank
